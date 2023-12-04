@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
- "$basetexture" "entities/realistic_hook"
- "$vertexcolor" 1
- "$vertexalpha" 1
- "$translucent" 1
-}
