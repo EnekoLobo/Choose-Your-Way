@@ -1,0 +1,215 @@
+Thu Nov 16 06:49:05 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 16 06:49:06 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 16 06:50:58 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Thu Nov 16 06:50:58 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 16 06:51:08 2023	Aeads  (STEAM_0:0:63793651) spawned
+Thu Nov 16 06:51:18 2023	Minirito (STEAM_0:1:125413969) has joined the game
+Thu Nov 16 06:51:18 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 06:51:47 2023	Minirito Admin (STEAM_0:1:125413969) spawned
+Thu Nov 16 06:51:56 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) disconnected
+Thu Nov 16 06:52:48 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Thu Nov 16 06:52:48 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 06:53:27 2023	Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 06:55:28 2023	Aeads  (STEAM_0:0:63793651): 
+Thu Nov 16 06:56:44 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 06:56:56 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 06:57:15 2023	Luki (STEAM_0:1:447559192) has joined the game
+Thu Nov 16 06:57:15 2023	Comandante Simon (STEAM_0:1:447559192) spawned
+Thu Nov 16 06:57:48 2023	Darth Ma`k  (STEAM_0:0:63793651) spawned
+Thu Nov 16 06:57:55 2023	Darth Ma`k  (STEAM_0:0:63793651): 
+Thu Nov 16 06:58:01 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Thu Nov 16 06:58:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 16 06:58:58 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 06:59:01 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 06:59:54 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:00:18 2023	Neverlander  (STEAM_0:1:92548084) spawned
+Thu Nov 16 07:00:25 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:00:28 2023	Darth Ma`k (STEAM_0:0:63793651): !adc_admin
+Thu Nov 16 07:00:44 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:01:37 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:01:39 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 16 07:01:50 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:01:56 2023	Neverlander  (STEAM_0:1:92548084) spawned
+Thu Nov 16 07:01:59 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:02:21 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:02:42 2023	Neverlander  (STEAM_0:1:92548084): !brickscreditstore
+Thu Nov 16 07:02:45 2023	Darth Ma`k (STEAM_0:0:63793651): !brickscreditstore
+Thu Nov 16 07:04:48 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:06:30 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:06:30 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:06:49 2023	Luky Sylvasta was killed by Darth Ma`k with a weapon_lscs
+Thu Nov 16 07:06:59 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:07:04 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:07:56 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:09:05 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:09:07 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:09:17 2023	Darth Ma`k (STEAM_0:0:63793651): !warp
+Thu Nov 16 07:09:18 2023	Neverlander  (STEAM_0:1:92548084): !brickscreditstore
+Thu Nov 16 07:09:19 2023	Darth Ma`k (STEAM_0:0:63793651): !setwarp
+Thu Nov 16 07:09:22 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:09:32 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:09:32 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:10:11 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:10:31 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:10:31 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:10:34 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:11:01 2023	Neverlander  (STEAM_0:1:92548084): /name Gran Maestro Neverlander
+Thu Nov 16 07:11:04 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:11:08 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:11:22 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:11:40 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:12:03 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:12:09 2023	Neverlander  (STEAM_0:1:92548084): 
+Thu Nov 16 07:13:00 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:13:09 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:13:37 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 16 07:13:37 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 07:14:16 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:14:28 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:14:48 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:14:56 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 07:15:50 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:16:09 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:16:23 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:16:56 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:17:07 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:17:20 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:17:32 2023	Minirito Admin (STEAM_0:1:125413969) disconnected
+Thu Nov 16 07:18:48 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:19:38 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT millenium_falcon
+Thu Nov 16 07:20:22 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:20:31 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:20:41 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:20:48 2023	Violet Hextar (STEAM_0:0:635224977): habla por el juego un sec
+Thu Nov 16 07:21:09 2023	Violet Hextar (STEAM_0:0:635224977): Amor
+Thu Nov 16 07:21:11 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:21:24 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT tie_fighter
+Thu Nov 16 07:21:28 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:21:36 2023	Violet Hextar (STEAM_0:0:635224977): Habla por el juego
+Thu Nov 16 07:21:46 2023	Violet Hextar (STEAM_0:0:635224977): tipo con voz
+Thu Nov 16 07:22:11 2023	Violet Hextar (STEAM_0:0:635224977): David
+Thu Nov 16 07:24:46 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:25:48 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT tie_fighter
+Thu Nov 16 07:25:51 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT tie_interceptor
+Thu Nov 16 07:26:10 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:26:20 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:26:26 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:26:26 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:26:36 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:26:44 2023	Violet Hextar (STEAM_0:0:635224977): luky
+Thu Nov 16 07:26:50 2023	Violet Hextar (STEAM_0:0:635224977): habla por el juego
+Thu Nov 16 07:26:51 2023	Violet Hextar (STEAM_0:0:635224977): pls
+Thu Nov 16 07:27:22 2023	Darth Ma`k (STEAM_0:0:63793651) disconnected
+Thu Nov 16 07:27:35 2023	Violet Hextar (STEAM_0:0:635224977): luky
+Thu Nov 16 07:27:39 2023	Violet Hextar (STEAM_0:0:635224977): habla por el juego
+Thu Nov 16 07:27:40 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 07:27:45 2023	Violet Hextar (STEAM_0:0:635224977): A mi no me sale
+Thu Nov 16 07:27:48 2023	Violet Hextar (STEAM_0:0:635224977): wtf
+Thu Nov 16 07:27:52 2023	Straw Berry was killed by Luky Sylvasta with a weapon_lscs
+Thu Nov 16 07:27:54 2023	Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 07:27:54 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 07:28:04 2023	Violet Hextar (STEAM_0:0:635224977): lloro
+Thu Nov 16 07:28:06 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 16 07:28:06 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 16 07:28:08 2023	Violet Hextar (STEAM_0:0:635224977): no me ssale lo de hablar
+Thu Nov 16 07:28:13 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Thu Nov 16 07:28:26 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 16 07:28:47 2023	Straw Berry was killed by Luky Sylvasta with a rw_sw_z2
+Thu Nov 16 07:28:50 2023	Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 07:28:50 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 07:28:55 2023	Luky Sylvasta was killed by Straw Berry with a tfa_sw_repsnip
+Thu Nov 16 07:29:03 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Thu Nov 16 07:29:03 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Thu Nov 16 07:29:15 2023	Straw Berry was killed by Luky Sylvasta with a weapon_lscs
+Thu Nov 16 07:29:59 2023	Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 07:30:41 2023	Luky Sylvasta (STEAM_0:1:447559192) disconnected
+Thu Nov 16 07:31:58 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:34:45 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 16 07:34:45 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 07:38:44 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 07:39:00 2023	Violet Hextar (STEAM_0:0:635224977): !ac_menu
+Thu Nov 16 07:39:56 2023	Violet Hextar (STEAM_0:0:635224977): /pm nev mira disc
+Thu Nov 16 07:40:55 2023	Minirito (STEAM_0:1:125413969) has joined the game
+Thu Nov 16 07:40:55 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 07:41:27 2023	Violet Hextar (STEAM_0:0:635224977): /pm nev puedes pinerme lo de mi modelo?
+Thu Nov 16 07:41:31 2023	Violet Hextar (STEAM_0:0:635224977): /pm nev lo de ser hextar
+Thu Nov 16 07:41:41 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:41:49 2023	Guiorn Neverlander (STEAM_0:1:92548084): .!adc_admin
+Thu Nov 16 07:41:56 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:42:12 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:42:41 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 07:43:20 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 07:43:32 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 07:43:53 2023	Violet Hextar (STEAM_0:0:635224977): Soy igual de alta?
+Thu Nov 16 07:44:45 2023	Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 07:44:46 2023	Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 07:46:36 2023	Minirito Admin (STEAM_0:1:125413969) spawned
+Thu Nov 16 07:48:07 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:48:13 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:48:17 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:48:35 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:48:39 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:49:56 2023	Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 07:49:58 2023	Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 07:50:10 2023	Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 07:50:36 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:50:50 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 07:50:57 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 07:50:59 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 07:51:42 2023	Straw Berry was killed by Darth Ma`k with a weapon_lscs
+Thu Nov 16 07:51:52 2023	Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 07:51:52 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:52:43 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:52:45 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:52:50 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:52:51 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:53:03 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 07:53:21 2023	Darth Ma`k was killed by Himself with a suicide trick
+Thu Nov 16 07:53:21 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 07:53:46 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 16 07:58:41 2023	Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 07:58:41 2023	Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 08:00:33 2023	Guiorn Neverlander (STEAM_0:1:92548084) disconnected
+Thu Nov 16 08:00:39 2023	Minirito Admin (STEAM_0:1:125413969): !adminx
+Thu Nov 16 08:00:41 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:01:30 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 08:03:11 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:11 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:19 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:19 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:22 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:22 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:28 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:28 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 08:03:31 2023	Minirito Admin (STEAM_0:1:125413969) disconnected
+Thu Nov 16 08:38:23 2023	Straw Berry (STEAM_0:0:142640452) disconnected
+Thu Nov 16 08:43:10 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Thu Nov 16 08:43:10 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 16 08:43:48 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 16 08:45:00 2023	Darth Ma`k was killed by Entity [344][trigger_hurt] with a trigger_hurt
+Thu Nov 16 08:45:17 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 16 08:45:22 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 08:46:14 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 08:47:16 2023	Violet Hextar (STEAM_0:0:635224977): //se me oye bn?
+Thu Nov 16 08:48:59 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 08:49:03 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 08:49:06 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 16 08:52:39 2023	Minirito (STEAM_0:1:125413969) has joined the game
+Thu Nov 16 08:52:39 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 08:53:23 2023	Minirito Admin (STEAM_0:1:125413969) spawned
+Thu Nov 16 09:00:11 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Thu Nov 16 09:01:29 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 09:03:04 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 09:03:29 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 09:03:48 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 09:05:51 2023	Minirito Admin was killed by Himself with a suicide trick
+Thu Nov 16 09:05:53 2023	Minirito Admin (STEAM_0:1:125413969): /respawn
+Thu Nov 16 09:05:56 2023	Minirito Admin (STEAM_0:1:125413969) spawned
+Thu Nov 16 09:05:56 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 09:06:02 2023	Minirito Admin (STEAM_0:1:125413969): 
+Thu Nov 16 09:09:44 2023	Minirito Admin (STEAM_0:1:125413969) disconnected
+Thu Nov 16 09:10:00 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 09:15:53 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 09:16:10 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 09:28:45 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 16 09:36:27 2023	Guiorn Neverlander (STEAM_0:1:92548084) disconnected

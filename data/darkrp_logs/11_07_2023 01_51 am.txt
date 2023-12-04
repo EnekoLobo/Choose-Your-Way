@@ -1,0 +1,35 @@
+Tue Nov  7 01:51:05 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Tue Nov  7 01:51:05 2023	Droide SCM (STEAM_0:0:63793651) spawned
+Tue Nov  7 01:51:22 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 01:51:48 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 01:52:25 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Tue Nov  7 01:52:25 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 01:53:24 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 01:55:32 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Tue Nov  7 01:55:32 2023	Sgt Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov  7 01:55:58 2023	nasiporin (STEAM_0:0:1770861) has joined the game
+Tue Nov  7 01:55:58 2023	Alexander  Antares (STEAM_0:0:1770861) spawned
+Tue Nov  7 01:56:18 2023	Alexander  Antares (STEAM_0:0:1770861) spawned
+Tue Nov  7 01:56:54 2023	Samy (STEAM_0:0:146740106) has joined the game
+Tue Nov  7 01:56:54 2023	Samy (STEAM_0:0:146740106) spawned
+Tue Nov  7 01:57:34 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 01:57:46 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 01:58:43 2023	Sgt Straw Berry (STEAM_0:0:142640452) disconnected
+Tue Nov  7 01:58:52 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 01:59:37 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Tue Nov  7 01:59:37 2023	Sgt Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov  7 02:03:22 2023	Sgt Straw Berry (STEAM_0:0:142640452) disconnected
+Tue Nov  7 02:03:42 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT ix_perma_weapons
+Tue Nov  7 02:05:06 2023	SNAGEL (STEAM_0:1:535855462) has joined the game
+Tue Nov  7 02:05:06 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:05:10 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Tue Nov  7 02:05:10 2023	Sgt Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov  7 02:05:32 2023	Sgt Straw Berry (STEAM_0:0:142640452): 
+Tue Nov  7 02:05:34 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Snagel eres tu?
+Tue Nov  7 02:05:40 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT ix_perma_weapons
+Tue Nov  7 02:05:49 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT ix_perma_weapons
+Tue Nov  7 02:05:50 2023	Sgt Straw Berry (STEAM_0:0:142640452): 
+Tue Nov  7 02:05:57 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:05:58 2023	Sgt Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov  7 02:06:08 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:06:18 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT ix_perma_weapons

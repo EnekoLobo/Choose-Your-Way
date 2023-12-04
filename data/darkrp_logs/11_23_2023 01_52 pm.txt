@@ -1,0 +1,1315 @@
+Thu Nov 23 13:52:37 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 23 13:52:37 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 23 13:53:03 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 13:53:59 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_shiicho
+Thu Nov 23 13:55:14 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_niman
+Thu Nov 23 13:57:52 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_untrained
+Thu Nov 23 13:58:41 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_soresu
+Thu Nov 23 14:06:40 2023	Ylux02 (STEAM_0:1:571428465) has joined the game
+Thu Nov 23 14:06:40 2023	Ylux02 (STEAM_0:1:571428465) spawned
+Thu Nov 23 14:28:06 2023	Ylux02 (STEAM_0:1:571428465) disconnected
+Thu Nov 23 14:41:36 2023	Tiburex (STEAM_0:1:541478307) has joined the game
+Thu Nov 23 14:41:36 2023	Jaxon Stumber (STEAM_0:1:541478307) spawned
+Thu Nov 23 14:42:08 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 14:45:17 2023	Startrick17 (STEAM_0:0:159218877) has joined the game
+Thu Nov 23 14:45:17 2023	Nathaniel Lambert (STEAM_0:0:159218877) spawned
+Thu Nov 23 14:45:47 2023	Nathaniel Lambert (STEAM_0:0:159218877) spawned
+Thu Nov 23 14:46:01 2023	Nathaniel Lambert (STEAM_0:0:159218877) spawned
+Thu Nov 23 14:47:13 2023	Nathaniel Lambert (STEAM_0:0:159218877): 
+Thu Nov 23 14:47:13 2023	Nathaniel Lambert (STEAM_0:0:159218877): 
+Thu Nov 23 14:59:38 2023	Nathaniel Lambert (STEAM_0:0:159218877) spawned
+Thu Nov 23 14:59:55 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:00:14 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 23 15:00:14 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 23 15:02:34 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Thu Nov 23 15:03:13 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:03:19 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:03:26 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:04:40 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:04:41 2023	Sld Medic Hera  (STEAM_0:0:635224977) spawned
+Thu Nov 23 15:05:09 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:05:11 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 15:06:10 2023	Darth Ma`k (STEAM_0:0:63793651): !COMMANDS
+Thu Nov 23 15:06:29 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 15:07:25 2023	Sld Medic Hera  (STEAM_0:0:635224977) spawned
+Thu Nov 23 15:07:25 2023	Sld Medic Hera  (STEAM_0:0:635224977): 
+Thu Nov 23 15:07:48 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 15:07:52 2023	Sld Medic Hera  (STEAM_0:0:635224977): 
+Thu Nov 23 15:07:56 2023	Sld Medic Hera  (STEAM_0:0:635224977): 
+Thu Nov 23 15:10:50 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 15:12:07 2023	Tayson  (STEAM_0:1:541478307): /pm eneko ¿tengo que romperlo? me da penita XD
+Thu Nov 23 15:12:22 2023	Darth Ma`k (STEAM_0:0:63793651): /pm tayson Si
+Thu Nov 23 15:13:01 2023	Tayson  (STEAM_0:1:541478307): /pm eneko ¿me puedo mover?
+Thu Nov 23 15:15:26 2023	Darth Ma`k (STEAM_0:0:63793651): /pm tayson Si
+Thu Nov 23 15:15:31 2023	Sld Medic Hera  (STEAM_0:0:635224977): /rpdesc
+Thu Nov 23 15:19:54 2023	Storm (STEAM_0:0:562957255) has joined the game
+Thu Nov 23 15:19:54 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 15:20:53 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 15:21:02 2023	Lynx Talah (STEAM_0:0:562957255): /rpdesc
+Thu Nov 23 15:23:34 2023	Darth Ma`k (STEAM_0:0:63793651) disconnected
+Thu Nov 23 15:28:47 2023	Lynx Talah (STEAM_0:0:562957255): 
+Thu Nov 23 15:28:55 2023	Etahn Mulec (STEAM_0:0:562957255) spawned
+Thu Nov 23 15:30:06 2023	Etahn Mulec (STEAM_0:0:562957255): /rpdesc
+Thu Nov 23 15:32:41 2023	Sld Medic Hera  (STEAM_0:0:635224977): 
+Thu Nov 23 15:32:50 2023	Etahn Mulec (STEAM_0:0:562957255): en tatooine no la veo
+Thu Nov 23 15:35:00 2023	Etahn Mulec (STEAM_0:0:562957255): 
+Thu Nov 23 15:35:03 2023	Sld Medic Hera  (STEAM_0:0:635224977) spawned NPC npc_drg_dewback
+Thu Nov 23 15:35:09 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 15:35:18 2023	Lynx Talah (STEAM_0:0:562957255): /rpdesc
+Thu Nov 23 15:36:47 2023	Sld Medic Hera  (STEAM_0:0:635224977) disconnected
+Thu Nov 23 15:36:53 2023	Lynx Talah (STEAM_0:0:562957255) disconnected
+Thu Nov 23 15:38:19 2023	Tayson  (STEAM_0:1:541478307) disconnected
+Thu Nov 23 16:05:05 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 23 16:05:05 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 23 16:08:39 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 16:09:44 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 16:09:49 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 16:16:06 2023	Nathaniel Lambert (STEAM_0:0:159218877) disconnected
+Thu Nov 23 16:18:26 2023	nasiporin (STEAM_0:0:1770861) has joined the game
+Thu Nov 23 16:18:26 2023	Alex Antares (STEAM_0:0:1770861) spawned
+Thu Nov 23 16:18:40 2023	Darth Ma`k (STEAM_0:0:63793651): !pj
+Thu Nov 23 16:18:48 2023	Li Karigan (STEAM_0:0:63793651) spawned
+Thu Nov 23 16:19:09 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 16:19:11 2023	alex antares (STEAM_0:0:1770861) spawned
+Thu Nov 23 16:19:15 2023	Li Karigan (STEAM_0:0:63793651): /rpdesc
+Thu Nov 23 16:56:43 2023	alex antares (STEAM_0:0:1770861) disconnected
+Thu Nov 23 17:05:40 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
+Thu Nov 23 17:05:40 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 17:06:33 2023	Straw berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 17:11:31 2023	Dragontark (STEAM_0:0:175634101) has joined the game
+Thu Nov 23 17:11:31 2023	Maestro Consul Naota (STEAM_0:0:175634101) spawned
+Thu Nov 23 17:15:24 2023	Cabo William (STEAM_0:0:175634101) spawned
+Thu Nov 23 17:17:08 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 23 17:17:08 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 23 17:19:35 2023	Alis Berry (STEAM_0:0:635224977) spawned
+Thu Nov 23 17:19:35 2023	Cabo William (STEAM_0:0:175634101): /redesc
+Thu Nov 23 17:19:40 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 17:19:44 2023	Cabo William (STEAM_0:0:175634101): /redesc
+Thu Nov 23 17:19:49 2023	Cabo William (STEAM_0:0:175634101): redesc
+Thu Nov 23 17:20:01 2023	Cabo William (STEAM_0:0:175634101): /rpdesc
+Thu Nov 23 17:20:31 2023	Straw berry (STEAM_0:0:142640452): hola
+Thu Nov 23 17:20:37 2023	zacon31 (STEAM_0:0:529660694) has joined the game
+Thu Nov 23 17:20:37 2023	zack (STEAM_0:0:529660694) spawned
+Thu Nov 23 17:20:46 2023	Alis Berry (STEAM_0:0:635224977): Que te hicieron papa
+Thu Nov 23 17:20:56 2023	Power (STEAM_0:0:596592151) has joined the game
+Thu Nov 23 17:20:56 2023	Luna Pavlichenko (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:21:07 2023	Straw berry (STEAM_0:0:142640452): Nada solo ando aqui por algo
+Thu Nov 23 17:21:34 2023	Straw berry (STEAM_0:0:142640452): Pero estoy bien tranquila
+Thu Nov 23 17:21:34 2023	Alis Berry (STEAM_0:0:635224977): Quien que lo mato
+Thu Nov 23 17:21:40 2023	Straw berry (STEAM_0:0:142640452): NO NIÑA
+Thu Nov 23 17:21:43 2023	Straw berry (STEAM_0:0:142640452): no hagas nada
+Thu Nov 23 17:21:46 2023	Alis Berry (STEAM_0:0:635224977): Te liberaré papa
+Thu Nov 23 17:21:50 2023	Straw berry (STEAM_0:0:142640452): NO
+Thu Nov 23 17:22:00 2023	Straw berry (STEAM_0:0:142640452): ALIS NO
+Thu Nov 23 17:22:11 2023	Alis Berry (STEAM_0:0:635224977) disconnected
+Thu Nov 23 17:22:58 2023	zet  (STEAM_0:0:529660694) spawned
+Thu Nov 23 17:23:36 2023	Straw berry (STEAM_0:0:142640452): !specate
+Thu Nov 23 17:23:48 2023	zet  (STEAM_0:0:529660694): /rpdesc
+Thu Nov 23 17:23:50 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:24:00 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:24:01 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 17:24:19 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:24:46 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 17:24:59 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:25:22 2023	zet  (STEAM_0:0:529660694) disconnected
+Thu Nov 23 17:25:41 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 17:25:51 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:26:30 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 17:26:40 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:27:13 2023	Shouko Nishi (STEAM_0:0:596592151): /rpdesc
+Thu Nov 23 17:27:23 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:28:10 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 17:28:17 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:28:17 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 17:29:39 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 17:31:03 2023	Straw berry (STEAM_0:0:142640452): �  �
+Thu Nov 23 17:32:27 2023	Shouko Nishi (STEAM_0:0:596592151): /A como se siente ser prisionero injustamente =
+Thu Nov 23 17:32:56 2023	Shouko Nishi (STEAM_0:0:596592151): /A fail
+Thu Nov 23 17:35:23 2023	Shouko Nishi (STEAM_0:0:596592151): /A fail
+Thu Nov 23 17:35:28 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:35:34 2023	Shouko Nishi (STEAM_0:0:596592151): /A como mierda puedo desbugear el cristal Sith ?
+Thu Nov 23 17:36:03 2023	LOBO (STEAM_0:0:551085146) has joined the game
+Thu Nov 23 17:36:03 2023	Rubi (STEAM_0:0:551085146) spawned
+Thu Nov 23 17:36:30 2023	rubi Apellido (STEAM_0:0:551085146) spawned
+Thu Nov 23 17:36:39 2023	Straw berry (STEAM_0:0:142640452): /pm rubi VEN CORRIENDO
+Thu Nov 23 17:36:52 2023	Straw berry (STEAM_0:0:142640452): /hay soldados de guadia por entorno
+Thu Nov 23 17:37:11 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:37:15 2023	Shouko Nishi (STEAM_0:0:596592151): /A los que mate ?
+Thu Nov 23 17:37:22 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_citizen
+Thu Nov 23 17:37:31 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_citizen
+Thu Nov 23 17:37:33 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_citizen
+Thu Nov 23 17:37:35 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_citizen
+Thu Nov 23 17:37:40 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_citizen
+Thu Nov 23 17:37:46 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:38:33 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:39:39 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 17:39:43 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:39:44 2023	Tiburex (STEAM_0:1:541478307) has joined the game
+Thu Nov 23 17:39:44 2023	Jaxon Stumber (STEAM_0:1:541478307) spawned
+Thu Nov 23 17:39:59 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:40:27 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 17:40:31 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:40:33 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:42:08 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:42:10 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:42:18 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:20 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:21 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:21 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:21 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:22 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:22 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:23 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:23 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:23 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:23 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:23 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:42:45 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 17:43:11 2023	Shouko Nishi (STEAM_0:0:596592151): /A puta niña, que me pongo el Kyber Sith y te dejo sin extremidades como Lunaria
+Thu Nov 23 17:43:56 2023	Cabo William (STEAM_0:0:175634101) spawned
+Thu Nov 23 17:44:13 2023	Samy (STEAM_0:0:146740106) has joined the game
+Thu Nov 23 17:44:13 2023	Samy Encapuchado (STEAM_0:0:146740106) spawned
+Thu Nov 23 17:44:34 2023	Shouko Nishi (STEAM_0:0:596592151): /A William y Straw, ponganse otro job, me da Toc que esten y no hagan nada jaja
+Thu Nov 23 17:45:07 2023	Teniente Parla (STEAM_0:0:146740106) spawned
+Thu Nov 23 17:45:16 2023	Shouko Nishi (STEAM_0:0:596592151): /A pal culo
+Thu Nov 23 17:45:20 2023	Shouko Nishi (STEAM_0:0:596592151): /A cortado
+Thu Nov 23 17:45:21 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 17:45:25 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:45:34 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 17:45:41 2023	Shouko Nishi (STEAM_0:0:596592151): /A se muda y problema solucionado
+Thu Nov 23 17:45:49 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:45:55 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:46:41 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_drg_makrin
+Thu Nov 23 17:46:42 2023	Maestro Naota  (STEAM_0:0:175634101) spawned
+Thu Nov 23 17:46:59 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_beta
+Thu Nov 23 17:47:01 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:47:02 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_beta
+Thu Nov 23 17:47:03 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_beta
+Thu Nov 23 17:47:13 2023	Shouko Nishi (STEAM_0:0:596592151): /A me buge no puedo caminar si el ALT jaja
+Thu Nov 23 17:47:15 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:47:21 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_beta
+Thu Nov 23 17:47:32 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite
+Thu Nov 23 17:47:36 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbug
+Thu Nov 23 17:47:36 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:47:39 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:47:41 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:47:42 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:47:46 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:48:07 2023	Shouko Nishi (STEAM_0:0:596592151): /A ahora no puedo cmainar sin alt
+Thu Nov 23 17:48:14 2023	Shouko Nishi was killed by NPC [904][npc_vj_as_ranger] with a npc_vj_as_ranger
+Thu Nov 23 17:48:39 2023	Maestro Naota  (STEAM_0:0:175634101) spawned
+Thu Nov 23 17:48:40 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_droneb_big
+Thu Nov 23 17:48:40 2023	Shouko Nishi (STEAM_0:0:596592151): /A me paos lo mismo
+Thu Nov 23 17:48:41 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_droneb_big
+Thu Nov 23 17:48:52 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 17:48:58 2023	rubi Apellido was killed by Li Karigan with a weapon_training_saber
+Thu Nov 23 17:49:05 2023	Shouko Nishi (STEAM_0:0:596592151): /A y volver a curarte
+Thu Nov 23 17:49:08 2023	rubi Apellido (STEAM_0:0:551085146) spawned
+Thu Nov 23 17:49:16 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 17:49:47 2023	Maestro Naota  (STEAM_0:0:175634101) spawned SENT item_crystal_smaragd
+Thu Nov 23 17:49:49 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_mortarbug
+Thu Nov 23 17:49:58 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_mortarbug_beta
+Thu Nov 23 17:50:04 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_droneb
+Thu Nov 23 17:50:04 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_droneb
+Thu Nov 23 17:50:22 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:50:31 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:50:32 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:50:33 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:50:38 2023	Maestro Naota  (STEAM_0:0:175634101): /rpdesc
+Thu Nov 23 17:50:42 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_mortarbug
+Thu Nov 23 17:50:46 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:50:47 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:50:58 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:51:04 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:51:04 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:51:29 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:51:31 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_sbugb
+Thu Nov 23 17:51:37 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_mortarbug
+Thu Nov 23 17:51:40 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:51:41 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_ranger
+Thu Nov 23 17:51:56 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 17:52:25 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:52:33 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 17:52:37 2023	KaioKen (STEAM_0:0:40650) has joined the game
+Thu Nov 23 17:52:37 2023	KaioKen (STEAM_0:0:40650) spawned
+Thu Nov 23 17:52:53 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 17:52:53 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 17:54:08 2023	Shouko Nishi (STEAM_0:0:596592151): /A eneko pasame ya ese modulador
+Thu Nov 23 17:54:20 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:54:20 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:54:24 2023	Teniente Parla (STEAM_0:0:146740106): /rpdesc
+Thu Nov 23 17:55:05 2023	Teniente Parla (STEAM_0:0:146740106): /rpdesc
+Thu Nov 23 17:55:14 2023	Straw berry (STEAM_0:0:142640452) spawned NPC npc_vj_as_parasite_exp
+Thu Nov 23 17:55:28 2023	Kaio  (STEAM_0:0:40650) spawned
+Thu Nov 23 17:55:37 2023	Teniente Parla (STEAM_0:0:146740106): /rpdesc
+Thu Nov 23 17:55:38 2023	Gatku (STEAM_0:0:153814350) has joined the game
+Thu Nov 23 17:55:38 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Thu Nov 23 17:55:52 2023	Shouko Nishi (STEAM_0:0:596592151): /A si vo deci
+Thu Nov 23 17:56:27 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:56:52 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Thu Nov 23 17:57:23 2023	Maestro Naota  (STEAM_0:0:175634101): /Me Lç*Lengua de signos* No, estara haciendo sus cosas
+Thu Nov 23 17:57:26 2023	Kaio  (STEAM_0:0:40650) disconnected
+Thu Nov 23 17:57:35 2023	Tayson  (STEAM_0:1:541478307): /pm straw oye
+Thu Nov 23 17:57:43 2023	Straw berry (STEAM_0:0:142640452): /pm tayson dime bonito
+Thu Nov 23 17:58:07 2023	Tayson  (STEAM_0:1:541478307): /pm straw tu sabes como va lo del sable personalidazado bello?
+Thu Nov 23 17:58:16 2023	Tayson  (STEAM_0:1:541478307): /pm straw personalizado*
+Thu Nov 23 17:58:40 2023	Straw berry (STEAM_0:0:142640452): /pm tayson eso es un vip que al pagar te dejan elejir un mango y el color del sable (creo)
+Thu Nov 23 17:58:56 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 17:59:01 2023	Tayson  (STEAM_0:1:541478307): /pm straw eso lo se, me refiero teneis una foto o algo con los mangos y colores?
+Thu Nov 23 17:59:15 2023	Straw berry (STEAM_0:0:142640452): /pm tayson te puedo ir yo enseñando
+Thu Nov 23 17:59:25 2023	Tayson  (STEAM_0:1:541478307): /pm straw pues me harias un favor
+Thu Nov 23 17:59:41 2023	Straw berry (STEAM_0:0:142640452): /pm tayson 2 minutos que justo ando en rol por lo de ayer y te enseño
+Thu Nov 23 17:59:49 2023	Tayson  (STEAM_0:1:541478307): /pm straw va gracias
+Thu Nov 23 18:00:40 2023	Shouko Nishi (STEAM_0:0:596592151): //a tengo audifonos te puedo escuchar mamerto
+Thu Nov 23 18:00:53 2023	Maestro Naota  (STEAM_0:0:175634101): //ª
+Thu Nov 23 18:01:41 2023	Tayson  (STEAM_0:1:541478307): /pm li quiero hacer un rol ¿Prefieres hacermelo tu o que me lo haga arrow?
+Thu Nov 23 18:01:56 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:04:00 2023	KaioKen (STEAM_0:0:40650) has joined the game
+Thu Nov 23 18:04:00 2023	KaioKen (STEAM_0:0:40650) spawned
+Thu Nov 23 18:04:06 2023	Gatku Adenn (STEAM_0:0:153814350): 
+Thu Nov 23 18:04:32 2023	Maestro Naota  (STEAM_0:0:175634101): /pm Straw Si necesitan a william, digamenlo
+Thu Nov 23 18:04:49 2023	Kaio  (STEAM_0:0:40650) spawned
+Thu Nov 23 18:05:01 2023	Straw berry (STEAM_0:0:142640452): /pm naota si quieres venir anda aqui el teniente
+Thu Nov 23 18:05:08 2023	Maestro Naota  (STEAM_0:0:175634101): /pm Straw Va
+Thu Nov 23 18:05:11 2023	Maestro Naota  (STEAM_0:0:175634101): 
+Thu Nov 23 18:05:24 2023	Cabo William (STEAM_0:0:175634101) spawned
+Thu Nov 23 18:05:28 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 18:05:36 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 18:10:21 2023	Shouko Nishi (STEAM_0:0:596592151): /A vamos de viaje a Yavin
+Thu Nov 23 18:11:12 2023	Gatku Adenn (STEAM_0:0:153814350) disconnected
+Thu Nov 23 18:12:31 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:12:34 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:12:39 2023	nasiporin (STEAM_0:0:1770861) has joined the game
+Thu Nov 23 18:12:39 2023	Alex Antares (STEAM_0:0:1770861) spawned
+Thu Nov 23 18:12:43 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:12:45 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:12:47 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:12:54 2023	Shouko Nishi (STEAM_0:0:596592151): /A yo necesito la voz de: ...
+Thu Nov 23 18:13:15 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:13:16 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:13:20 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:13:21 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:13:49 2023	Gatku (STEAM_0:0:153814350) has joined the game
+Thu Nov 23 18:13:49 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Thu Nov 23 18:13:59 2023	Straw berry (STEAM_0:0:142640452): /pm tayson escucha esta entrando archer, el sabe que mangos y eso se pueden tener, asique le dire que quieres ver
+Thu Nov 23 18:14:03 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:14:05 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:14:17 2023	Tayson  (STEAM_0:1:541478307): /pm straw va, aprovecho y tambien le comento un rol, gracias
+Thu Nov 23 18:14:19 2023	alex antares (STEAM_0:0:1770861) spawned
+Thu Nov 23 18:14:19 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:14:24 2023	Straw berry (STEAM_0:0:142640452): /pm tayson dale
+Thu Nov 23 18:14:35 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Thu Nov 23 18:14:45 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:14:46 2023	Teniente Parla (STEAM_0:0:146740106) spawned NPC npc_citizen
+Thu Nov 23 18:15:05 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:15:30 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:15:30 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:15:35 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:15:35 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:15:52 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Thu Nov 23 18:15:52 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 23 18:16:57 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 23 18:16:58 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:17:06 2023	Shouko Nishi (STEAM_0:0:596592151): //mi nombre es jhon alejandro y soy esquizofrenico
+Thu Nov 23 18:17:06 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:17:21 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:17:21 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:17:30 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:17:39 2023	Tayson  (STEAM_0:1:541478307): /pm never ¿me puedes enseñar porfi los mangos y los kybers del vip de sables personalizados?
+Thu Nov 23 18:17:47 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:17:47 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:17:56 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Tayson Ahora mismo voy
+Thu Nov 23 18:18:01 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:18:02 2023	Tayson  (STEAM_0:1:541478307): /pm never muchas gracias
+Thu Nov 23 18:18:03 2023	Shouko Nishi (STEAM_0:0:596592151): /A Digo digo :rainbowplz::rainbowplz:
+Thu Nov 23 18:18:30 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:18:50 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:18:53 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:19:29 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:19:30 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:19:31 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:20:54 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:20:55 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:20:55 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:21:09 2023	Alfonso Apellido (STEAM_0:0:40650): 
+Thu Nov 23 18:21:09 2023	Shouko Nishi (STEAM_0:0:596592151): /A muy lunaria chiquita es esta
+Thu Nov 23 18:21:15 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:21:28 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:21:28 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:21:35 2023	Un simple perico (STEAM_0:0:456684327) has joined the game
+Thu Nov 23 18:21:35 2023	Wajah (STEAM_0:0:456684327) spawned
+Thu Nov 23 18:21:46 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber1
+Thu Nov 23 18:21:56 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber2
+Thu Nov 23 18:22:02 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:22:02 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:22:14 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:22:14 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:22:22 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:22:22 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:22:25 2023	Wajah  (STEAM_0:0:456684327) spawned
+Thu Nov 23 18:22:44 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 18:22:49 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw1
+Thu Nov 23 18:23:00 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw10
+Thu Nov 23 18:23:01 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw11
+Thu Nov 23 18:23:02 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw12
+Thu Nov 23 18:23:04 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw13
+Thu Nov 23 18:23:05 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw14
+Thu Nov 23 18:23:06 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw15
+Thu Nov 23 18:23:07 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw16
+Thu Nov 23 18:23:08 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw17
+Thu Nov 23 18:23:09 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw18
+Thu Nov 23 18:23:10 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw19
+Thu Nov 23 18:23:11 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw2
+Thu Nov 23 18:23:13 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw20
+Thu Nov 23 18:23:14 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw21
+Thu Nov 23 18:23:16 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw22
+Thu Nov 23 18:23:17 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw23
+Thu Nov 23 18:23:18 2023	Shouko Nishi (STEAM_0:0:596592151): /A el cuerpo de Lunaria ya esta frio, ya no sirve
+Thu Nov 23 18:23:21 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw23
+Thu Nov 23 18:23:24 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw24
+Thu Nov 23 18:23:24 2023	Lock (STEAM_0:1:169415181) has joined the game
+Thu Nov 23 18:23:24 2023	Encapuchado (STEAM_0:1:169415181) spawned
+Thu Nov 23 18:23:25 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw25
+Thu Nov 23 18:23:26 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw26
+Thu Nov 23 18:23:27 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw27
+Thu Nov 23 18:23:29 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw28
+Thu Nov 23 18:23:30 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw29
+Thu Nov 23 18:23:32 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw3
+Thu Nov 23 18:23:33 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw30
+Thu Nov 23 18:23:34 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw4
+Thu Nov 23 18:23:36 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw5
+Thu Nov 23 18:23:36 2023	Esjor Karrigan  (STEAM_0:0:63793651) spawned
+Thu Nov 23 18:23:38 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw6
+Thu Nov 23 18:23:39 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw7
+Thu Nov 23 18:23:40 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw8
+Thu Nov 23 18:23:41 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw9
+Thu Nov 23 18:23:43 2023	Esjor Karrigan  (STEAM_0:0:63793651): /rpdesc
+Thu Nov 23 18:23:54 2023	Esjor Karrigan  (STEAM_0:0:63793651): /rpdesc
+Thu Nov 23 18:23:58 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 18:24:03 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:24:04 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:24:05 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:24:15 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw30
+Thu Nov 23 18:24:17 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw6
+Thu Nov 23 18:24:30 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw6
+Thu Nov 23 18:24:39 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_sidious
+Thu Nov 23 18:24:41 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_dooku
+Thu Nov 23 18:24:46 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_katarn
+Thu Nov 23 18:24:48 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_kylo
+Thu Nov 23 18:24:57 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_luke
+Thu Nov 23 18:24:59 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_mace
+Thu Nov 23 18:25:03 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_maulb
+Thu Nov 23 18:25:10 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_obi1
+Thu Nov 23 18:25:13 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_obi2
+Thu Nov 23 18:25:16 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_qui
+Thu Nov 23 18:25:19 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:25:19 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:25:21 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_vaderhilt
+Thu Nov 23 18:25:24 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:25:24 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:25:25 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_yoda
+Thu Nov 23 18:25:50 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja1
+Thu Nov 23 18:25:53 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja2
+Thu Nov 23 18:25:54 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja3
+Thu Nov 23 18:25:55 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja4
+Thu Nov 23 18:25:56 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja5
+Thu Nov 23 18:25:57 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja6
+Thu Nov 23 18:25:58 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja7
+Thu Nov 23 18:25:59 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja8
+Thu Nov 23 18:26:00 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja9
+Thu Nov 23 18:26:04 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:26:07 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:26:17 2023	Erak  (STEAM_0:1:169415181) disconnected
+Thu Nov 23 18:26:26 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:26:45 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja7
+Thu Nov 23 18:26:48 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:26:48 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:26:57 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_ja7
+Thu Nov 23 18:27:06 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_nanosword
+Thu Nov 23 18:27:10 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 18:27:17 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor1
+Thu Nov 23 18:27:18 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor10
+Thu Nov 23 18:27:19 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:27:19 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:27:20 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor11
+Thu Nov 23 18:27:21 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor12
+Thu Nov 23 18:27:22 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor13
+Thu Nov 23 18:27:23 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor2
+Thu Nov 23 18:27:25 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor3
+Thu Nov 23 18:27:26 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor4
+Thu Nov 23 18:27:27 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor5
+Thu Nov 23 18:27:29 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor7
+Thu Nov 23 18:27:30 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor8
+Thu Nov 23 18:27:32 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor9
+Thu Nov 23 18:27:39 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:27:39 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:27:57 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor10
+Thu Nov 23 18:27:58 2023	Esjor Karrigan  (STEAM_0:0:63793651): /pm Wajah cuando termine esto hare algo para ustedes
+Thu Nov 23 18:28:00 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:28:03 2023	Lock (STEAM_0:1:169415181) has joined the game
+Thu Nov 23 18:28:03 2023	Encapuchado (STEAM_0:1:169415181) spawned
+Thu Nov 23 18:28:14 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor10
+Thu Nov 23 18:28:28 2023	rubi Apellido (STEAM_0:0:551085146): 
+Thu Nov 23 18:28:34 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:28:34 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:28:53 2023	The Axki (STEAM_0:0:149703385) has joined the game
+Thu Nov 23 18:28:53 2023	The Axki (STEAM_0:0:149703385) spawned
+Thu Nov 23 18:28:55 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 18:29:20 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:29:25 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:29:47 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:29:54 2023	xyayar  (STEAM_0:0:149703385) spawned
+Thu Nov 23 18:30:03 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 18:30:03 2023	Shouko Nishi (STEAM_0:0:596592151): //tengo Audifonos te puedo escuchar
+Thu Nov 23 18:30:11 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_crystal_orange
+Thu Nov 23 18:30:24 2023	Cabo William (STEAM_0:0:175634101): /rpdesc
+Thu Nov 23 18:30:26 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:30:42 2023	Kaio  (STEAM_0:0:40650): !spectat
+Thu Nov 23 18:30:45 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:31:05 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:31:19 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:31:21 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 23 18:31:22 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 23 18:31:55 2023	Tayson  (STEAM_0:1:541478307): /pm never ¿el enlace a la tienda donde esta que no lo veo?
+Thu Nov 23 18:31:57 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:31:59 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:32:34 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Tayson Pregunta a Eneko en el ticket a ver
+Thu Nov 23 18:32:37 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:32:45 2023	Tayson  (STEAM_0:1:541478307): /pm never voy
+Thu Nov 23 18:33:21 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:33:40 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:35:24 2023	Sld Medic (STEAM_0:0:635224977) spawned
+Thu Nov 23 18:35:40 2023	Sld Medic (STEAM_0:0:635224977): /pm nev ve a discord... porfavor
+Thu Nov 23 18:35:49 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:36:35 2023	Wajah  (STEAM_0:0:456684327): /pm esjor ok
+Thu Nov 23 18:37:10 2023	Sld Medic (STEAM_0:0:635224977): Buenos días
+Thu Nov 23 18:37:40 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:37:50 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:37:56 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:38:01 2023	Sld Medic (STEAM_0:0:635224977): 
+Thu Nov 23 18:38:19 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:38:31 2023	Cabo William (STEAM_0:0:175634101): //Yo tengo todo el rol pasivo aqui
+Thu Nov 23 18:38:43 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 18:38:47 2023	Senadora Alley (STEAM_0:0:635224977): !sale alley 1.2
+Thu Nov 23 18:38:52 2023	Senadora Alley (STEAM_0:0:635224977): !sale alley 1.2
+Thu Nov 23 18:39:01 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 18:39:32 2023	Senadora Alley (STEAM_0:0:635224977): /pm straw a donde
+Thu Nov 23 18:39:43 2023	Straw berry (STEAM_0:0:142640452): /pm alley cuartel havoc
+Thu Nov 23 18:39:52 2023	Senadora Alley (STEAM_0:0:635224977): /pm straw pero q sala
+Thu Nov 23 18:40:05 2023	Straw berry (STEAM_0:0:142640452): /pm alley mi despacho
+Thu Nov 23 18:40:20 2023	Teniente Parla (STEAM_0:0:146740106): //ostia una sith pura sangre
+Thu Nov 23 18:40:32 2023	Mr Tysorf (STEAM_0:1:644042897) has joined the game
+Thu Nov 23 18:40:32 2023	Krywar Oldin (STEAM_0:1:644042897) spawned
+Thu Nov 23 18:40:43 2023	Senadora Alley (STEAM_0:0:635224977): /rpdesc
+Thu Nov 23 18:41:25 2023	Krywar Oldin (STEAM_0:1:644042897) spawned
+Thu Nov 23 18:43:25 2023	Cabo William (STEAM_0:0:175634101): //Uno hablanco y otro negro, vaya equipo somos dx
+Thu Nov 23 18:43:37 2023	Straw berry (STEAM_0:0:142640452): //el bien y el mal
+Thu Nov 23 18:43:37 2023	Gatku Adenn (STEAM_0:0:153814350): /sleep
+Thu Nov 23 18:43:51 2023	Cabo William (STEAM_0:0:175634101): //XD
+Thu Nov 23 18:44:10 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 18:45:55 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 18:45:56 2023	Straw berry (STEAM_0:0:142640452): //se me peta tanto ahora vengo
+Thu Nov 23 18:46:00 2023	Straw berry (STEAM_0:0:142640452) disconnected
+Thu Nov 23 18:46:01 2023	Guiorn Neverlander (STEAM_0:1:92548084): //pto
+Thu Nov 23 18:46:38 2023	Cabo William (STEAM_0:0:175634101): //Uno se muere, el otro se va de planeta y ahora el desaparece, aqui todos se quieren librar xDDD
+Thu Nov 23 18:46:46 2023	Guiorn Neverlander (STEAM_0:1:92548084): //xd
+Thu Nov 23 18:47:58 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 18:48:04 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 18:48:15 2023	Alis Berry (STEAM_0:0:635224977) spawned
+Thu Nov 23 18:48:25 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
+Thu Nov 23 18:48:25 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 18:48:35 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:48:45 2023	Alis Berry (STEAM_0:0:635224977): /pm gatku estas vivo?
+Thu Nov 23 18:48:53 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 18:48:53 2023	Straw berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 18:49:00 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 18:49:04 2023	Gatku Adenn (STEAM_0:0:153814350): pm Berry Sí, estoy afk con el /sleep. XD.
+Thu Nov 23 18:49:11 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:49:11 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:49:14 2023	Shouko Nishi (STEAM_0:0:596592151): /A entierrenme junto a SyLara y Exilius, el trio malvado
+Thu Nov 23 18:49:26 2023	Gatku Adenn (STEAM_0:0:153814350): /sleep
+Thu Nov 23 18:49:26 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Thu Nov 23 18:49:35 2023	Shouko Nishi (STEAM_0:0:596592151): /A se suicido
+Thu Nov 23 18:49:40 2023	Gatku Adenn (STEAM_0:0:153814350): /sleep
+Thu Nov 23 18:49:54 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 18:50:08 2023	Alis Berry (STEAM_0:0:635224977) spawned
+Thu Nov 23 18:50:08 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 18:50:10 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 18:50:16 2023	Shouko Nishi (STEAM_0:0:596592151): /A see
+Thu Nov 23 18:50:20 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:50:27 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 18:50:43 2023	Shouko Nishi (STEAM_0:0:596592151): /A yo como Padawan que cosas deberia saber
+Thu Nov 23 18:50:53 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 18:50:59 2023	Poty127 (STEAM_0:1:520989844) has joined the game
+Thu Nov 23 18:50:59 2023	Poty127 (STEAM_0:1:520989844) spawned
+Thu Nov 23 18:51:01 2023	Ylux02 (STEAM_0:1:571428465) has joined the game
+Thu Nov 23 18:51:01 2023	Ylux02 (STEAM_0:1:571428465) spawned
+Thu Nov 23 18:51:22 2023	Straw berry (STEAM_0:0:142640452) disconnected
+Thu Nov 23 18:51:25 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:51:29 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 18:51:30 2023	Alis Berry (STEAM_0:0:635224977): Que pasa?
+Thu Nov 23 18:51:44 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 18:52:08 2023	Alis Berry (STEAM_0:0:635224977): Ooh
+Thu Nov 23 18:52:30 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 18:52:37 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
+Thu Nov 23 18:52:37 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 18:53:02 2023	Krywar Oldin (STEAM_0:1:644042897): usted puede enseñar habilidades de la fuerza?
+Thu Nov 23 18:53:04 2023	Graal Terra (STEAM_0:1:571428465) spawned
+Thu Nov 23 18:53:08 2023	Straw berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 18:53:17 2023	Krywar Oldin (STEAM_0:1:644042897): me enseña el atraer y empujar?
+Thu Nov 23 18:53:23 2023	xyayar  (STEAM_0:0:149703385) disconnected
+Thu Nov 23 18:53:26 2023	Alis Berry (STEAM_0:0:635224977): Soy Alis
+Thu Nov 23 18:53:33 2023	Alis Berry (STEAM_0:0:635224977): Me gusta tu pelo
+Thu Nov 23 18:53:44 2023	Alis Berry (STEAM_0:0:635224977): Y yo!
+Thu Nov 23 18:54:26 2023	Erak  (STEAM_0:1:169415181) disconnected
+Thu Nov 23 18:54:28 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:54:41 2023	Gatku Adenn (STEAM_0:0:153814350): /sleep
+Thu Nov 23 18:54:41 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Thu Nov 23 18:55:24 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:55:30 2023	Shouko Nishi (STEAM_0:0:596592151): //es el puto Exilius
+Thu Nov 23 18:55:40 2023	Alis Berry (STEAM_0:0:635224977): //es el cofundador jajja
+Thu Nov 23 18:55:49 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:56:49 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:57:05 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:57:06 2023	Shouko Nishi (STEAM_0:0:596592151): //me trae malos recuerdos el nene de rojo
+Thu Nov 23 18:57:07 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 18:57:14 2023	Alis Berry (STEAM_0:0:635224977): //ya, pero es q
+Thu Nov 23 18:57:14 2023	Kaio  (STEAM_0:0:40650): //soy pacifista
+Thu Nov 23 18:57:19 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:57:20 2023	Gatku Adenn (STEAM_0:0:153814350): //Que fuerte.
+Thu Nov 23 18:57:21 2023	Shouko Nishi (STEAM_0:0:596592151): //Jark decia lo mismo
+Thu Nov 23 18:57:25 2023	Alis Berry (STEAM_0:0:635224977): //es kaio, no te va a hacer daño
+Thu Nov 23 18:57:28 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:57:30 2023	Krywar Oldin (STEAM_0:1:644042897): //me lo asesino siu
+Thu Nov 23 18:57:36 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:57:39 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 18:57:49 2023	Krywar Oldin (STEAM_0:1:644042897): recuerde que es sorda
+Thu Nov 23 18:57:57 2023	Shouko Nishi (STEAM_0:0:596592151): //tengo audifonos
+Thu Nov 23 18:58:03 2023	Krywar Oldin (STEAM_0:1:644042897): ª
+Thu Nov 23 18:58:08 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 18:58:56 2023	Shouko Nishi (STEAM_0:0:596592151): //yo soy la fuerza
+Thu Nov 23 18:59:01 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 18:59:54 2023	Shouko Nishi (STEAM_0:0:596592151): /A para Lunaria, vito era "La fuerza"
+Thu Nov 23 19:00:08 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:00:47 2023	Krywar Oldin (STEAM_0:1:644042897): 
+Thu Nov 23 19:00:53 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:00:56 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:01:02 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:01:03 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 19:01:09 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:01:16 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:01:23 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:01:55 2023	Teniente Parla (STEAM_0:0:146740106): /drop
+Thu Nov 23 19:01:55 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:01:58 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:02:13 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:02:14 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:02:18 2023	Krywar Oldin (STEAM_0:1:644042897): 
+Thu Nov 23 19:02:30 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 19:02:40 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 19:02:43 2023	Shouko Nishi (STEAM_0:0:596592151): /A y alis ?
+Thu Nov 23 19:02:54 2023	Senadora Alley (STEAM_0:0:635224977) spawned
+Thu Nov 23 19:03:00 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:03:01 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:03:07 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:03:08 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:03:10 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:03:21 2023	Yoshei Jombei (STEAM_0:1:520989844): /Do Sentiria todo lo que rodea y entraria en paz consigo mismo
+Thu Nov 23 19:03:29 2023	Weirdo The Rabbit (STEAM_0:0:188226907) has joined the game
+Thu Nov 23 19:03:29 2023	Weirdo The Rabbit (STEAM_0:0:188226907) spawned
+Thu Nov 23 19:03:39 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:03:49 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:04:01 2023	Senadora Alley (STEAM_0:0:635224977): !uncloakw
+Thu Nov 23 19:04:04 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:05:02 2023	Gatku Adenn (STEAM_0:0:153814350): Vengo a hacer de seguridad por si acaso.
+Thu Nov 23 19:05:43 2023	Tayson  (STEAM_0:1:541478307): 
+Thu Nov 23 19:05:55 2023	Jaxon Stumber (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:06:16 2023	Jaxon Stumber (STEAM_0:1:541478307): 
+Thu Nov 23 19:06:26 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:07:46 2023	Senadora Alley (STEAM_0:0:635224977): /OOC QUE ES LA BODA, NO EL ENTIERRO
+Thu Nov 23 19:08:20 2023	Weirdo The Rabbit (STEAM_0:0:188226907) disconnected
+Thu Nov 23 19:08:29 2023	Lock (STEAM_0:1:169415181) has joined the game
+Thu Nov 23 19:08:29 2023	Encapuchado (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:08:49 2023	Shouko Nishi (STEAM_0:0:596592151): /pm Krywar crei que esta era una clase para aprender el empuje o la atraccion (OOC) XD
+Thu Nov 23 19:09:01 2023	Storm (STEAM_0:0:562957255) has joined the game
+Thu Nov 23 19:09:01 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 19:09:08 2023	Krywar Oldin (STEAM_0:1:644042897): /pm Nishi yo tmb...
+Thu Nov 23 19:09:12 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:09:29 2023	Shouko Nishi (STEAM_0:0:596592151): /pm Krywar preguntale cuando lo vamos a hacer
+Thu Nov 23 19:10:25 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 19:11:46 2023	Lynx Talah (STEAM_0:0:562957255) disconnected
+Thu Nov 23 19:11:55 2023	Krywar Oldin (STEAM_0:1:644042897): oye pensaba que era una clase de aprender el atraer y el empuje
+Thu Nov 23 19:12:53 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:12:57 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:14:00 2023	Krywar Oldin (STEAM_0:1:644042897): 
+Thu Nov 23 19:14:02 2023	Shouko Nishi (STEAM_0:0:596592151): //eso no se supone que un Padawan en adelante puede ?
+Thu Nov 23 19:14:09 2023	Krywar Oldin (STEAM_0:1:644042897): //si
+Thu Nov 23 19:14:13 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:14:14 2023	Krywar Oldin (STEAM_0:1:644042897): //es pdw pa adelante
+Thu Nov 23 19:14:26 2023	Krywar Oldin (STEAM_0:1:644042897): 
+Thu Nov 23 19:14:32 2023	Wajah  (STEAM_0:0:456684327): /pm esjor ya estoy
+Thu Nov 23 19:14:48 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:15:07 2023	Krywar Oldin (STEAM_0:1:644042897): 
+Thu Nov 23 19:15:19 2023	Erak  was killed by Tayson  with a weapon_lscs
+Thu Nov 23 19:15:26 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:15:29 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:15:32 2023	Cabo William (STEAM_0:0:175634101) disconnected
+Thu Nov 23 19:15:43 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:16:02 2023	Krywar Oldin (STEAM_0:1:644042897): //eu nasi
+Thu Nov 23 19:16:04 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 19:16:10 2023	Krywar Oldin (STEAM_0:1:644042897): //pedimos que nos den lo de empujar y atraer?
+Thu Nov 23 19:16:28 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:16:38 2023	Krywar Oldin (STEAM_0:1:644042897): //kaio
+Thu Nov 23 19:16:50 2023	Krywar Oldin (STEAM_0:1:644042897): //puedes darnos lo de empujar y atraer?
+Thu Nov 23 19:16:53 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:16:59 2023	Kaio  (STEAM_0:0:40650) disconnected
+Thu Nov 23 19:17:14 2023	Shouko Nishi (STEAM_0:0:596592151): /A Shouko es buenita
+Thu Nov 23 19:17:29 2023	Dragontark (STEAM_0:0:175634101) has joined the game
+Thu Nov 23 19:17:29 2023	Maestro Consul Naota (STEAM_0:0:175634101) spawned
+Thu Nov 23 19:17:29 2023	Krywar Oldin (STEAM_0:1:644042897): 
+Thu Nov 23 19:17:30 2023	Shouko Nishi (STEAM_0:0:596592151): /A que seria una Colleja ?
+Thu Nov 23 19:17:32 2023	Tayson  was killed by Erak  with a weapon_lscs
+Thu Nov 23 19:17:39 2023	Krywar Oldin (STEAM_0:1:644042897): //hostion en el cuello
+Thu Nov 23 19:17:43 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:17:46 2023	Shouko Nishi (STEAM_0:0:596592151): //ajaj noo
+Thu Nov 23 19:17:53 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:17:58 2023	Shouko Nishi (STEAM_0:0:596592151): //aca se dice, darle una piña
+Thu Nov 23 19:17:58 2023	Krywar Oldin (STEAM_0:1:644042897): //pedimos que nos den lo de empujar y atraer?
+Thu Nov 23 19:18:02 2023	Cabo William (STEAM_0:0:175634101) spawned
+Thu Nov 23 19:18:05 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 19:18:06 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 19:18:25 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 19:18:48 2023	Senadora Alley (STEAM_0:0:635224977): Que tristeza...
+Thu Nov 23 19:18:51 2023	KaioKen (STEAM_0:0:40650) has joined the game
+Thu Nov 23 19:18:51 2023	KaioKen (STEAM_0:0:40650) spawned
+Thu Nov 23 19:19:31 2023	Kaio  (STEAM_0:0:40650) spawned
+Thu Nov 23 19:19:33 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 19:19:43 2023	Tayson  was killed by Erak  with a weapon_lscs
+Thu Nov 23 19:20:01 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:20:58 2023	Esjor Karrigan  (STEAM_0:0:63793651): 
+Thu Nov 23 19:21:07 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 19:21:23 2023	Shouko Nishi (STEAM_0:0:596592151): //jaja
+Thu Nov 23 19:21:35 2023	Wajah  (STEAM_0:0:456684327) disconnected
+Thu Nov 23 19:21:38 2023	Krywar Oldin (STEAM_0:1:644042897): //quiere una colleja
+Thu Nov 23 19:21:42 2023	Krywar Oldin (STEAM_0:1:644042897): //una no, dos
+Thu Nov 23 19:22:16 2023	Shouko Nishi (STEAM_0:0:596592151): //deje la marihuana
+Thu Nov 23 19:22:41 2023	Yoshei Jombei was killed by alex antares with a weapon_lscs
+Thu Nov 23 19:22:42 2023	Shouko Nishi was killed by alex antares with a weapon_lscs
+Thu Nov 23 19:22:48 2023	Shouko Nishi (STEAM_0:0:596592151): /A que
+Thu Nov 23 19:22:56 2023	Cabo William (STEAM_0:0:175634101): //Mi castigo es ser calvo para siempre
+Thu Nov 23 19:23:05 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:23:06 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 19:23:20 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:23:29 2023	Shouko Nishi (STEAM_0:0:596592151): /A es verdad
+Thu Nov 23 19:23:41 2023	Yoshei Jombei (STEAM_0:1:520989844) disconnected
+Thu Nov 23 19:23:42 2023	Shouko Nishi (STEAM_0:0:596592151): /A RECOSTRUYANLO
+Thu Nov 23 19:23:54 2023	Shouko Nishi (STEAM_0:0:596592151): /A Se los de vuelve si los reconstruyenb
+Thu Nov 23 19:23:56 2023	Erak  was killed by Tayson  with a weapon_lscs
+Thu Nov 23 19:24:06 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:24:20 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:24:22 2023	Tayson  was killed by Entity [0][worldspawn] with a unknown
+Thu Nov 23 19:24:22 2023	Shouko Nishi (STEAM_0:0:596592151): /A y donde dice LSCS y lo rearman
+Thu Nov 23 19:24:27 2023	Tayson  (STEAM_0:1:541478307): //xd
+Thu Nov 23 19:24:29 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:24:32 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:24:34 2023	Senadora Alley (STEAM_0:0:635224977): 
+Thu Nov 23 19:24:42 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:24:44 2023	Tayson  (STEAM_0:1:541478307): /sleep
+Thu Nov 23 19:24:48 2023	Tayson  (STEAM_0:1:541478307): /sleep
+Thu Nov 23 19:24:49 2023	Krywar Oldin (STEAM_0:1:644042897): /pm shouko me cago en la
+Thu Nov 23 19:24:49 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:24:49 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:24:50 2023	Tayson  (STEAM_0:1:541478307): /sleep
+Thu Nov 23 19:24:50 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:24:54 2023	Alis Berry (STEAM_0:0:635224977) spawned
+Thu Nov 23 19:24:55 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:24:55 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:24:58 2023	Shouko Nishi (STEAM_0:0:596592151): /pm Krywar ¿que habia dicho ?
+Thu Nov 23 19:24:58 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 19:24:58 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 19:25:00 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 19:25:03 2023	Alis Berry (STEAM_0:0:635224977): !uncloakw
+Thu Nov 23 19:25:05 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 19:25:40 2023	rubi Apellido (STEAM_0:0:551085146): 
+Thu Nov 23 19:26:47 2023	Krywar Oldin (STEAM_0:1:644042897): he oido que quieres ir por el camino del centinela no?
+Thu Nov 23 19:26:52 2023	Alis Berry (STEAM_0:0:635224977): Si
+Thu Nov 23 19:27:02 2023	Krywar Oldin (STEAM_0:1:644042897): bien
+Thu Nov 23 19:27:05 2023	Krywar Oldin (STEAM_0:1:644042897): me alegra
+Thu Nov 23 19:27:24 2023	Gatku Adenn (STEAM_0:0:153814350): /pm neverlander Se viene parte 2 del rol de ayer.
+Thu Nov 23 19:27:34 2023	Erak  was killed by Tayson  with a weapon_lscs
+Thu Nov 23 19:27:34 2023	Poty127 (STEAM_0:1:520989844) has joined the game
+Thu Nov 23 19:27:34 2023	Poty127 (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:27:41 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 19:27:44 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:27:58 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 19:28:16 2023	Tayson  was killed by Erak  with a weapon_lscs
+Thu Nov 23 19:28:18 2023	Shouko Nishi (STEAM_0:0:596592151): /A Poli le da el derecho a hablar a cualquier ser viviente, porque segun la ley legislativa 40, todo el mundo tiene derecho a un abogado y a hablar en el momento
+Thu Nov 23 19:28:26 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:28:54 2023	Weirdo The Rabbit (STEAM_0:0:188226907) has joined the game
+Thu Nov 23 19:28:54 2023	Weirdo The Rabbit (STEAM_0:0:188226907) spawned
+Thu Nov 23 19:29:02 2023	Alis Berry (STEAM_0:0:635224977): /sleep
+Thu Nov 23 19:29:04 2023	Erak  was killed by Tayson  with a weapon_lscs
+Thu Nov 23 19:29:06 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:29:06 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:29:07 2023	Shouko Nishi (STEAM_0:0:596592151): /A :point_up::confused:
+Thu Nov 23 19:29:08 2023	Alis Berry (STEAM_0:0:635224977): /sleep
+Thu Nov 23 19:29:08 2023	Alis Berry (STEAM_0:0:635224977) spawned
+Thu Nov 23 19:29:14 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:29:30 2023	The Axki (STEAM_0:0:149703385) has joined the game
+Thu Nov 23 19:29:30 2023	The Axki (STEAM_0:0:149703385) spawned
+Thu Nov 23 19:29:31 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:29:41 2023	Yoshei Jombei (STEAM_0:1:520989844): 
+Thu Nov 23 19:30:19 2023	Yoshei Jombei  (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:30:23 2023	Straw berry (STEAM_0:0:142640452): /la calva
+Thu Nov 23 19:30:25 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 19:30:31 2023	Tayson  (STEAM_0:1:541478307): //la desc
+Thu Nov 23 19:30:35 2023	Straw berry (STEAM_0:0:142640452): /tapala que me dejas ciego
+Thu Nov 23 19:30:35 2023	Darth Ma`k (STEAM_0:0:63793651): /rpdesc
+Thu Nov 23 19:30:42 2023	Cabo William (STEAM_0:0:175634101): HIJO PUTA
+Thu Nov 23 19:30:48 2023	Rayocom2HD (STEAM_0:1:83510545) has joined the game
+Thu Nov 23 19:30:48 2023	Rayocom2HD (STEAM_0:1:83510545) spawned
+Thu Nov 23 19:30:55 2023	Erak  (STEAM_0:1:169415181): /PM Eneko Pensaba que tenias la skin de lord vader
+Thu Nov 23 19:30:59 2023	Erak  (STEAM_0:1:169415181): /PM Eneko y me he rayado
+Thu Nov 23 19:31:01 2023	Storm (STEAM_0:0:562957255) has joined the game
+Thu Nov 23 19:31:01 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 19:31:14 2023	Erak  (STEAM_0:1:169415181) disconnected
+Thu Nov 23 19:31:22 2023	xyayar  (STEAM_0:0:149703385) spawned
+Thu Nov 23 19:31:45 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:31:53 2023	xyayar  (STEAM_0:0:149703385) disconnected
+Thu Nov 23 19:32:19 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 19:33:44 2023	Lock (STEAM_0:1:169415181) has joined the game
+Thu Nov 23 19:33:44 2023	Encapuchado (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:34:02 2023	Shouko Nishi (STEAM_0:0:596592151): //entonces no aprendimos ni el empujar ni el atraer ?"
+Thu Nov 23 19:34:08 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:34:34 2023	Krywar Oldin (STEAM_0:1:644042897): /pm shouko me cago en la puta
+Thu Nov 23 19:34:50 2023	Shouko Nishi (STEAM_0:0:596592151): /pm Krywar encima, tu le dijiste si le dabas una clase personal para que te enseñe
+Thu Nov 23 19:34:59 2023	Shouko Nishi (STEAM_0:0:596592151): /pm Krywar y se sumaron los inicados
+Thu Nov 23 19:35:01 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 19:35:07 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:35:07 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:35:19 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:35:19 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:35:24 2023	Tayson  (STEAM_0:1:541478307): //me encanta hacerle bulling a manolo
+Thu Nov 23 19:35:24 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:35:36 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 19:36:12 2023	Shouko Nishi (STEAM_0:0:596592151): /sleep
+Thu Nov 23 19:36:17 2023	Shouko Nishi (STEAM_0:0:596592151): /sleep
+Thu Nov 23 19:36:20 2023	Shouko Nishi (STEAM_0:0:596592151): /sleep
+Thu Nov 23 19:36:20 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 19:36:50 2023	Lynx Talah (STEAM_0:0:562957255): maestro
+Thu Nov 23 19:36:53 2023	Lynx Talah (STEAM_0:0:562957255): una cosa
+Thu Nov 23 19:37:02 2023	Lynx Talah (STEAM_0:0:562957255): e visto dos tumabs no me e atrevido a leer los nombres
+Thu Nov 23 19:37:10 2023	Lynx Talah (STEAM_0:0:562957255): quienes son uno con la fuerza ahora?
+Thu Nov 23 19:37:28 2023	Lynx Talah (STEAM_0:0:562957255): alli
+Thu Nov 23 19:37:43 2023	Lynx Talah (STEAM_0:0:562957255): disgutos que va
+Thu Nov 23 19:37:59 2023	Lynx Talah (STEAM_0:0:562957255): rubi quien se a muerto?
+Thu Nov 23 19:38:05 2023	Lynx Talah (STEAM_0:0:562957255): quienes
+Thu Nov 23 19:38:13 2023	Lynx Talah (STEAM_0:0:562957255): pues hay dos tumbas
+Thu Nov 23 19:38:16 2023	Krywar Oldin (STEAM_0:1:644042897): asi es
+Thu Nov 23 19:38:27 2023	Shouko Nishi (STEAM_0:0:596592151): /A Permapromen solo las tumbas y el Texto, queda goooooooooood
+Thu Nov 23 19:38:39 2023	Lynx Talah (STEAM_0:0:562957255): y si no salto asi y listo
+Thu Nov 23 19:38:49 2023	Tayson  was killed by Darth Ma`k with a weapon_lscs
+Thu Nov 23 19:38:49 2023	Lynx Talah (STEAM_0:0:562957255): subios
+Thu Nov 23 19:38:53 2023	Shouko Nishi (STEAM_0:0:596592151): /A no hagas eso Alis que me destrozas
+Thu Nov 23 19:39:01 2023	Alis Berry (STEAM_0:0:635224977): Lunaria...
+Thu Nov 23 19:39:12 2023	Shouko Nishi (STEAM_0:0:596592151): /A Te odio ;-;
+Thu Nov 23 19:39:27 2023	Tayson  (STEAM_0:1:541478307): /otro CK XDD
+Thu Nov 23 19:39:38 2023	Tayson  (STEAM_0:1:541478307): /es que ya me hiciste un ck a traicion, no me fio mas
+Thu Nov 23 19:39:41 2023	Straw berry (STEAM_0:0:142640452): /drop
+Thu Nov 23 19:39:57 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:40:00 2023	Lynx Talah (STEAM_0:0:562957255): o no nos pillan o esqeu ni si quiera nos van a buscar
+Thu Nov 23 19:40:05 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 19:40:09 2023	Lynx Talah (STEAM_0:0:562957255): no hay nadie
+Thu Nov 23 19:40:24 2023	Alis Berry (STEAM_0:0:635224977): Era mi amiga...
+Thu Nov 23 19:40:26 2023	Shouko Nishi (STEAM_0:0:596592151): /A Y EL IMPERIO TAMBIEN
+Thu Nov 23 19:40:30 2023	Alis Berry (STEAM_0:0:635224977): Mi unica amiga...
+Thu Nov 23 19:41:46 2023	Lynx Talah (STEAM_0:0:562957255): voy a vigilar
+Thu Nov 23 19:42:24 2023	Lynx Talah (STEAM_0:0:562957255): no hay problema
+Thu Nov 23 19:42:27 2023	Lynx Talah (STEAM_0:0:562957255): estan en el entierro
+Thu Nov 23 19:42:34 2023	Lynx Talah (STEAM_0:0:562957255): tolothian
+Thu Nov 23 19:42:39 2023	Lynx Talah (STEAM_0:0:562957255): bueno
+Thu Nov 23 19:42:42 2023	Lynx Talah (STEAM_0:0:562957255): tu cabeza
+Thu Nov 23 19:43:00 2023	Lynx Talah (STEAM_0:0:562957255): si guapisimo
+Thu Nov 23 19:43:05 2023	Lynx Talah (STEAM_0:0:562957255): una cosa
+Thu Nov 23 19:43:19 2023	Lynx Talah (STEAM_0:0:562957255): si no?
+Thu Nov 23 19:43:27 2023	Lynx Talah (STEAM_0:0:562957255): voy a mirar el entierro luego vuelvo
+Thu Nov 23 19:43:42 2023	Lynx Talah (STEAM_0:0:562957255): subid
+Thu Nov 23 19:43:51 2023	Lynx Talah (STEAM_0:0:562957255): si tenemso que subir ahi arriba
+Thu Nov 23 19:43:57 2023	Lynx Talah (STEAM_0:0:562957255): pa ve el entierro
+Thu Nov 23 19:44:18 2023	Shouko Nishi (STEAM_0:0:596592151): /A ajja
+Thu Nov 23 19:44:34 2023	Wayando  (STEAM_0:0:188226907) spawned
+Thu Nov 23 19:44:36 2023	Umbra  (STEAM_0:1:83510545) spawned
+Thu Nov 23 19:45:02 2023	Shouko Nishi (STEAM_0:0:596592151): /A porque me miran ami, no puedo hablar jaja
+Thu Nov 23 19:45:11 2023	Erak  (STEAM_0:1:169415181) disconnected
+Thu Nov 23 19:46:05 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:46:07 2023	Alis Berry (STEAM_0:0:635224977): Porque tiene un arma
+Thu Nov 23 19:46:26 2023	Shouko Nishi (STEAM_0:0:596592151): /A en vida te critican, en muerte te extrañan
+Thu Nov 23 19:48:34 2023	Lock (STEAM_0:1:169415181) has joined the game
+Thu Nov 23 19:48:34 2023	Encapuchado (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:48:57 2023	Erak  (STEAM_0:1:169415181) spawned
+Thu Nov 23 19:49:12 2023	Yoshei Jombei  (STEAM_0:1:520989844) disconnected
+Thu Nov 23 19:49:16 2023	Graal Terra (STEAM_0:1:571428465): /y :exclamation:<flash c=255,0,0>You are loitering/trespassing, you have 10 seconds to leave!</flash>:exclamation:
+Thu Nov 23 19:49:33 2023	Alis Berry (STEAM_0:0:635224977): 
+Thu Nov 23 19:49:39 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 23 19:50:48 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:50:54 2023	Poty127 (STEAM_0:1:520989844) has joined the game
+Thu Nov 23 19:50:54 2023	Poty127 (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:50:55 2023	Un simple perico (STEAM_0:0:456684327) has joined the game
+Thu Nov 23 19:50:55 2023	Wajah (STEAM_0:0:456684327) spawned
+Thu Nov 23 19:51:00 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:51:00 2023	Wayando  (STEAM_0:0:188226907) spawned
+Thu Nov 23 19:51:18 2023	Wayando  was killed by Himself with a suicide trick
+Thu Nov 23 19:51:29 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:51:31 2023	Wayando  (STEAM_0:0:188226907) spawned
+Thu Nov 23 19:51:59 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:52:31 2023	Wayando  (STEAM_0:0:188226907) spawned
+Thu Nov 23 19:52:32 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:52:35 2023	turuta4 (STEAM_0:0:633362219) has joined the game
+Thu Nov 23 19:52:35 2023	turuta4 (STEAM_0:0:633362219) spawned
+Thu Nov 23 19:52:39 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:52:44 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Yoshei COÑO, POTY XD
+Thu Nov 23 19:52:48 2023	Gatku Adenn (STEAM_0:0:153814350): /
+Thu Nov 23 19:52:49 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:52:50 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm Guion XD
+Thu Nov 23 19:52:54 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 19:52:55 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm Guiorn XDDD
+Thu Nov 23 19:52:58 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:53:02 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm Guiorn he mandado ficha
+Thu Nov 23 19:53:09 2023	Shouko Nishi (STEAM_0:0:596592151): H...O...LAÇ
+Thu Nov 23 19:53:28 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:53:33 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:53:33 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:53:54 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm Guiorn de momento me mola e
+Thu Nov 23 19:53:55 2023	Gatku Adenn (STEAM_0:0:153814350): 
+Thu Nov 23 19:53:55 2023	Ness Mauwler (STEAM_0:0:633362219) spawned
+Thu Nov 23 19:53:59 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:53:59 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:54:01 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:54:13 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Thu Nov 23 19:54:18 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:54:34 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 19:54:35 2023	Straw berry (STEAM_0:0:142640452) spawned SENT npc_adc_menu
+Thu Nov 23 19:54:36 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 19:54:44 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_makashi
+Thu Nov 23 19:54:44 2023	Straw berry (STEAM_0:0:142640452) spawned SENT brickscrafting_npc
+Thu Nov 23 19:54:45 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_ataru
+Thu Nov 23 19:55:00 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_force_atraeri
+Thu Nov 23 19:55:02 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:55:02 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_force_curarotro
+Thu Nov 23 19:55:03 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_force_heali
+Thu Nov 23 19:55:07 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_force_empujari
+Thu Nov 23 19:55:07 2023	Ness Mauwler (STEAM_0:0:633362219): /pm lynx buenas
+Thu Nov 23 19:55:12 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:55:18 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:55:19 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_shiicho2
+Thu Nov 23 19:55:21 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_shiicho2
+Thu Nov 23 19:55:22 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_shiicho
+Thu Nov 23 19:55:22 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_shiicho
+Thu Nov 23 19:55:27 2023	Ness Mauwler (STEAM_0:0:633362219): /pm lynx hay algun maestro queme sirva para entrenar? XD
+Thu Nov 23 19:55:30 2023	Kaio  was killed by Yoshei Jombei with a weapon_training_saber
+Thu Nov 23 19:55:36 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_force_jump
+Thu Nov 23 19:55:36 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_force_jump
+Thu Nov 23 19:55:41 2023	Kaio  (STEAM_0:0:40650) spawned
+Thu Nov 23 19:55:46 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 19:55:48 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:55:55 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:55:56 2023	Gatku Adenn (STEAM_0:0:153814350): 
+Thu Nov 23 19:56:08 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:56:16 2023	Yoshei Jombei was killed by Kaio  with a weapon_training_saber
+Thu Nov 23 19:56:24 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:56:24 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:56:33 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:56:37 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_saberhilt_ani1
+Thu Nov 23 19:56:37 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_saberhilt_ani1
+Thu Nov 23 19:56:39 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_saberhilt_ani1
+Thu Nov 23 19:56:43 2023	Kaio  was killed by Yoshei Jombei with a weapon_training_saber
+Thu Nov 23 19:56:45 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_crystal_rubin
+Thu Nov 23 19:56:45 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_crystal_rubin
+Thu Nov 23 19:56:45 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_crystal_rubin
+Thu Nov 23 19:56:47 2023	Kaio  (STEAM_0:0:40650): !reviveme
+Thu Nov 23 19:56:50 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:56:55 2023	Kaio  (STEAM_0:0:40650) spawned
+Thu Nov 23 19:56:55 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:57:04 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:57:30 2023	Yoshei Jombei was killed by Kaio  with a weapon_training_saber
+Thu Nov 23 19:57:32 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:57:35 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 19:57:35 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:57:39 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:57:47 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 19:58:17 2023	Ness Mauwler (STEAM_0:0:633362219) disconnected
+Thu Nov 23 19:58:20 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_stance_shiicho2
+Thu Nov 23 19:58:22 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT item_stance_shiicho2
+Thu Nov 23 19:58:26 2023	Teniente Parla (STEAM_0:0:146740106): /drop
+Thu Nov 23 19:58:47 2023	Teniente Parla (STEAM_0:0:146740106): /drop
+Thu Nov 23 19:58:52 2023	Teniente Parla (STEAM_0:0:146740106): /drop
+Thu Nov 23 19:59:03 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 19:59:08 2023	Darth Ma`k was killed by Tayson  with a weapon_lscs
+Thu Nov 23 19:59:10 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 19:59:10 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 19:59:19 2023	Darth Ma`k (STEAM_0:0:63793651): !rocket tay
+Thu Nov 23 19:59:32 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 19:59:34 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:59:49 2023	Straw berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 19:59:49 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:59:53 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 19:59:54 2023	Tayson  was killed by Entity [897][entityflame] with a entityflame
+Thu Nov 23 19:59:56 2023	Darth Ma`k (STEAM_0:0:63793651): !uningnite tay
+Thu Nov 23 20:00:00 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:00:05 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 20:00:05 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:00:05 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:00:10 2023	Umbra  (STEAM_0:1:83510545): 
+Thu Nov 23 20:00:10 2023	Umbra  (STEAM_0:1:83510545): 
+Thu Nov 23 20:00:15 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:00:15 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:00:20 2023	Straw berry (STEAM_0:0:142640452): /pm umbra ahora te hago tp
+Thu Nov 23 20:00:23 2023	Encapuchado Gatku Adenn (STEAM_0:0:153814350): 
+Thu Nov 23 20:00:23 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 20:00:29 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:00:29 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:00:39 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 20:00:50 2023	Kaio  (STEAM_0:0:40650) disconnected
+Thu Nov 23 20:00:56 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:00:56 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:01:40 2023	Shouko Nishi (STEAM_0:0:596592151) disconnected
+Thu Nov 23 20:01:46 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Yoshida dice el programador que alomejos si desabilitas tos los addons menos los nuestros debería ir
+Thu Nov 23 20:01:56 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Yoshei dice el programador que alomejos si desabilitas tos los addons menos los nuestros debería ir
+Thu Nov 23 20:02:06 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm guiorn si lo he pensado
+Thu Nov 23 20:02:32 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Yoshei si eso no va, hay otra forma que es metiendo unos archivos directamente al garrys
+Thu Nov 23 20:02:40 2023	KaioKen (STEAM_0:0:40650) has joined the game
+Thu Nov 23 20:02:40 2023	KaioKen (STEAM_0:0:40650) spawned
+Thu Nov 23 20:02:40 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm guiorn seguramente sea eso
+Thu Nov 23 20:02:54 2023	Yoshei Jombei (STEAM_0:1:520989844): /pm Guiorn pero day gual algunos si los veo ;v
+Thu Nov 23 20:03:15 2023	Kaio  (STEAM_0:0:40650) spawned
+Thu Nov 23 20:03:18 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 20:04:13 2023	Wajah  (STEAM_0:0:456684327) spawned
+Thu Nov 23 20:04:20 2023	Tayson  was killed by Erak  with a weapon_lscs
+Thu Nov 23 20:04:30 2023	Tayson  (STEAM_0:1:541478307) spawned
+Thu Nov 23 20:04:35 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:04:40 2023	Graal Terra (STEAM_0:1:571428465): //en realidad lo sé pero me hago el tonto, soy un niño
+Thu Nov 23 20:04:41 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 20:04:41 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:04:44 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 20:05:54 2023	rubi Apellido (STEAM_0:0:551085146): 
+Thu Nov 23 20:05:57 2023	Straw berry (STEAM_0:0:142640452) disconnected
+Thu Nov 23 20:06:11 2023	Erak  (STEAM_0:1:169415181) disconnected
+Thu Nov 23 20:06:20 2023	Darth Ma`k (STEAM_0:0:63793651): !pj
+Thu Nov 23 20:06:29 2023	Li Karigan (STEAM_0:0:63793651) spawned
+Thu Nov 23 20:06:38 2023	Yoshei Jombei was killed by Kaio  with a weapon_training_saber
+Thu Nov 23 20:06:44 2023	Yoshei Jombei (STEAM_0:1:520989844) spawned
+Thu Nov 23 20:06:44 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 20:06:47 2023	Kaio  (STEAM_0:0:40650): 
+Thu Nov 23 20:06:55 2023	Yoshei Jombei (STEAM_0:1:520989844) disconnected
+Thu Nov 23 20:07:16 2023	Wajah  (STEAM_0:0:456684327): /dropmoney 55.000
+Thu Nov 23 20:07:17 2023	Wajah  (STEAM_0:0:456684327) has dropped $55
+Thu Nov 23 20:07:22 2023	rubi Apellido (STEAM_0:0:551085146): 
+Thu Nov 23 20:07:28 2023	Wajah  (STEAM_0:0:456684327): /dropmoney 50000
+Thu Nov 23 20:07:29 2023	Wajah  (STEAM_0:0:456684327) has dropped $50,000
+Thu Nov 23 20:07:36 2023	Wajah  (STEAM_0:0:456684327): /dropmoney 5000
+Thu Nov 23 20:07:37 2023	Wajah  (STEAM_0:0:456684327) has dropped $5,000
+Thu Nov 23 20:08:04 2023	Power (STEAM_0:0:596592151) has joined the game
+Thu Nov 23 20:08:04 2023	Luna Pavlichenko (STEAM_0:0:596592151) spawned
+Thu Nov 23 20:08:05 2023	DanielZurita07-(ESP) (STEAM_0:0:561732959) has joined the game
+Thu Nov 23 20:08:05 2023	DanielZurita07-(ESP) (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:08:09 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 20:08:13 2023	Kaio  (STEAM_0:0:40650) disconnected
+Thu Nov 23 20:08:20 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
+Thu Nov 23 20:08:20 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 20:08:39 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 23 20:08:39 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 23 20:09:39 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 20:09:53 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 20:09:58 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT pfx3_00
+Thu Nov 23 20:10:00 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 23 20:10:03 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 20:10:13 2023	Wayando  (STEAM_0:0:188226907) disconnected
+Thu Nov 23 20:10:31 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 20:10:41 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 20:10:53 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 20:11:03 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 20:11:16 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 20:11:27 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Thu Nov 23 20:11:41 2023	Guandun Zioo (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:11:41 2023	Shouko Nishi (STEAM_0:0:596592151): /rpdesc
+Thu Nov 23 20:11:49 2023	Shouko Nishi (STEAM_0:0:596592151): /rpdesc
+Thu Nov 23 20:11:51 2023	Guiorn Neverlander (STEAM_0:1:92548084) spawned SENT pfx3_01
+Thu Nov 23 20:11:56 2023	Guandun Zioo (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:12:07 2023	Guandun Zioo (STEAM_0:0:561732959): /rpdesc
+Thu Nov 23 20:12:34 2023	Violet Hextar (STEAM_0:0:635224977): /rpdesc
+Thu Nov 23 20:13:05 2023	Li Karigan (STEAM_0:0:63793651): 
+Thu Nov 23 20:13:12 2023	Umbra  (STEAM_0:1:83510545): //la madre que los pario xd malditos jawa
+Thu Nov 23 20:13:52 2023	Teniente Parla (STEAM_0:0:146740106): /pj
+Thu Nov 23 20:13:55 2023	Teniente Parla (STEAM_0:0:146740106): 
+Thu Nov 23 20:14:05 2023	Straw berry (STEAM_0:0:142640452) spawned
+Thu Nov 23 20:14:12 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 20:14:12 2023	Straw berry (STEAM_0:0:142640452): 
+Thu Nov 23 20:14:14 2023	Straw berry (STEAM_0:0:142640452) disconnected
+Thu Nov 23 20:14:18 2023	Samy  (STEAM_0:0:146740106): 
+Thu Nov 23 20:14:20 2023	Guandun Zioo (STEAM_0:0:561732959): /rpdesc
+Thu Nov 23 20:14:34 2023	Samy  (STEAM_0:0:146740106): /rpdesc
+Thu Nov 23 20:14:54 2023	Graal Terra (STEAM_0:1:571428465): //en realidad si me lo sé pero sino ya ves tu que risa
+Thu Nov 23 20:15:02 2023	Samy  (STEAM_0:0:146740106) spawned
+Thu Nov 23 20:15:02 2023	Samy  (STEAM_0:0:146740106): 
+Thu Nov 23 20:15:07 2023	Shouko Nishi (STEAM_0:0:596592151): /A ¿no querias tambien traerme la raiz de la planta Hextar ? JSJS
+Thu Nov 23 20:15:34 2023	Guandun Zioo (STEAM_0:0:561732959): 
+Thu Nov 23 20:15:34 2023	Guandun Zioo (STEAM_0:0:561732959): 
+Thu Nov 23 20:15:59 2023	Krywar Oldin (STEAM_0:1:644042897): //el violador y la "victima"
+Thu Nov 23 20:16:03 2023	Shouko Nishi (STEAM_0:0:596592151): //que
+Thu Nov 23 20:16:04 2023	Cabo William (STEAM_0:0:175634101): !Spectate
+Thu Nov 23 20:16:11 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 20:16:15 2023	Tayson  (STEAM_0:1:541478307) disconnected
+Thu Nov 23 20:16:50 2023	Krywar Oldin (STEAM_0:1:644042897): /pm violet tu puedes dar clases de habilidades de la fuerza?
+Thu Nov 23 20:16:56 2023	Violet Hextar (STEAM_0:0:635224977): /pm kry non
+Thu Nov 23 20:16:57 2023	Samy  (STEAM_0:0:146740106): /drop
+Thu Nov 23 20:17:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 23 20:17:04 2023	Samy  (STEAM_0:0:146740106): /drop
+Thu Nov 23 20:17:07 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 20:17:11 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 23 20:17:43 2023	Guandun Zioo (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:17:46 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 23 20:18:14 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 23 20:18:33 2023	Guandun Zioo (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:18:34 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov 23 20:18:58 2023	Shouko Nishi (STEAM_0:0:596592151): /A que la Puta Lunaria te va a salir de la tumba y te va a pegar una electrocutada que te dejara Paralitica
+Thu Nov 23 20:19:15 2023	Violet Hextar (STEAM_0:0:635224977): /pm nev enga amo
+Thu Nov 23 20:19:37 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 20:19:55 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Violet ?
+Thu Nov 23 20:20:24 2023	Violet Hextar (STEAM_0:0:635224977): /pm guiorn lo de ascender a rubi y sami
+Thu Nov 23 20:20:30 2023	Guiorn Neverlander (STEAM_0:1:92548084): /pm Violet estoy ocupado
+Thu Nov 23 20:21:02 2023	Li Karigan (STEAM_0:0:63793651): !pj
+Thu Nov 23 20:21:08 2023	Guandun Zioo (STEAM_0:0:561732959): 
+Thu Nov 23 20:21:18 2023	Esjor Karrigan (STEAM_0:0:63793651) spawned
+Thu Nov 23 20:21:29 2023	Esjor Karrigan (STEAM_0:0:63793651): 
+Thu Nov 23 20:21:46 2023	Guandun Zioo (STEAM_0:0:561732959) disconnected
+Thu Nov 23 20:21:49 2023	Cabo William (STEAM_0:0:175634101): 
+Thu Nov 23 20:22:11 2023	Wajah  (STEAM_0:0:456684327): /rpdesc
+Thu Nov 23 20:22:48 2023	Esjor Karrigan (STEAM_0:0:63793651): 
+Thu Nov 23 20:22:51 2023	Esjor Karrigan (STEAM_0:0:63793651): 
+Thu Nov 23 20:23:11 2023	DanielZurita07-(ESP) (STEAM_0:0:561732959) has joined the game
+Thu Nov 23 20:23:11 2023	DanielZurita07-(ESP) (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:23:22 2023	Cabo William (STEAM_0:0:175634101) disconnected
+Thu Nov 23 20:23:51 2023	Esjor Karrigan (STEAM_0:0:63793651): /rpdesc
+Thu Nov 23 20:23:59 2023	Guandun Zioo (STEAM_0:0:561732959) spawned
+Thu Nov 23 20:24:52 2023	Umbra  (STEAM_0:1:83510545): //pareces mas sith tu que yo
+Thu Nov 23 20:24:56 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) buen dia
+Thu Nov 23 20:25:40 2023	Guandun Zioo (STEAM_0:0:561732959): !jpg
+Thu Nov 23 20:25:57 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) buenas señorita
+Thu Nov 23 20:26:21 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) como?
+Thu Nov 23 20:26:28 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) no dame un momentoç
+Thu Nov 23 20:26:40 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) si se hablar galactico general
+Thu Nov 23 20:26:59 2023	Graal Terra (STEAM_0:1:571428465): /rpdesc
+Thu Nov 23 20:27:09 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) ya pero seguramente solo conoceras el jawes de comercio
+Thu Nov 23 20:27:23 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) yo hablo jawes antiguo y 8 idiomas mas
+Thu Nov 23 20:27:23 2023	Gatku Adenn (STEAM_0:0:153814350): lux
+Thu Nov 23 20:27:25 2023	Guandun Zioo (STEAM_0:0:561732959): /rpdesc
+Thu Nov 23 20:27:41 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) no me hace gracia
+Thu Nov 23 20:27:58 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:27:58 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) se de todo soy una persona muy vieja
+Thu Nov 23 20:28:41 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 20:28:50 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:29:02 2023	alex antares (STEAM_0:0:1770861): /ne seria ccorrecto
+Thu Nov 23 20:29:31 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:30:26 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) todo lo que puedas para que no pase parece que esta buscando escusas
+Thu Nov 23 20:30:50 2023	Guandun Zioo (STEAM_0:0:561732959): /noclip
+Thu Nov 23 20:30:51 2023	Gatku Adenn (STEAM_0:0:153814350): //Pues nos estamos montando un rol guapisimo. XD.
+Thu Nov 23 20:30:58 2023	Umbra  (STEAM_0:1:83510545): /pm neverlander necesito que me cambien el tp para no aparecer en korriban xd
+Thu Nov 23 20:31:00 2023	Krywar Oldin (STEAM_0:1:644042897): //es job unico?
+Thu Nov 23 20:31:06 2023	Gatku Adenn (STEAM_0:0:153814350): //Sí.
+Thu Nov 23 20:31:08 2023	Umbra  (STEAM_0:1:83510545): //si
+Thu Nov 23 20:31:12 2023	Krywar Oldin (STEAM_0:1:644042897): //y que eres?xd
+Thu Nov 23 20:31:20 2023	Umbra  (STEAM_0:1:83510545): //ahora mismo nada jajajaaj
+Thu Nov 23 20:31:25 2023	Esjor Karrigan (STEAM_0:0:63793651): /pm Wajah mi pj es un toca webos
+Thu Nov 23 20:31:26 2023	Gatku Adenn (STEAM_0:0:153814350): //Lit.
+Thu Nov 23 20:31:40 2023	Gatku Adenn (STEAM_0:0:153814350): //Ex jedi, ex sith, futuro jedi de nuevo.
+Thu Nov 23 20:31:55 2023	Lynx Talah (STEAM_0:0:562957255): //pedrito pa los amigos
+Thu Nov 23 20:32:13 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) igualmente ya se me quitaron las ganas de enseñar mis artes milenarias
+Thu Nov 23 20:32:25 2023	Lynx Talah (STEAM_0:0:562957255): una duda senador
+Thu Nov 23 20:32:31 2023	Lynx Talah (STEAM_0:0:562957255): el jawa va con usted?
+Thu Nov 23 20:32:33 2023	Krywar Oldin (STEAM_0:1:644042897): eres nuevo por este templo?
+Thu Nov 23 20:32:37 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) madremia que borde tu madre no debera estar muy orgullosa
+Thu Nov 23 20:32:39 2023	Lynx Talah (STEAM_0:0:562957255): y a que venia usted?
+Thu Nov 23 20:32:44 2023	Krywar Oldin (STEAM_0:1:644042897): no pasa nada
+Thu Nov 23 20:32:47 2023	Krywar Oldin (STEAM_0:1:644042897): di eres nuevo
+Thu Nov 23 20:32:54 2023	Krywar Oldin (STEAM_0:1:644042897): y estabas explorando
+Thu Nov 23 20:33:29 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) de xalac
+Thu Nov 23 20:33:30 2023	Guiorn Neverlander (STEAM_0:1:92548084): //a
+Thu Nov 23 20:33:37 2023	Wajah  (STEAM_0:0:456684327): (jawes antiguo) bueno esperar
+Thu Nov 23 20:33:41 2023	Lynx Talah (STEAM_0:0:562957255): una duda que venia a enseñar el senador maestro pedro?
+Thu Nov 23 20:34:03 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) son de xalac de mis antepasados
+Thu Nov 23 20:34:11 2023	Guiorn Neverlander (STEAM_0:1:92548084): //tu tenías skin custom?
+Thu Nov 23 20:34:22 2023	rubi Apellido (STEAM_0:0:551085146): //si
+Thu Nov 23 20:34:28 2023	Guiorn Neverlander (STEAM_0:1:92548084): //va, ahora te la pongo
+Thu Nov 23 20:34:34 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) tu crees en el karma?
+Thu Nov 23 20:34:38 2023	rubi Apellido (STEAM_0:0:551085146): //ya la tengo
+Thu Nov 23 20:34:40 2023	Lynx Talah (STEAM_0:0:562957255): oye este jawa por tiene pinturas
+Thu Nov 23 20:34:41 2023	Guiorn Neverlander (STEAM_0:1:92548084): //perfe
+Thu Nov 23 20:34:46 2023	Lynx Talah (STEAM_0:0:562957255): y un collar de huesos
+Thu Nov 23 20:34:56 2023	Samy  (STEAM_0:0:146740106) disconnected
+Thu Nov 23 20:35:00 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:35:03 2023	Lynx Talah (STEAM_0:0:562957255): a es chaman
+Thu Nov 23 20:35:06 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) mi percepcion de la fuerza es diferente a la tuya
+Thu Nov 23 20:35:30 2023	Lynx Talah (STEAM_0:0:562957255): se a enfadao
+Thu Nov 23 20:35:38 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:35:48 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) no puedo con este señor
+Thu Nov 23 20:35:49 2023	Lynx Talah (STEAM_0:0:562957255): que simpaticos los senadores ultimamente
+Thu Nov 23 20:35:54 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) o se va o no me quedo
+Thu Nov 23 20:35:58 2023	rubi Apellido (STEAM_0:0:551085146) spawned
+Thu Nov 23 20:36:00 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) dime
+Thu Nov 23 20:36:29 2023	Esjor Karrigan (STEAM_0:0:63793651): /rpdesc
+Thu Nov 23 20:36:30 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) como te dicho nuestra percepcion de la "fuerza" es diferente
+Thu Nov 23 20:36:50 2023	rubi Apellido (STEAM_0:0:551085146): /rpdesc
+Thu Nov 23 20:36:51 2023	Lynx Talah (STEAM_0:0:562957255): maestro pedro ahora hablamos
+Thu Nov 23 20:37:02 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) a mi no me molesta
+Thu Nov 23 20:37:08 2023	Lynx Talah (STEAM_0:0:562957255): si creo que sera lo mejor que nos traslademos al senado
+Thu Nov 23 20:37:13 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) me trayeron aqui para ayudar y enseñar
+Thu Nov 23 20:37:24 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) lo que tu estas intentando evitar
+Thu Nov 23 20:37:36 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) cuales son sus verdaderas intenciones?
+Thu Nov 23 20:37:42 2023	Guiorn Neverlander (STEAM_0:1:92548084): 
+Thu Nov 23 20:37:58 2023	Lynx Talah (STEAM_0:0:562957255): que tal usted senador?
+Thu Nov 23 20:37:58 2023	Guiorn Neverlander (STEAM_0:1:92548084) disconnected
+Thu Nov 23 20:38:12 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) yo? me trajeron aqui para enseñar mis artes milenarias no para que usted me vacile y me falte el respeto
+Thu Nov 23 20:38:32 2023	Lynx Talah (STEAM_0:0:562957255): maestr pedro
+Thu Nov 23 20:38:39 2023	Lynx Talah (STEAM_0:0:562957255): tenemos un nuevo caballero por cierto
+Thu Nov 23 20:38:52 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) soy el chaman de mi clan y esido llamado por el senado no por usted asi no tiene potestad
+Thu Nov 23 20:38:55 2023	Lynx Talah (STEAM_0:0:562957255): buenas caballero
+Thu Nov 23 20:39:20 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) un poco mas de respeto
+Thu Nov 23 20:39:34 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) si
+Thu Nov 23 20:39:48 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) me trayeron para enseñar a los padawans cultura de jawa
+Thu Nov 23 20:39:53 2023	Krywar Oldin (STEAM_0:1:644042897) disconnected
+Thu Nov 23 20:41:16 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) pero que...
+Thu Nov 23 20:41:18 2023	Lynx Talah (STEAM_0:0:562957255): tiene hambre sseñor jawa?
+Thu Nov 23 20:41:28 2023	Lynx Talah (STEAM_0:0:562957255): quiere algo de comer?
+Thu Nov 23 20:41:33 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) no ya e comido antes de embarcar en la nave
+Thu Nov 23 20:41:39 2023	Lynx Talah (STEAM_0:0:562957255): a bien
+Thu Nov 23 20:41:46 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) pero gracias por preguntar
+Thu Nov 23 20:41:51 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) eres muy amable
+Thu Nov 23 20:41:59 2023	Lynx Talah (STEAM_0:0:562957255): aqui usted es el invitado hay que tratarlo bien
+Thu Nov 23 20:42:05 2023	Graal Terra (STEAM_0:1:571428465) disconnected
+Thu Nov 23 20:42:23 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) si bueno solo los padawans seguis esa regla al parecer
+Thu Nov 23 20:42:37 2023	Lynx Talah (STEAM_0:0:562957255): ojala fuera padawan soy iniciado pero bueno
+Thu Nov 23 20:42:51 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) digame
+Thu Nov 23 20:42:56 2023	Umbra  (STEAM_0:1:83510545) disconnected
+Thu Nov 23 20:43:11 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) hmmm...
+Thu Nov 23 20:43:27 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) asta que ese señor me deje no puedo
+Thu Nov 23 20:43:38 2023	Gatku Adenn (STEAM_0:0:153814350) disconnected
+Thu Nov 23 20:44:52 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) si fueron aceptado es que fueron aceptado con anterioridad esto no es una visita de suma importancia
+Thu Nov 23 20:45:08 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) pensaba que la orden tenia un poco mas de tolerancia
+Thu Nov 23 20:45:57 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) yo estoy flipando
+Thu Nov 23 20:45:58 2023	Lynx Talah (STEAM_0:0:562957255): perfecto
+Thu Nov 23 20:46:02 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) no no
+Thu Nov 23 20:46:09 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) no acepto tu disculpa
+Thu Nov 23 20:46:28 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) me as faltado el respeto,vacilo y cagado en mi cultura diciendo que nisiquiera exitimos
+Thu Nov 23 20:46:37 2023	rubi Apellido (STEAM_0:0:551085146) disconnected
+Thu Nov 23 20:46:48 2023	Lynx Talah (STEAM_0:0:562957255): a bueno
+Thu Nov 23 20:47:15 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) el perdon de los jedis me lo llevo pero usted en especifico nos a echo perder tiempo valioso y encima con un tonito desgradable
+Thu Nov 23 20:47:21 2023	Lynx Talah (STEAM_0:0:562957255): parate con la hamburgues
+Thu Nov 23 20:47:50 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) asi que "pedro" espero que la proxima vez que nos encontremos sea mas amable
+Thu Nov 23 20:48:04 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) el respeto va siempre primero
+Thu Nov 23 20:48:59 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) exigir? es un viaje y sesion organizado con antelacion por el senado
+Thu Nov 23 20:49:36 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) no busque excusas sino mejore como persona su tono y acciones fueron inapropiadas
+Thu Nov 23 20:49:53 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) no perdmaos mas tiempo
+Thu Nov 23 20:50:00 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) vamonos
+Thu Nov 23 20:50:06 2023	Lynx Talah (STEAM_0:0:562957255): un placer senador
+Thu Nov 23 20:50:40 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) a la sesion?
+Thu Nov 23 20:50:48 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) claro todo el mundo puede venir
+Thu Nov 23 20:50:59 2023	Lynx Talah (STEAM_0:0:562957255): le seguimos
+Thu Nov 23 20:51:13 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) es el senador el que nos va a guiar
+Thu Nov 23 20:51:26 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) pero esperar que esta haciendo una cosa
+Thu Nov 23 20:51:36 2023	Lynx Talah (STEAM_0:0:562957255): por supuesto esperamos
+Thu Nov 23 20:51:58 2023	Lynx Talah (STEAM_0:0:562957255): no veas
+Thu Nov 23 20:52:04 2023	Lynx Talah (STEAM_0:0:562957255): como se las trae el enano
+Thu Nov 23 20:52:14 2023	Lynx Talah (STEAM_0:0:562957255): no se preocupe
+Thu Nov 23 20:52:31 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) sientense
+Thu Nov 23 20:52:48 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) bueno antes quien de aqui conoce el jawes?
+Thu Nov 23 20:53:02 2023	Lynx Talah (STEAM_0:0:562957255): un poco entenderlo si pero hablarlo no
+Thu Nov 23 20:53:13 2023	Esjor Karrigan (STEAM_0:0:63793651) spawned SENT pfx8_03_alt
+Thu Nov 23 20:53:50 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) nuestro conexion es diferente a la vuestra
+Thu Nov 23 20:53:53 2023	Esjor Karrigan (STEAM_0:0:63793651) spawned SENT pfx8_05
+Thu Nov 23 20:54:22 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) nosotros la canalizamos a traves del jawes antiguo y gestos de nuestras manos
+Thu Nov 23 20:54:49 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) nuestra alma se concentra para realizar actos que pocos jawas pueden
+Thu Nov 23 20:55:44 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) nuestra sabiduria es solo extendida a los jawas con un alma muy grande o como lo decis aqui "sensibles"
+Thu Nov 23 20:56:13 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) pocos jawas llegan a convertirse en chamanes pero para los humanos es mas simple
+Thu Nov 23 20:56:28 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) vuestra mente esta mas despeja y vuestra alma es mas grande que la nuestra
+Thu Nov 23 20:56:33 2023	alex antares (STEAM_0:0:1770861): 
+Thu Nov 23 20:56:38 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ahora chicos
+Thu Nov 23 20:56:49 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) respirar ondo cerrar los ojos
+Thu Nov 23 20:57:14 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) proyectaros fuera de esta tierra,de este cielo,de este mar
+Thu Nov 23 20:57:37 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) concentraos en vuestros pensamientos mas profundos
+Thu Nov 23 20:57:46 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ahora
+Thu Nov 23 20:58:12 2023	Lynx Talah (STEAM_0:0:562957255): 
+Thu Nov 23 20:58:16 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 20:58:34 2023	Guandun Zioo (STEAM_0:0:561732959): 
+Thu Nov 23 20:58:39 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) simplemente desconectaros de esta realidad llegar a vuestra alma y manejarla para hacer lo que cualquier ser deberia hacer
+Thu Nov 23 20:58:45 2023	Esjor Karrigan (STEAM_0:0:63793651) spawned SENT pfx8_03_alt
+Thu Nov 23 20:58:47 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ayudar a los demas....
+Thu Nov 23 20:59:01 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 20:59:13 2023	Guandun Zioo (STEAM_0:0:561732959): 
+Thu Nov 23 20:59:13 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ahora proyectar vuestra concentracion hacia mi
+Thu Nov 23 20:59:32 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) extender vuestro brazo y concentraos
+Thu Nov 23 20:59:41 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 20:59:43 2023	Lynx Talah (STEAM_0:0:562957255): 
+Thu Nov 23 21:00:00 2023	Shouko Nishi (STEAM_0:0:596592151): /Rol
+Thu Nov 23 21:00:02 2023	Shouko Nishi (STEAM_0:0:596592151): 
+Thu Nov 23 21:01:34 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Thu Nov 23 21:01:40 2023	LOBO (STEAM_0:0:551085146) has joined the game
+Thu Nov 23 21:01:40 2023	Rubi (STEAM_0:0:551085146) spawned
+Thu Nov 23 21:01:51 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) vale ahora abrir los ojos
+Thu Nov 23 21:02:02 2023	Lynx Talah (STEAM_0:0:562957255) disconnected
+Thu Nov 23 21:02:08 2023	rubi Apellido (STEAM_0:0:551085146) spawned
+Thu Nov 23 21:02:29 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) bueno
+Thu Nov 23 21:02:32 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) decirme
+Thu Nov 23 21:02:44 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) como os habeis sentido?
+Thu Nov 23 21:03:01 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ayudar te hace sentir raro?
+Thu Nov 23 21:03:24 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) mis heridas
+Thu Nov 23 21:03:29 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ahora estan mejor
+Thu Nov 23 21:03:35 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) gracias
+Thu Nov 23 21:04:02 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) necesitareis mas entrenamiento para poder hacerlo sin meditar pero es cuestion de tiempo
+Thu Nov 23 21:04:22 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) nosotros los chamanes usamos lengua y gestos para acelerar el proceso
+Thu Nov 23 21:04:33 2023	Storm (STEAM_0:0:562957255) has joined the game
+Thu Nov 23 21:04:33 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 21:04:44 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) ya esas cosas no os las puedo enseñar ya que tardarias años en aprender
+Thu Nov 23 21:04:59 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) bueno la clase es para curar a otros
+Thu Nov 23 21:05:06 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) pero si puede a ti misma mejor
+Thu Nov 23 21:05:18 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) donde se fue el otro?
+Thu Nov 23 21:05:24 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Thu Nov 23 21:05:36 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) aaaa
+Thu Nov 23 21:05:40 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) claro
+Thu Nov 23 21:05:55 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) bueno eso es todo por hoy
+Thu Nov 23 21:06:03 2023	Shouko Nishi (STEAM_0:0:596592151): /y y te lo perdiste
+Thu Nov 23 21:06:18 2023	Shouko Nishi (STEAM_0:0:596592151): /A Jajaj, que es broma
+Thu Nov 23 21:06:34 2023	Lynx Talah (STEAM_0:0:562957255): que tal maestro ale digo maestro pedro?
+Thu Nov 23 21:06:51 2023	Lynx Talah (STEAM_0:0:562957255): como a ido todo?
+Thu Nov 23 21:06:54 2023	Shouko Nishi (STEAM_0:0:596592151): /A se me cierran los ojitos
+Thu Nov 23 21:07:25 2023	Shouko Nishi (STEAM_0:0:596592151): /A que fue joda ja
+Thu Nov 23 21:07:28 2023	Lynx Talah (STEAM_0:0:562957255): el que el salto?
+Thu Nov 23 21:07:50 2023	Shouko Nishi was killed by Himself with a suicide trick
+Thu Nov 23 21:07:54 2023	Shouko Nishi (STEAM_0:0:596592151) disconnected
+Thu Nov 23 21:08:02 2023	Esjor Karrigan (STEAM_0:0:63793651) disconnected
+Thu Nov 23 21:08:10 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) bueno eso asido todo por hoy
+Thu Nov 23 21:08:16 2023	Lynx Talah (STEAM_0:0:562957255): a bien
+Thu Nov 23 21:08:17 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) espero veros de nuevo
+Thu Nov 23 21:08:23 2023	Lynx Talah (STEAM_0:0:562957255): a va a volver?
+Thu Nov 23 21:08:27 2023	Lynx Talah (STEAM_0:0:562957255): a dar mas clases?
+Thu Nov 23 21:08:29 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) lo mas seguro
+Thu Nov 23 21:08:31 2023	rubi Apellido (STEAM_0:0:551085146) disconnected
+Thu Nov 23 21:08:35 2023	Lynx Talah (STEAM_0:0:562957255): un placer
+Thu Nov 23 21:08:45 2023	alex antares (STEAM_0:0:1770861) disconnected
+Thu Nov 23 21:08:46 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) mi objetivo es que aprendeis a ayudar a otros
+Thu Nov 23 21:08:59 2023	Lynx Talah (STEAM_0:0:562957255): entiendo
+Thu Nov 23 21:09:01 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) y en su debido momento lo llegareis a hacer
+Thu Nov 23 21:09:19 2023	Lynx Talah (STEAM_0:0:562957255): entendido chaman
+Thu Nov 23 21:09:19 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) asi que me retiro haber si la proxima vez no pierdo horas siendo vacilado
+Thu Nov 23 21:09:22 2023	Wajah  (STEAM_0:0:456684327): (galactico basico) buen dia
+Thu Nov 23 21:09:25 2023	Lynx Talah (STEAM_0:0:562957255): adios
+Thu Nov 23 21:09:30 2023	Guandun Zioo (STEAM_0:0:561732959) disconnected
+Thu Nov 23 21:09:36 2023	Lynx Talah (STEAM_0:0:562957255) disconnected
+Thu Nov 23 21:09:45 2023	Wajah  (STEAM_0:0:456684327) disconnected
+Thu Nov 23 21:14:08 2023	nasiporin (STEAM_0:0:1770861) has joined the game
+Thu Nov 23 21:14:08 2023	Alex Antares (STEAM_0:0:1770861) spawned
+Thu Nov 23 21:14:45 2023	alex antares (STEAM_0:0:1770861) spawned
+Thu Nov 23 21:22:56 2023	alex antares (STEAM_0:0:1770861) disconnected
+Thu Nov 23 22:21:48 2023	Ylux02 (STEAM_0:1:571428465) has joined the game
+Thu Nov 23 22:21:48 2023	Ylux02 (STEAM_0:1:571428465) spawned
+Thu Nov 23 22:26:31 2023	Graal Terra (STEAM_0:1:571428465) spawned
+Thu Nov 23 22:27:14 2023	Graal Terra (STEAM_0:1:571428465) disconnected

@@ -1,0 +1,1 @@
+{"Resources":{"Scrap (Compactado)":1.0,"Ruby":2.0,"Hierro":16.0,"Madera":6.0,"Cobre":28.0,"Plastico":7.0,"Plastico (Compactado)":1.0,"Scrap":1.0}}

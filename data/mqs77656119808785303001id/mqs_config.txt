@@ -1,0 +1,37 @@
+{
+	"IntoQuestAutogive": false,
+	"Administrators": {
+		"owner": true,
+		"superadmin": true
+	},
+	"Editors": {
+		"admin": true
+	},
+	"SmallObj": false,
+	"StopKey": 26.0,
+	"Sort": true,
+	"hudPos": 1.0,
+	"id_v": "76561198087853055",
+	"CamFix": false,
+	"NPC": {
+		"enable": true,
+		"list": []
+	},
+	"UI": {
+		"HUDBG": 1.0,
+		"HudAlignX": false,
+		"HudAlignY": false,
+		"BgrColor": {
+			"r": 45.0,
+			"b": 45.0,
+			"a": 255.0,
+			"g": 45.0
+		},
+		"Vignette": false,
+		"HudOffsetX": 0.0,
+		"HudOffsetY": 0.0,
+		"Blur": false
+	},
+	"IntoQuest": "",
+	"QuestEntDrawDist": 500.0
+}

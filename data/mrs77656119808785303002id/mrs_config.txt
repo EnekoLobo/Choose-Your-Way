@@ -1,0 +1,37 @@
+{
+	"plyUI": {
+		"AlignX": 0.0,
+		"Follow": true,
+		"Theme": 4.0,
+		"ShowGroup": false,
+		"Show": false,
+		"X": 0.5,
+		"HideName": false,
+		"IconSize": 48.0,
+		"Y": 0.5,
+		"IconRight": false,
+		"FontSize": 28.0
+	},
+	"CommanOpen": "/mrs",
+	"HUD": {
+		"AlignX": 0.0,
+		"Theme": 4.0,
+		"ShowGroup": false,
+		"Show": true,
+		"X": 0.01,
+		"Y": 0.76,
+		"AlignY": 0.0,
+		"IconSize": 46.0,
+		"IconRight": false,
+		"HideName": false,
+		"FontSize": 20.0
+	},
+	"SetAsPrefix": true,
+	"id_v": "76561198087853055",
+	"PlayerNameFormat": 1.0,
+	"ChangeJobName": false,
+	"CommanDemote": "/demote",
+	"CommanPromote": "/promote",
+	"ChangePlayerName": false,
+	"Is2d3d": true
+}

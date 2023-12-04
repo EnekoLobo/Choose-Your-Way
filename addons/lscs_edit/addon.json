@@ -1,0 +1,10 @@
+{
+	"title"		: "[LSCS] - Jedi Knight",
+	"type"		: "weapon",
+	"tags"		: [ "fun" ],
+	"ignore"	: [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

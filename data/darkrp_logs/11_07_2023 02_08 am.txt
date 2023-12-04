@@ -1,0 +1,283 @@
+Tue Nov  7 02:08:31 2023	SNAGEL (STEAM_0:1:535855462) has joined the game
+Tue Nov  7 02:08:31 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:08:38 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Tue Nov  7 02:08:38 2023	Droide SCM (STEAM_0:0:63793651) spawned
+Tue Nov  7 02:08:42 2023	nasiporin (STEAM_0:0:1770861) has joined the game
+Tue Nov  7 02:08:42 2023	Alexander  Antares (STEAM_0:0:1770861) spawned
+Tue Nov  7 02:08:43 2023	Samy (STEAM_0:0:146740106) has joined the game
+Tue Nov  7 02:08:43 2023	Samy (STEAM_0:0:146740106) spawned
+Tue Nov  7 02:08:44 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Tue Nov  7 02:08:44 2023	Sgt Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov  7 02:08:50 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:09:04 2023	Centinela (STEAM_0:1:535855462): /rp desc
+Tue Nov  7 02:09:12 2023	Alexander  Antares (STEAM_0:0:1770861) spawned
+Tue Nov  7 02:11:16 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Tue Nov  7 02:11:16 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:12:07 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:09 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:12 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:20 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:25 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:26 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:27 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:27 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:12:33 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:12:44 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_crystal_allnatt
+Tue Nov  7 02:12:48 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:12:52 2023	Centinela (STEAM_0:1:535855462): 
+Tue Nov  7 02:13:11 2023	Sgt Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov  7 02:13:14 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:13:31 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_saberhilt_swtors4
+Tue Nov  7 02:14:25 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_stance_ataru
+Tue Nov  7 02:15:31 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_atraeri
+Tue Nov  7 02:15:34 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_empujari
+Tue Nov  7 02:15:36 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_desarmariii
+Tue Nov  7 02:15:39 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_pull
+Tue Nov  7 02:15:41 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_sense
+Tue Nov  7 02:15:42 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_replenish
+Tue Nov  7 02:15:44 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_throw
+Tue Nov  7 02:15:44 2023	Droide SCM (STEAM_0:0:63793651) spawned SENT item_force_velocidadi
+Tue Nov  7 02:15:55 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:16:28 2023	Centinela (STEAM_0:1:535855462): 
+Tue Nov  7 02:16:42 2023	Maestra Consul Hextar (STEAM_0:0:635224977): /pm straw pregunta si conocen a Xela
+Tue Nov  7 02:16:47 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:01 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:12 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:13 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:18 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:26 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:28 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:31 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:40 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:45 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:55 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:17:57 2023	xXUnTiro_TePeguenXx (STEAM_0:0:544918367) has joined the game
+Tue Nov  7 02:17:57 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 02:18:24 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 02:19:21 2023	Skull was killed by Himself with a suicide trick
+Tue Nov  7 02:19:31 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 02:19:32 2023	Sgt Straw Berry (STEAM_0:0:142640452): /pm skull illo te queria decir perdon por mi comportamiento de ayer
+Tue Nov  7 02:19:41 2023	Sgt Straw Berry (STEAM_0:0:142640452): /pm skull me pase algocontigo
+Tue Nov  7 02:20:02 2023	Skull (STEAM_0:0:544918367): /pm sgt no psas nada yo entiendo que te pusieras asi
+Tue Nov  7 02:20:35 2023	Skull (STEAM_0:0:544918367): /pm sgt es normal soy un hijo puta como skull pero ahora va a cambiar no te preocupes
+Tue Nov  7 02:21:31 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:21:32 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:21:34 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:21:43 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:21:59 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:22:11 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:22:11 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:22:25 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned SENT training_orb
+Tue Nov  7 02:22:32 2023	Centinela (STEAM_0:1:535855462): 
+Tue Nov  7 02:22:36 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:22:36 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:22:37 2023	Centinela (STEAM_0:1:535855462): 
+Tue Nov  7 02:22:38 2023	Samy (STEAM_0:0:146740106) spawned
+Tue Nov  7 02:22:53 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:22:57 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:23:06 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:23:06 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:23:07 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:23:15 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Si, es nuevo
+Tue Nov  7 02:23:42 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Te enseñaron ya el estilo de batalla?
+Tue Nov  7 02:23:51 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Si
+Tue Nov  7 02:24:02 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Puedes practicar con tu compañero
+Tue Nov  7 02:24:06 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:24:26 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Entonces solo es practica, joven iniciado
+Tue Nov  7 02:24:52 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:25:01 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Saludo
+Tue Nov  7 02:25:23 2023	Maestra Consul Hextar (STEAM_0:0:635224977): /y SKull! recuerda no darle la espalda!
+Tue Nov  7 02:25:44 2023	Skull was killed by Samy with a weapon_training_saber
+Tue Nov  7 02:25:57 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 02:26:13 2023	Maestra Consul Hextar (STEAM_0:0:635224977): /y Ya se desactivo la bola
+Tue Nov  7 02:26:27 2023	Centinela (STEAM_0:1:535855462): gane
+Tue Nov  7 02:26:39 2023	Maestra Consul Hextar (STEAM_0:0:635224977): En efecto
+Tue Nov  7 02:26:48 2023	Centinela (STEAM_0:1:535855462): / /  no se usar la fuerza :)
+Tue Nov  7 02:27:02 2023	Samy (STEAM_0:0:146740106): //me pase
+Tue Nov  7 02:27:05 2023	Maestra Consul Hextar (STEAM_0:0:635224977): //te lo equi
+Tue Nov  7 02:27:06 2023	Sgt Straw Berry (STEAM_0:0:142640452): /pm skull va genial, me encata oir eso
+Tue Nov  7 02:27:40 2023	Maestra Consul Hextar (STEAM_0:0:635224977): //esta equipado?
+Tue Nov  7 02:27:57 2023	Centinela (STEAM_0:1:535855462): / / a 90 de salud pero si, tengo la fuerza
+Tue Nov  7 02:28:06 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:28:14 2023	Centinela (STEAM_0:1:535855462): / / perfecto
+Tue Nov  7 02:28:47 2023	Maestra Consul Hextar (STEAM_0:0:635224977): //yo lo tengo bindeao en la j
+Tue Nov  7 02:29:51 2023	Centinela (STEAM_0:1:535855462): 
+Tue Nov  7 02:31:57 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:31:57 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:32:11 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:33:36 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned SENT item_force_immunity
+Tue Nov  7 02:34:25 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:34:40 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:34:46 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:34:53 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:35:05 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:35:11 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:35:37 2023	Centinela was killed by Maestra Consul Hextar with a weapon_lscs
+Tue Nov  7 02:35:45 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:35:45 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:35:49 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:36:24 2023	Maestra Consul Hextar was killed by Centinela with a weapon_lscs
+Tue Nov  7 02:36:29 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:36:32 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:36:32 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:36:35 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:37:04 2023	Maestra Consul Hextar was killed by Centinela with a weapon_lscs
+Tue Nov  7 02:37:17 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:37:36 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:37:50 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:38:17 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:38:18 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:38:27 2023	Maestra Consul Hextar was killed by Centinela with a weapon_lscs
+Tue Nov  7 02:38:42 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:38:43 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:38:48 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:38:52 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:38:58 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:39:28 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:39:28 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:39:37 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:39:38 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:40:11 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:40:58 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:40:58 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned SENT item_force_jump
+Tue Nov  7 02:41:00 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:41:32 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:41:40 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:41:41 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:41:52 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_nexu
+Tue Nov  7 02:42:05 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_rancordragon
+Tue Nov  7 02:42:05 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:42:19 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_nightmarebeast
+Tue Nov  7 02:42:24 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:42:25 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:42:45 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:42:46 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:42:49 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned NPC npc_combine_s
+Tue Nov  7 02:42:50 2023	Centinela (STEAM_0:1:535855462) disconnected
+Tue Nov  7 02:43:30 2023	Skull (STEAM_0:0:544918367): 
+Tue Nov  7 02:44:01 2023	SNAGEL (STEAM_0:1:535855462) has joined the game
+Tue Nov  7 02:44:01 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:44:14 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:44:20 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:44:29 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:45:00 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:45:35 2023	Centinela was killed by Maestra Consul Hextar with a weapon_lscs
+Tue Nov  7 02:45:45 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:45:46 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned NPC npc_citizen
+Tue Nov  7 02:45:50 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:46:00 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:46:13 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 02:46:21 2023	Skull (STEAM_0:0:544918367): /rpdesc
+Tue Nov  7 02:47:02 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 02:47:11 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:47:12 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:47:57 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:48:04 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:48:05 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned NPC npc_citizen
+Tue Nov  7 02:48:06 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:48:09 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:48:27 2023	Droide SCM was killed by Entity [0][worldspawn] with a unknown
+Tue Nov  7 02:48:32 2023	Droide SCM (STEAM_0:0:63793651) spawned
+Tue Nov  7 02:48:32 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:48:33 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:48:39 2023	PussyDestroyer (STEAM_0:0:579794486) has joined the game
+Tue Nov  7 02:48:39 2023	Kael Voss (STEAM_0:0:579794486) spawned
+Tue Nov  7 02:48:53 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:49:15 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:50:04 2023	Centinela was killed by Maestra Consul Hextar with a weapon_lscs
+Tue Nov  7 02:50:15 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 02:50:19 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:50:25 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:50:28 2023	Kael Voss (STEAM_0:0:579794486) spawned
+Tue Nov  7 02:51:05 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:51:05 2023	Droide SCM was killed by Entity [0][worldspawn] with a unknown
+Tue Nov  7 02:51:05 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:51:16 2023	Droide SCM (STEAM_0:0:63793651) spawned
+Tue Nov  7 02:51:17 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:51:30 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:51:31 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:51:33 2023	Maestra Consul Hextar was killed by Centinela with a weapon_lscs
+Tue Nov  7 02:51:44 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 02:51:52 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:52:54 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:52:55 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:53:05 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:53:47 2023	Sgt Straw Berry (STEAM_0:0:142640452) disconnected
+Tue Nov  7 02:54:02 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 02:54:07 2023	Centinela (STEAM_0:1:535855462): se puede saber porque corres con un sable de entrenamiento por el templo?
+Tue Nov  7 02:54:21 2023	Centinela (STEAM_0:1:535855462): se puede saber porque corres con un sable de entrenamiento por el templo?
+Tue Nov  7 02:54:26 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Que?
+Tue Nov  7 02:54:38 2023	Centinela (STEAM_0:1:535855462): hay una sala para eso
+Tue Nov  7 02:54:46 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Nada
+Tue Nov  7 02:54:53 2023	Centinela (STEAM_0:1:535855462): la sala esta y se usa
+Tue Nov  7 02:54:59 2023	Centinela (STEAM_0:1:535855462): no se usa el templo
+Tue Nov  7 02:55:02 2023	Centinela (STEAM_0:1:535855462): no son modales
+Tue Nov  7 02:55:45 2023	Maestra Consul Hextar (STEAM_0:0:635224977): que pasa samy?
+Tue Nov  7 02:56:36 2023	Maestra Consul Hextar (STEAM_0:0:635224977): /pm cent si ves que los vacilan y eso, desarmalos
+Tue Nov  7 02:56:41 2023	Maestra Consul Hextar (STEAM_0:0:635224977): /pm cent se les va lo gallito
+Tue Nov  7 02:56:51 2023	Centinela (STEAM_0:1:535855462): /pm Consul :)
+Tue Nov  7 02:57:04 2023	Kael Voss (STEAM_0:0:579794486) disconnected
+Tue Nov  7 02:57:21 2023	Centinela (STEAM_0:1:535855462): me retiro a entrenar
+Tue Nov  7 02:58:02 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:58:24 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:58:36 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 02:58:49 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Quieren bajar a hacer un duelo con el centinel_
+Tue Nov  7 02:59:00 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Ahora quiere tener un cuerpo bionico?
+Tue Nov  7 02:59:10 2023	Samy (STEAM_0:0:146740106): t
+Tue Nov  7 02:59:15 2023	Maestra Consul Hextar (STEAM_0:0:635224977): A ver
+Tue Nov  7 02:59:26 2023	Maestra Consul Hextar (STEAM_0:0:635224977): No hace falta todo eso
+Tue Nov  7 02:59:43 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Cierto, usted tenía 30, no maestro?
+Tue Nov  7 03:00:34 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Cierto, recuerdo cuando me daba clase, Maestro
+Tue Nov  7 03:01:40 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Yo aún recuerdo cuando perdí a mi maestro
+Tue Nov  7 03:03:18 2023	Maestra Consul Hextar (STEAM_0:0:635224977): /rpdesc
+Tue Nov  7 03:03:22 2023	Centinela (STEAM_0:1:535855462): es mejor que la hora llegu haciendo lo correcto
+Tue Nov  7 03:03:36 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Luchando como un Jedi
+Tue Nov  7 03:03:37 2023	Centinela (STEAM_0:1:535855462): lo sabras en su momento
+Tue Nov  7 03:03:44 2023	Centinela (STEAM_0:1:535855462): no es tan moral
+Tue Nov  7 03:04:21 2023	Centinela (STEAM_0:1:535855462): en cada momento sabes que es lo correcto, lo comodo, lo que te beneficia y lo que esta mal
+Tue Nov  7 03:04:22 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:07:00 2023	Centinela (STEAM_0:1:535855462): cada cosa y ser tiene su momento
+Tue Nov  7 03:07:07 2023	Centinela (STEAM_0:1:535855462): hay una cadena de la vida
+Tue Nov  7 03:07:27 2023	Centinela (STEAM_0:1:535855462): yo aceptare mi muerte
+Tue Nov  7 03:07:37 2023	Centinela (STEAM_0:1:535855462): incluso si acabo en un estomago
+Tue Nov  7 03:10:54 2023	Centinela (STEAM_0:1:535855462): lo llegaras a ser
+Tue Nov  7 03:14:18 2023	Centinela (STEAM_0:1:535855462): en que bando estas?
+Tue Nov  7 03:19:55 2023	Alexander  Antares (STEAM_0:0:1770861): /oc jajajaj caborn me intento ponjer seriopero no puedo xd
+Tue Nov  7 03:20:47 2023	Maestra Consul Hextar (STEAM_0:0:635224977) disconnected
+Tue Nov  7 03:23:13 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Tue Nov  7 03:23:13 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 03:25:21 2023	Skull was killed by Alexander  Antares with a weapon_lscs
+Tue Nov  7 03:25:31 2023	Skull (STEAM_0:0:544918367) spawned
+Tue Nov  7 03:25:56 2023	Centinela (STEAM_0:1:535855462) disconnected
+Tue Nov  7 03:26:03 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov  7 03:26:36 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Buenas
+Tue Nov  7 03:28:42 2023	SNAGEL (STEAM_0:1:535855462) has joined the game
+Tue Nov  7 03:28:42 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 03:29:10 2023	Centinela (STEAM_0:1:535855462) spawned
+Tue Nov  7 03:33:33 2023	Maestra Consul Hextar (STEAM_0:0:635224977): !medico
+Tue Nov  7 03:34:51 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 03:41:23 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:41:27 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:41:28 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:41:50 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:41:51 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:42:19 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Tue Nov  7 03:42:24 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:42:27 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:05 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:06 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:21 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:22 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:23 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:24 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:27 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:43:28 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:44:52 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:44:55 2023	Droide SCM was killed by Entity [0][worldspawn] with a unknown
+Tue Nov  7 03:45:05 2023	Droide SCM (STEAM_0:0:63793651) spawned
+Tue Nov  7 03:47:05 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned SENT falign_50_lightside
+Tue Nov  7 03:48:36 2023	Droide SCM (STEAM_0:0:63793651): 
+Tue Nov  7 03:51:58 2023	Centinela (STEAM_0:1:535855462): si te portas bien, puedes ir a trabajar en estos sitios
+Tue Nov  7 03:52:12 2023	Centinela (STEAM_0:1:535855462): si te portas mal, te llevaremos a trabajar en el jardin
+Tue Nov  7 03:53:18 2023	Samy (STEAM_0:0:146740106): /w y menos a las mascotas de la maestra skull
+Tue Nov  7 03:54:31 2023	Droide SCM (STEAM_0:0:63793651): 

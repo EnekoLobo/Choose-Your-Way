@@ -1,0 +1,1 @@
+1=item_saberhilt_ani1,2=item_stance_soresu,3=item_force_atraeri,4=item_force_empujari,5=item_force_pull,6=item_force_jump,7=item_force_healiii,8=item_force_curarotro,9=item_force_healii,10=item_force_velocidadi,11=item_force_groupheal,12=item_crystal_smaragd,#

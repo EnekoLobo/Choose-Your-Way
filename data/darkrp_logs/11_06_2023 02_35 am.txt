@@ -1,0 +1,42 @@
+Mon Nov  6 02:35:41 2023	SNAGEL (STEAM_0:1:535855462) has joined the game
+Mon Nov  6 02:35:41 2023	Kinquer (STEAM_0:1:535855462) spawned
+Mon Nov  6 02:35:45 2023	Samy (STEAM_0:0:146740106) has joined the game
+Mon Nov  6 02:35:45 2023	Samy (STEAM_0:0:146740106) spawned
+Mon Nov  6 02:35:50 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Mon Nov  6 02:35:50 2023	Desconocido (STEAM_0:0:63793651) spawned
+Mon Nov  6 02:36:03 2023	Samy (STEAM_0:0:146740106) spawned
+Mon Nov  6 02:36:17 2023	xXUnTiro_TePeguenXx (STEAM_0:0:544918367) has joined the game
+Mon Nov  6 02:36:17 2023	Skull (STEAM_0:0:544918367) spawned
+Mon Nov  6 02:37:38 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Mon Nov  6 02:37:38 2023	Sgt Straw  Berry (STEAM_0:0:142640452) spawned
+Mon Nov  6 02:37:49 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:37:58 2023	Desconocido (STEAM_0:0:63793651) spawned
+Mon Nov  6 02:37:59 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:38:07 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:40:02 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:40:05 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:40:40 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:40:47 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:40:49 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:40:50 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:41:23 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:41:52 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:42:00 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:42:27 2023	Kinquer was killed by Skull with a weapon_training_saber
+Mon Nov  6 02:42:39 2023	Kinquer (STEAM_0:1:535855462) spawned
+Mon Nov  6 02:43:03 2023	Kinquer (STEAM_0:1:535855462): 
+Mon Nov  6 02:43:04 2023	Sgt Straw  Berry (STEAM_0:0:142640452) spawned SENT item_stance_juggernaut
+Mon Nov  6 02:43:06 2023	Sgt Straw  Berry (STEAM_0:0:142640452) spawned SENT item_stance_juggernaut
+Mon Nov  6 02:43:14 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:43:26 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:43:49 2023	Kinquer was killed by Skull with a weapon_training_saber
+Mon Nov  6 02:44:01 2023	Kinquer (STEAM_0:1:535855462) spawned
+Mon Nov  6 02:44:48 2023	Kinquer was killed by Skull with a weapon_training_saber
+Mon Nov  6 02:44:58 2023	Kinquer (STEAM_0:1:535855462) spawned
+Mon Nov  6 02:44:58 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:45:56 2023	Kinquer was killed by Skull with a weapon_training_saber
+Mon Nov  6 02:45:59 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:46:08 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:46:09 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:46:10 2023	Desconocido (STEAM_0:0:63793651): 
+Mon Nov  6 02:46:27 2023	Kinquer (STEAM_0:1:535855462) spawned

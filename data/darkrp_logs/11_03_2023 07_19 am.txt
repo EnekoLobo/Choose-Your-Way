@@ -1,0 +1,9 @@
+Fri Nov  3 07:19:38 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Fri Nov  3 07:19:38 2023	Irindor Prime (STEAM_0:0:63793651) spawned
+Fri Nov  3 07:25:47 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Fri Nov  3 07:25:47 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Nov  3 07:26:21 2023	David Antonio (STEAM_0:0:142640452): /Do cafe
+Fri Nov  3 07:30:16 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Fri Nov  3 07:31:04 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Fri Nov  3 07:31:04 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Nov  3 07:34:41 2023	David Antonio (STEAM_0:0:142640452): /name Sgt Straw

@@ -1,0 +1,1 @@
+{"Lado Oscuro":250.0,"Lado Luminoso":0.0}

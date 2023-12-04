@@ -1,0 +1,47 @@
+{
+	"Rounded": 8.0,
+	"MainColor": {
+		"r": {
+			"r": 255.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 0.0
+		},
+		"rd": {
+			"r": 220.0,
+			"b": 0.0,
+			"a": 255.0,
+			"g": 0.0
+		},
+		"p": {
+			"r": 0.0,
+			"b": 255.0,
+			"a": 255.0,
+			"g": 155.0
+		}
+	},
+	"Blur": false,
+	"Vignette": false,
+	"BgrColor": {
+		"r": 45.0,
+		"b": 45.0,
+		"a": 255.0,
+		"g": 45.0
+	},
+	"HUD": {
+		"AlignX": 0.0,
+		"Follow": true,
+		"Text": "MacNCo",
+		"TeamColor": false,
+		"ShowGroup": true,
+		"IconRight": false,
+		"X": 0.5,
+		"Icon": "https://i.imgur.com/ND3b6Do.png",
+		"IconSize": 48.0,
+		"Y": 0.5,
+		"Dist": 200.0,
+		"ShowIcon": false,
+		"FontSize": 28.0
+	},
+	"Language": "es"
+}

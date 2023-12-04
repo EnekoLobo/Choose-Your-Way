@@ -1,0 +1,96 @@
+Thu Nov  2 13:52:05 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov  2 13:52:06 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 13:59:09 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:05:07 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_tauntaun
+Thu Nov  2 14:10:23 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:11:07 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:11:28 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:14:36 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:14:54 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:15:32 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:15:48 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:16:02 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:16:29 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:17:07 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:19:13 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:19:51 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:21:12 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov  2 14:21:55 2023	Violet Hextar was killed by Himself with a suicide trick
+Thu Nov  2 14:21:55 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov  2 14:22:05 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:24:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov  2 14:24:26 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:25:52 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:34:36 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_klorslug
+Thu Nov  2 14:35:04 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_tauntaun
+Thu Nov  2 14:35:10 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_nexu
+Thu Nov  2 14:36:08 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_nerf
+Thu Nov  2 14:36:11 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_nerf
+Thu Nov  2 14:36:24 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_marsh_rancor
+Thu Nov  2 14:36:31 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_bantha
+Thu Nov  2 14:36:42 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_wampa
+Thu Nov  2 14:36:50 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_massassi
+Thu Nov  2 14:36:56 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_uxibeast
+Thu Nov  2 14:37:05 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_drg_makrin
+Thu Nov  2 14:37:29 2023	Violet Hextar was killed by NextBot [1289][npc_drg_makrin] with a npc_drg_makrin
+Thu Nov  2 14:37:39 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:37:43 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Thu Nov  2 14:46:26 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov  2 14:46:26 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:46:50 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:47:32 2023	Violet Hextar was killed by Himself with a suicide trick
+Thu Nov  2 14:47:32 2023	Violet Hextar (STEAM_0:0:635224977): 
+Thu Nov  2 14:47:43 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Thu Nov  2 14:48:16 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Fri Nov  3 03:55:59 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Fri Nov  3 03:55:59 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:56:20 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:56:57 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:57:23 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:57:42 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:58:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:58:34 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:58:46 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:59:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:59:13 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:59:24 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:59:37 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 03:59:50 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:00:15 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:00:28 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:00:40 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:00:58 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:01:11 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:01:22 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:01:35 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:02:45 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:02:59 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:03:13 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:04:02 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:04:15 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:04:29 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:04:41 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:06:40 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:07:16 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:07:28 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:07:50 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:08:06 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:08:26 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:08:53 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:09:45 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:09:59 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:10:18 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Nov  3 04:28:50 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) disconnected
+Fri Nov  3 06:58:15 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Fri Nov  3 06:58:15 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Nov  3 06:58:40 2023	David Antonio (STEAM_0:0:142640452): /advert hola
+Fri Nov  3 06:58:50 2023	David Antonio (STEAM_0:0:142640452): 
+Fri Nov  3 06:58:56 2023	David Antonio (STEAM_0:0:142640452): /do hola
+Fri Nov  3 06:59:00 2023	David Antonio (STEAM_0:0:142640452): /ano hola
+Fri Nov  3 06:59:35 2023	David Antonio (STEAM_0:0:142640452): /advert no funciona
+Fri Nov  3 07:01:32 2023	David Antonio (STEAM_0:0:142640452): /entorno
+Fri Nov  3 07:01:35 2023	David Antonio (STEAM_0:0:142640452): /entorno hola
+Fri Nov  3 07:02:17 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Nov  3 07:02:18 2023	David Antonio (STEAM_0:0:142640452): !commands
+Fri Nov  3 07:06:19 2023	David Antonio (STEAM_0:0:142640452): !bywhislis
+Fri Nov  3 07:08:37 2023	David Antonio (STEAM_0:0:142640452) disconnected

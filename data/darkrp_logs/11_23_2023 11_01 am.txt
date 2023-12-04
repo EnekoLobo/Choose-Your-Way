@@ -1,0 +1,33 @@
+Thu Nov 23 11:01:18 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 23 11:01:18 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 23 11:07:02 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 11:07:32 2023	Darth Ma`k (STEAM_0:0:63793651) disconnected
+Thu Nov 23 11:59:51 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 23 11:59:51 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 23 12:00:15 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 12:10:21 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT brickscrafting_bench_weapons
+Thu Nov 23 12:14:33 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT brickscrafting_resourcescrap(compactado)
+Thu Nov 23 12:18:12 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT brickscrafting_bench_general
+Thu Nov 23 12:26:28 2023	Darth Ma`k (STEAM_0:0:63793651) disconnected
+Thu Nov 23 12:28:13 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 23 12:28:13 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 23 12:31:49 2023	Ylux02 (STEAM_0:1:571428465) has joined the game
+Thu Nov 23 12:31:49 2023	Ylux02 (STEAM_0:1:571428465) spawned
+Thu Nov 23 12:33:50 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Thu Nov 23 12:34:39 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 12:47:06 2023	Beta0115 (STEAM_0:1:581715009) has joined the game
+Thu Nov 23 12:47:06 2023	Beta Sunshine (STEAM_0:1:581715009) spawned
+Thu Nov 23 12:47:38 2023	Graal Terra (STEAM_0:1:571428465): 
+Thu Nov 23 12:47:38 2023	Graal Terra (STEAM_0:1:571428465): 
+Thu Nov 23 12:47:56 2023	Beta Sunshine (STEAM_0:1:581715009) spawned
+Thu Nov 23 12:48:41 2023	Graal Terra (STEAM_0:1:571428465): 
+Thu Nov 23 12:49:13 2023	Graal Terra (STEAM_0:1:571428465): 
+Thu Nov 23 12:49:53 2023	Graal Terra  (STEAM_0:1:571428465) spawned
+Thu Nov 23 12:49:58 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 12:50:07 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 12:51:01 2023	Beta Sunshine (STEAM_0:1:581715009) disconnected
+Thu Nov 23 12:51:35 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 12:51:41 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Thu Nov 23 12:53:48 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT item_stance_shiicho2
+Thu Nov 23 12:55:48 2023	Graal Terra  (STEAM_0:1:571428465): /drop
+Thu Nov 23 12:56:37 2023	Darth Ma`k (STEAM_0:0:63793651): 

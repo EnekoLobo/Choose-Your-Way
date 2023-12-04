@@ -1,0 +1,103 @@
+Sat Oct 28 03:31:57 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Sat Oct 28 03:31:57 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:32:50 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:33:30 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Sat Oct 28 03:33:30 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 03:34:29 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 03:35:25 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Sat Oct 28 03:35:25 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 03:35:57 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Sat Oct 28 03:35:57 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 03:36:24 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:36:44 2023	Violet Hextar was killed by A1 Epsilon with a weapon_lscs
+Sat Oct 28 03:37:08 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:37:15 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:37:20 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:37:35 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 03:37:47 2023	David Antonio was killed by A1 Epsilon with a weapon_lscs
+Sat Oct 28 03:37:52 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:37:52 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:38:12 2023	David Antonio was killed by Himself with a suicide trick
+Sat Oct 28 03:38:12 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:38:15 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:38:15 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:38:48 2023	A1 Epsilon was killed by David Antonio with a rw_sw_nade
+Sat Oct 28 03:38:51 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 03:38:51 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:39:00 2023	A1 Epsilon was killed by David Antonio with a rw_sw_nade
+Sat Oct 28 03:39:02 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 03:39:02 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:39:28 2023	David Antonio was killed by A1 Epsilon with a weapon_lscs
+Sat Oct 28 03:39:31 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:39:31 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:40:40 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 03:40:58 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 03:41:05 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 03:41:30 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 03:41:42 2023	David Antonio was killed by A1 Epsilon with a weapon_lscs
+Sat Oct 28 03:41:45 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:41:45 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:42:18 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_saberhilt_nanosword
+Sat Oct 28 03:42:23 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:42:24 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_crystal_smaragd
+Sat Oct 28 03:42:33 2023	A1 Epsilon (STEAM_0:0:63793651): !brickscreditstore
+Sat Oct 28 03:42:45 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 03:43:24 2023	Violet Hextar (STEAM_0:0:635224977): A mi me gusta mi coso ese
+Sat Oct 28 03:43:58 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_jump
+Sat Oct 28 03:43:59 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_sense
+Sat Oct 28 03:45:09 2023	Violet Hextar (STEAM_0:0:635224977): Nada, me aburro
+Sat Oct 28 03:45:17 2023	A1 Epsilon was killed by David Antonio with a dc17m_at_rocket
+Sat Oct 28 03:45:21 2023	David Antonio was killed by Violet Hextar with a weapon_lscs
+Sat Oct 28 03:45:24 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:45:24 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:48:00 2023	Violet Hextar (STEAM_0:0:635224977): q verga
+Sat Oct 28 03:48:02 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 03:48:20 2023	Violet Hextar (STEAM_0:0:635224977): Soy un holograma wtf
+Sat Oct 28 03:48:27 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:48:36 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 03:48:36 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:48:37 2023	Violet Hextar (STEAM_0:0:635224977): es una cosa de la tool
+Sat Oct 28 03:49:02 2023	Violet Hextar (STEAM_0:0:635224977): Esto mola pa los roles
+Sat Oct 28 03:50:05 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_portableturret
+Sat Oct 28 03:50:16 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiairturret
+Sat Oct 28 03:50:22 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiinfantryturret
+Sat Oct 28 03:50:26 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antivehicleturret
+Sat Oct 28 03:50:33 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_soulless
+Sat Oct 28 03:50:35 2023	Violet Hextar (STEAM_0:0:635224977): desapareces al entrar
+Sat Oct 28 03:50:37 2023	Violet Hextar (STEAM_0:0:635224977): en ese
+Sat Oct 28 03:50:40 2023	David Antonio (STEAM_0:0:142640452) spawned SENT imperialdropship
+Sat Oct 28 03:50:40 2023	Violet Hextar was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 03:50:51 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 03:50:55 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 03:50:58 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_cessna
+Sat Oct 28 03:50:58 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 03:51:13 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_bf109
+Sat Oct 28 03:51:13 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_bf109
+Sat Oct 28 03:51:16 2023	David Antonio was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 03:51:19 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:51:19 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:51:56 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_hoverchair
+Sat Oct 28 03:52:22 2023	David Antonio was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 03:53:04 2023	Violet Hextar (STEAM_0:0:635224977): seguira...
+Sat Oct 28 03:53:06 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:53:07 2023	Violet Hextar (STEAM_0:0:635224977): /sleep
+Sat Oct 28 03:53:13 2023	Violet Hextar (STEAM_0:0:635224977): /sleep
+Sat Oct 28 03:53:13 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 03:54:24 2023	Violet Hextar (STEAM_0:0:635224977): Yo quiero pa navidad un novio
+Sat Oct 28 03:54:39 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:54:40 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:54:42 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:54:43 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 03:55:32 2023	David Antonio was killed by Gran Maestro Neverlander with a rw_sw_dl44
+Sat Oct 28 03:55:36 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:55:36 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:55:47 2023	Gran Maestro Neverlander was killed by David Antonio with a rw_sw_z6
+Sat Oct 28 03:55:51 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 03:55:51 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 03:56:48 2023	Violet Hextar (STEAM_0:0:635224977): Archeeer
+Sat Oct 28 03:57:07 2023	David Antonio was killed by Gran Maestro Neverlander with a rw_sw_dl44
+Sat Oct 28 03:57:09 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 03:57:09 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 03:57:11 2023	Gran Maestro Neverlander was killed by David Antonio with a rw_sw_westarm5
+Sat Oct 28 03:57:15 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 03:57:15 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 

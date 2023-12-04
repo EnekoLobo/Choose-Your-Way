@@ -1,0 +1,1 @@
+1=item_saberhilt_swtors4,2=item_stance_juggernaut,3=item_crystal_allnatt,4=item_force_atraeri,5=item_force_empujari,6=item_force_desarmariii,7=item_force_pull,8=item_force_sense,9=item_force_immunity,10=item_force_velocidadi,11=item_force_throw,12=item_force_jump,13=item_stance_butterfly,14=item_crystal_rubind,#1=0,3=0,4=0,5=0,6=0,7=0,8=0,9=0,10=0,11=0,12=0,13=0,

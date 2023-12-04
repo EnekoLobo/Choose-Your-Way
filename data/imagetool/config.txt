@@ -1,0 +1,1 @@
+{"cyw_jt_rp":{"4":{"angles":"{-0 -2.7476 60.4411}","width":"315","position":"[-2638.875 -14237.2451 10749.3311]","alpha":"255","url":"https://i.imgur.com/Lm93zti.jpg","scale":"12","height":"133","brightness":"255"}}}

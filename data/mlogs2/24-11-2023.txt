@@ -1,0 +1,1075 @@
+              __                        ___ 
+   ____ ___  / /   ____  ____ ______   |__ \
+  / __  __ \/ /   / __ \/ __  / ___/   __/ /
+ / / / / / / /___/ /_/ / /_/ (__  )   / __/ 
+/_/ /_/ /_/_____/\____/\__, /____/   /____/ 
+                      /____/                
+
+============================================
+           Logs for: 24-11-2023
+============================================
+
+[09:53:39] Davisito23 ( STEAM_0:0:142640452 ) ( Joining/Connecting ) connected to the server
+[09:54:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) changed from Por Instruir to Oficial de la República
+[09:54:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a weapon ( bcs_storage )
+[09:54:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Comlink ( comlink_swep )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a weapon ( weapon_r_handcuffs )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Stun DC-17 ( rw_sw_stun_dc17 )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a DC-15A ( rw_sw_dc15a )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Stun Stick ( stunstick )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Salute ( salute_swep )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a #bKeypads_Keycard ( bkeycard )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Hands ( mvp_hands )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a weapon ( weapon_physgun )
+[09:54:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a #GMOD_ToolGun ( gmod_tool )
+[10:00:39] LOBO ( STEAM_0:0:551085146 ) ( Joining/Connecting ) connected to the server
+[10:01:03] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) changed from Por Instruir to Caballero Jedi
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( bcs_storage )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Keys ( keys )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_r_handcuffs )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Hands ( mvp_hands )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_physgun )
+[10:01:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #GMOD_ToolGun ( gmod_tool )
+[10:05:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/frame002a.mdl )
+[10:05:09] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/harddrive02.mdl )
+[10:05:19] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/harddrive01.mdl )
+[10:05:28] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_interiors/refrigerator01a.mdl )
+[10:05:53] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderredlabel.mdl )
+[10:06:28] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderredlabel.mdl )
+[10:07:48] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderredlabel.mdl )
+[10:08:06] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderredlabel.mdl )
+[10:08:12] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderredlabel.mdl )
+[10:08:15] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderredlabel.mdl )
+[10:08:55] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:08:56] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:08:57] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:08:58] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergraylabel01b.mdl )
+[10:09:01] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:09:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:09:06] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:09:07] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:09:08] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreenlabel.mdl )
+[10:10:29] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_combine/breenglobe.mdl )
+[10:10:49] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/cactus.mdl )
+[10:11:09] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a
+[10:11:26] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/frame002a.mdl )
+[10:11:40] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_junk/garbage_coffeemug001a.mdl )
+[10:12:08] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_combine/breenglobe.mdl )
+[10:12:26] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_c17/briefcase001a.mdl )
+[10:12:54] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_c17/clock01.mdl )
+[10:14:40] The world damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 38 damage
+[10:14:42] The world damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 36 damage
+[10:14:45] The world damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 41 damage
+[10:14:47] The world damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 44 damage
+[10:14:47] The world killed Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:15:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a
+[10:15:29] Eneko ( STEAM_0:0:63793651 ) ( Joining/Connecting ) connected to the server
+[10:16:00] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) changed from Por Instruir to Irindor Prime
+[10:16:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a weapon ( bcs_storage )
+[10:16:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a Keys ( keys )
+[10:16:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a Hands ( mvp_hands )
+[10:16:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a weapon ( weapon_physgun )
+[10:16:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a #GMOD_ToolGun ( gmod_tool )
+[10:16:08] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) : !goto ru
+[10:16:08] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) ran the command: goto ru
+[10:16:42] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) : !goto rubi
+[10:16:42] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) ran the command: goto rubi
+[10:17:22] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl )
+[10:17:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:31] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:31] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:31] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:36] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:36] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:37] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:41] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:17:50] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/hunter/plates/plate3x3.mdl )
+[10:17:57] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl )
+[10:18:10] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a entity ( prop_ragdoll ) ( models/player/swtor/arsenic/talosstormcrown/talosstormcrown.mdl )
+[10:18:17] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:17] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:20] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:20] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:24] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:24] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:24] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:28] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:28] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:28] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:28] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:28] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:28] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:40] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:41] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:41] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:41] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:41] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:41] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:42] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:42] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:42] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:42] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:43] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:43] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:43] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:43] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:43] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:44] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:44] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:44] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:44] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:45] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:45] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:46] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:46] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:46] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:46] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:18:49] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props/starwars/furniture/dejarik_table.mdl )
+[10:18:58] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used material on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:19:54] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_c17/computer01_keyboard.mdl )
+[10:20:36] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads
+[10:20:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads
+[10:20:54] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_fading_door on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:20:59] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a #bKeypads_Keypad ( keypad ) ( models/bkeypads/keypad_3.0.0.mdl )
+[10:20:59] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:21:00] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:21:01] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a #bKeypads_Keypad ( keypad ) ( models/bkeypads/keypad_3.0.0.mdl )
+[10:21:03] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a #bKeypads_Keypad ( keypad ) ( models/bkeypads/keypad_3.0.0.mdl )
+[10:21:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/props_c17/furniturearmchair001a.mdl )
+[10:21:03] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a #bKeypads_Keypad ( keypad ) ( models/bkeypads/keypad_3.0.0.mdl )
+[10:21:04] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a #bKeypads_Keypad ( keypad ) ( models/bkeypads/keypad_3.0.0.mdl )
+[10:21:04] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) was damaged by a prop ( prop_physics ) ( models/props_c17/furniturearmchair001a.mdl ) owned by Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 5 damage
+[10:21:04] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:21:05] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used bkeypads_linker on a prop ( prop_physics ) ( models/hunter/plates/plate4x4.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:21:08] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/niksacokica/furniture/furn_ancient_jedi_chair.mdl )
+[10:21:13] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 100 damage with a prop ( prop_physics ) ( models/niksacokica/furniture/furn_ancient_jedi_chair.mdl )
+[10:21:13] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 5 damage with a prop ( prop_physics ) ( models/niksacokica/furniture/furn_ancient_jedi_chair.mdl )
+[10:21:18] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/epsilon/cwa_furniture/duelingchamber/eps_duelingchamber_chair.mdl )
+[10:21:20] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/niksacokica/imperial/imp_computer_cubicle.mdl )
+[10:21:49] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_1.mdl )
+[10:21:52] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/niksacokica/imperial/imp_computer_cubicle_blank_l2.mdl )
+[10:21:55] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/niksacokica/underworld/und_wall_computer.mdl )
+[10:21:56] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/niksacokica/tech/tech_gree_computer.mdl )
+[10:21:58] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/epsilon/cwa_furniture/mandalore/eps_mandalore_dormcomputer.mdl )
+[10:22:07] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_c17/computer01_keyboard.mdl )
+[10:22:16] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/hunter/plates/plate3x5.mdl )
+[10:22:17] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/hunter/plates/plate3x7.mdl )
+[10:22:31] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/wos/lct/fyu/korriban/darth_council_chair.mdl )
+[10:22:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 30 damage with a Stun DC-17 ( rw_sw_stun_dc17 )
+[10:22:35] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 31 damage with a Stun DC-17 ( rw_sw_stun_dc17 )
+[10:22:39] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/niksacokica/imperial/imp_computer_cubicle_blank_l2.mdl )
+[10:22:39] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) was damaged by a prop ( prop_physics ) ( models/niksacokica/imperial/imp_computer_cubicle_blank_l2.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 10 damage
+[10:22:46] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/niksacokica/imperial/imp_computer_cubicle_blank_a.mdl )
+[10:22:54] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/epsilon/cwa_furniture/umbara/eps_umbara_computer.mdl )
+[10:23:01] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/tech/tech_controlpanel_wall04_damaged.mdl )
+[10:23:03] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/tech/tech_controlpanel_wall03_damaged.mdl )
+[10:23:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/monitor01b.mdl )
+[10:23:09] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/monitor02.mdl )
+[10:23:10] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/tech/tech_holo_terminal_rep.mdl )
+[10:23:20] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/tech/tech_holo_terminal_imp.mdl )
+[10:23:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/tech/tech_holo_terminal.mdl )
+[10:23:46] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_c17/shelfunit01a.mdl )
+[10:23:48] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_interiors/furniture_shelf01a.mdl )
+[10:24:12] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:24:15] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/reizer_props/srsp/sci_fi/armory_02_3/armory_02_3.mdl )
+[10:24:16] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:24:18] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/binderbluelabel.mdl )
+[10:24:20] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 10 damage with a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:24:22] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 5 damage with a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:24:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/reizer_props/srsp/sci_fi/armory_02_3/armory_02_3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:24:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/reizer_props/srsp/sci_fi/armory_02_3/armory_02_3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:24:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/reizer_props/srsp/sci_fi/armory_02_3/armory_02_3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:24:26] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/reizer_props/srsp/sci_fi/armory_02_3/armory_02_3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:24:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/reizer_props/srsp/sci_fi/armory_02_3/armory_02_3.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:24:36] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergraylabel01a.mdl )
+[10:24:37] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergraylabel01a.mdl )
+[10:24:39] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergreen.mdl )
+[10:24:41] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergraylabel01a.mdl )
+[10:24:42] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergraylabel01a.mdl )
+[10:24:44] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/bindergraylabel01a.mdl )
+[10:25:18] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props_lab/workspace003.mdl )
+[10:25:21] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl )
+[10:25:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:30] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a entity ( player ) ( models/player/swtor/arsenic/talosstormcrown/talosstormcrown.mdl )
+[10:25:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:32] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:33] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:34] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:25:39] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used precision on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:26:30] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a entity ( prop_ragdoll ) ( models/epangelmatikes/templeguard/temple_guard.mdl )
+[10:26:51] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used remover on a prop ( prop_physics ) ( models/props_interiors/furniture_shelf01a.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi )
+[10:27:13] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/imperial/imp_medical_shelving_04.mdl )
+[10:27:15] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/imperial/imp_medical_shelving_03.mdl )
+[10:27:19] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) spawned a prop ( prop_physics ) ( models/niksacokica/furniture/furn_ps_sith_bunks_02_mirrored.mdl )
+[10:27:50] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) used permaprops on a prop ( prop_physics ) ( models/lordtrilobite/starwars/isd/imp_console_medium03.mdl ) owned by Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República )
+[10:27:55] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a entity ( prop_ragdoll ) ( models/player/swtor/arsenic/gadol/jedigado.mdl )
+[10:30:51] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props/starwars/weapons/detpack.mdl )
+[10:30:55] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl )
+[10:31:14] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl )
+[10:32:09] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi )
+[10:32:10] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi )
+[10:32:11] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi )
+[10:32:12] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi )
+[10:32:13] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a prop ( prop_physics ) ( models/props/starwars/chairs/chair01.mdl ) owned by rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi )
+[10:32:13] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:14] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:16] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:20] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:25] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:25] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:32:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( func_door ) ( *26 )
+[10:32:28] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( func_door ) ( *26 )
+[10:32:28] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( func_door ) ( *26 )
+[10:33:13] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:33:13] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:33:14] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:33:15] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:33:16] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( func_door ) ( *181 )
+[10:33:16] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( func_door ) ( *181 )
+[10:33:22] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:33:22] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:33:24] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[10:42:16] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( pack_swswep_kyloren )
+[10:42:35] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:42:44] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 500 damage with a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:42:44] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) killed rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) with a prop ( prop_physics ) ( models/epsilon/cwa_furniture/felucia/eps_felucia_chair.mdl )
+[10:43:31] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a Kylos Blade (WIP) ( item_crystal_rubind ) ( models/props_junk/rock001a.mdl )
+[10:43:45] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:43:48] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:43:53] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:43:54] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:43:55] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:43:56] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:44:11] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a Kylo Hilt ( item_saberhilt_kylo ) ( models/weapons/starwars/w_kr_hilt.mdl )
+[10:44:18] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:44:20] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:46:26] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:48:56] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) killed Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) with a #lscsGlowstick ( weapon_lscs )
+[10:49:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) : !goto rub
+[10:49:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) ran the command: goto rub
+[10:49:51] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:49:53] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:50:05] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:50:07] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:50:08] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[10:51:18] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/body/clothe_86.mdl )
+[10:51:19] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/body/clothe_85.mdl )
+[10:51:25] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/head/cathar_3.mdl )
+[10:51:26] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/head/cathar_4.mdl )
+[10:51:30] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/head/miraluka_8_female.mdl )
+[10:51:32] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/head/miraluka_4_female.mdl )
+[10:52:14] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a entity ( prop_ragdoll ) ( models/fyu/head/human_6.mdl )
+[11:05:19] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) killed rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) with a #lscsGlowstick ( weapon_lscs )
+[11:05:28] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) : !bring rubi
+[11:05:28] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) ran the command: bring rubi
+[11:07:10] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) spawned a entity ( prop_ragdoll ) ( models/fyu/helmet/helmet_11.mdl )
+[11:12:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Cycler Rifle ( rw_sw_tusken_cycler )
+[11:12:31] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 226 damage with a Cycler Rifle ( rw_sw_tusken_cycler )
+[11:12:36] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 220 damage with a Cycler Rifle ( rw_sw_tusken_cycler )
+[11:12:36] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) killed rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) with a Cycler Rifle ( rw_sw_tusken_cycler )
+[11:12:38] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 200 damage with a #lscsGlowstick ( weapon_lscs )
+[11:12:48] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Bacta Injector ( weapon_bactainjector )
+[11:12:53] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) : !bring rubi
+[11:12:53] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) ran the command: bring rubi
+[11:12:53] The world damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 35 damage
+[11:12:58] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:13:00] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Z-6 ( rw_sw_z6 )
+[11:13:02] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 34 damage with a Z-6 ( rw_sw_z6 )
+[11:13:06] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:13:18] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Jetpack ( jet_mk1 )
+[11:13:18] The world damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 58 damage
+[11:13:20] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Jetpack ( mk1 ) ( models/jetpack/jetpack.mdl )
+[11:14:10] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 33 damage with a Z-6 ( rw_sw_z6 )
+[11:14:10] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 35 damage with a Z-6 ( rw_sw_z6 )
+[11:14:10] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 35 damage with a Z-6 ( rw_sw_z6 )
+[11:14:10] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 34 damage with a Z-6 ( rw_sw_z6 )
+[11:14:10] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 36 damage with a Z-6 ( rw_sw_z6 )
+[11:14:11] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 37 damage with a Z-6 ( rw_sw_z6 )
+[11:14:13] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 34 damage with a Z-6 ( rw_sw_z6 )
+[11:14:13] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 36 damage with a Z-6 ( rw_sw_z6 )
+[11:14:14] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 35 damage with a Z-6 ( rw_sw_z6 )
+[11:14:14] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 33 damage with a Z-6 ( rw_sw_z6 )
+[11:14:14] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 34 damage with a Z-6 ( rw_sw_z6 )
+[11:14:14] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) killed Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) with a Z-6 ( rw_sw_z6 )
+[11:14:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) : !respawn
+[11:14:25] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) ran the command: respawn 
+[11:14:29] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Vibro Sword ( weapon_vibrosword )
+[11:17:03] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Light WristBlaster Blue ( rw_sw_wristblaster_light_blue )
+[11:17:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Heavy WristBlaster Blue ( rw_sw_wristblaster_heavy_blue )
+[11:17:56] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a WristFlame ( rw_sw_wristflame )
+[11:17:58] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a WristRocket ( rw_sw_wristrocket )
+[11:18:31] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a WristNade ( rw_sw_wristnade )
+[11:19:06] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) damaged Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) for 200 damage with a #lscsGlowstick ( weapon_lscs )
+[11:19:12] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Lightsaber ( weapon_lightsaber )
+[11:19:38] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) : /drop
+[11:20:44] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a Force ( hands_force )
+[11:20:44] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) picked up a weapon ( keypad_cracker )
+[11:21:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) : !respawn
+[11:21:27] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) ran the command: respawn 
+[11:24:15] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:24:22] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:24:28] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:24:34] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:35] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:35] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:35] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:35] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:36] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:36] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:37] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:38] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool
+[11:24:38] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( player ) ( models/jajoff/sps/sw/kraken2.mdl )
+[11:24:39] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) used hologramtool on a entity ( player ) ( models/jajoff/sps/sw/kraken2.mdl )
+[11:24:59] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:00] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:13] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:14] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:15] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:21] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:27] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:28] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:25:31] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[11:35:22] Straw berry ( STEAM_0:0:142640452 ) ( Oficial de la República ) disconnected from the server
+[11:39:45] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a Juggernaut ( item_stance_juggernaut ) ( models/lscs/holocron.mdl )
+[11:41:19] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a Untrained ( item_stance_untrained ) ( models/lscs/holocron.mdl )
+[11:41:23] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a Untrained ( item_stance_untrained ) ( models/lscs/holocron.mdl )
+[11:42:12] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a YongLi ( item_stance_yongli ) ( models/lscs/holocron.mdl )
+[11:42:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) damaged Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) for 200 damage with a #lscsGlowstick ( weapon_lscs )
+[11:56:51] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) disconnected from the server
+[12:01:00] Glorioso ( STEAM_0:1:455888556 ) ( Joining/Connecting ) connected to the server
+[12:05:05] Tatourus  ( STEAM_0:1:455888556 ) ( Renegado ) changed from Por Instruir to Renegado
+[12:05:17] Tatourus  ( STEAM_0:1:455888556 ) ( Renegado ) picked up a weapon ( bcs_storage )
+[12:05:17] Tatourus  ( STEAM_0:1:455888556 ) ( Renegado ) picked up a Keys ( keys )
+[12:05:17] Tatourus  ( STEAM_0:1:455888556 ) ( Renegado ) picked up a Hands ( mvp_hands )
+[12:08:34] Tatourus  ( STEAM_0:1:455888556 ) ( Renegado ) disconnected from the server
+[12:10:32] Glorioso ( STEAM_0:1:455888556 ) ( Joining/Connecting ) connected to the server
+[12:18:53] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) disconnected from the server
+[12:19:04] Glorioso ( STEAM_0:1:455888556 ) ( Por Instruir ) disconnected from the server
+[13:17:50] LOBO ( STEAM_0:0:551085146 ) ( Joining/Connecting ) connected to the server
+[13:18:14] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) changed from Por Instruir to Caballero Jedi
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( bcs_storage )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Keys ( keys )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_r_handcuffs )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Hands ( mvp_hands )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_physgun )
+[13:18:17] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #GMOD_ToolGun ( gmod_tool )
+[13:29:10] The world damaged rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) for 92 damage
+[13:34:07] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a prop ( prop_physics ) ( models/hunter/misc/lift2x2.mdl )
+[13:43:55] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) disconnected from the server
+[15:01:43] Mr Tysorf ( STEAM_0:1:644042897 ) ( Joining/Connecting ) connected to the server
+[15:02:26] Krywar Oldin ( STEAM_0:1:644042897 ) ( Por Instruir ) disconnected from the server
+[15:03:54] Mr Tysorf ( STEAM_0:1:644042897 ) ( Joining/Connecting ) connected to the server
+[15:04:28] Krywar Oldin ( STEAM_0:1:644042897 ) ( Padawan Jedi ) changed from Por Instruir to Padawan Jedi
+[15:04:30] Krywar Oldin ( STEAM_0:1:644042897 ) ( Padawan Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[15:04:30] Krywar Oldin ( STEAM_0:1:644042897 ) ( Padawan Jedi ) picked up a weapon ( bcs_storage )
+[15:04:30] Krywar Oldin ( STEAM_0:1:644042897 ) ( Padawan Jedi ) picked up a Keys ( keys )
+[15:04:30] Krywar Oldin ( STEAM_0:1:644042897 ) ( Padawan Jedi ) picked up a Hands ( mvp_hands )
+[15:19:41] Krywar Oldin ( STEAM_0:1:644042897 ) ( Padawan Jedi ) disconnected from the server
+[15:36:19] PirataSomalí ( STEAM_0:0:522985768 ) ( Joining/Connecting ) connected to the server
+[15:40:44] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[15:40:46] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[15:40:46] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[15:40:46] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[15:40:46] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[15:41:17] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) : !3p
+[15:41:23] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) : !3p
+[15:44:12] The world damaged Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) for 51 damage
+[15:44:37] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) : !3p
+[15:45:35] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) : !3p
+[15:48:31] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) disconnected from the server
+[16:42:08] Power ( STEAM_0:0:596592151 ) ( Joining/Connecting ) connected to the server
+[16:44:04] Shouko Nishi ( STEAM_0:0:596592151 ) ( Padawan Jedi ) changed from Por Instruir to Padawan Jedi
+[16:44:25] Shouko Nishi ( STEAM_0:0:596592151 ) ( Padawan Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[16:44:25] Shouko Nishi ( STEAM_0:0:596592151 ) ( Padawan Jedi ) picked up a weapon ( bcs_storage )
+[16:44:25] Shouko Nishi ( STEAM_0:0:596592151 ) ( Padawan Jedi ) picked up a Keys ( keys )
+[16:44:25] Shouko Nishi ( STEAM_0:0:596592151 ) ( Padawan Jedi ) picked up a Hands ( mvp_hands )
+[16:54:26] Shouko Nishi ( STEAM_0:0:596592151 ) ( Padawan Jedi ) disconnected from the server
+[16:59:27] PirataSomalí ( STEAM_0:0:522985768 ) ( Joining/Connecting ) connected to the server
+[17:00:53] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[17:01:01] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[17:01:01] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[17:01:01] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[17:01:01] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[17:28:41] Allen Valentine ( STEAM_0:0:522985768 ) ( Iniciado Jedi ) disconnected from the server
+[18:06:57] Gatku ( STEAM_0:0:153814350 ) ( Joining/Connecting ) connected to the server
+[18:07:59] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) changed from Por Instruir to Padawan Jedi
+[18:09:17] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:09:17] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a weapon ( bcs_storage )
+[18:09:17] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a Keys ( keys )
+[18:09:17] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a Hands ( mvp_hands )
+[18:17:00] Ylux02 ( STEAM_0:1:571428465 ) ( Joining/Connecting ) connected to the server
+[18:18:20] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[18:18:30] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[18:18:30] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[18:18:30] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[18:18:30] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[18:26:54] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) disconnected from the server
+[18:27:15] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) disconnected from the server
+[18:31:57] Limon ( STEAM_0:1:84848218 ) ( Joining/Connecting ) connected to the server
+[18:32:41] Gujar Alkiki ( STEAM_0:1:84848218 ) ( Por Instruir ) picked up a EE-3 ( rw_sw_ee3 )
+[18:32:41] Gujar Alkiki ( STEAM_0:1:84848218 ) ( Por Instruir ) picked up a weapon ( bcs_pickaxe )
+[18:32:41] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) changed from Por Instruir to Jawa
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a weapon ( bcs_storage )
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a EE-3 ( rw_sw_ee3 )
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a weapon ( alydus_fusioncutter )
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a #GMOD_Fists ( weapon_fists )
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a weapon ( pack_swswep_jawa )
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a #bKeypads_Keycard ( bkeycard )
+[18:32:50] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) picked up a Hands ( mvp_hands )
+[18:44:46] nasiporin ( STEAM_0:0:1770861 ) ( Joining/Connecting ) connected to the server
+[18:45:56] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) changed from Por Instruir to Maestro Jedi
+[18:45:59] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:45:59] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) picked up a weapon ( bcs_storage )
+[18:45:59] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) picked up a Keys ( keys )
+[18:45:59] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[18:45:59] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) picked up a weapon ( weapon_r_handcuffs )
+[18:45:59] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) picked up a Hands ( mvp_hands )
+[18:54:47] Gatku ( STEAM_0:0:153814350 ) ( Joining/Connecting ) connected to the server
+[18:55:47] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) changed from Por Instruir to Padawan Jedi
+[18:55:54] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:55:54] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a weapon ( bcs_storage )
+[18:55:54] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a Keys ( keys )
+[18:55:54] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a Hands ( mvp_hands )
+[18:58:00] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) disconnected from the server
+[18:58:11] alex antares ( STEAM_0:0:1770861 ) ( Maestro Jedi ) disconnected from the server
+[19:15:01] Startrick17 ( STEAM_0:0:159218877 ) ( Joining/Connecting ) connected to the server
+[19:15:32] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) changed from Por Instruir to Caballero Jedi
+[19:15:34] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[19:15:34] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) picked up a weapon ( bcs_storage )
+[19:15:34] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) picked up a Keys ( keys )
+[19:15:34] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[19:15:34] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) picked up a weapon ( weapon_r_handcuffs )
+[19:15:34] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) picked up a Hands ( mvp_hands )
+[19:21:17] Gujar alkiki ( STEAM_0:1:84848218 ) ( Jawa ) disconnected from the server
+[19:25:43] Storm ( STEAM_0:0:562957255 ) ( Joining/Connecting ) connected to the server
+[19:27:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[19:27:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[19:27:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[19:27:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[19:27:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[19:28:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : /rpdesc
+[19:29:32] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : buenas
+[19:29:48] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : una duda por que no se conecta ni dios hoy
+[19:29:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que llevo mirando el server un rato y
+[19:30:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no entra ni dios
+[19:30:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si hya buenas noticias
+[19:30:16] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lunaria fallecio
+[19:30:19] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : vito igual
+[19:30:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : menos mal
+[19:30:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que para que trabajes
+[19:30:39] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ami no me ascienden n pagando
+[19:30:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ascendieron primero
+[19:30:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a gaktu
+[19:30:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que ni lo conocia
+[19:30:57] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ni sabia quien er
+[19:31:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ni lo habia visto
+[19:31:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y yo pues aqui
+[19:31:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : muerto del asco
+[19:31:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : la verdad qeu me va a salir mas rentable irme a korriban
+[19:31:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y que me secuestren ya y me hago sith
+[19:31:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si hay tryhards par atodo
+[19:32:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : am me suda un poco el nabo pero bueno
+[19:32:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno a ver
+[19:32:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu has avanzado
+[19:32:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : normal
+[19:32:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el anterior mapa tiraba mejor
+[19:33:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : xielan es vamos
+[19:33:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que no puedo decir lo qeu opino del xielan
+[19:33:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : estuve dos semanas pa aprender el salto de la fuerza
+[19:33:32] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y me lo enseño el gran maestro al final
+[19:33:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si yo pedia un sustituto
+[19:33:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero nada
+[19:33:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : me da igual
+[19:34:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo solo quiero el salto
+[19:34:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que tu tambein
+[19:34:13] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : te quedarna algunas cosas
+[19:34:25] Rayocom2HD ( STEAM_0:1:83510545 ) ( Joining/Connecting ) connected to the server
+[19:34:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : mira una cosa para avanzar
+[19:34:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : como tactica
+[19:34:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sugerencia
+[19:34:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu haz esto un padawna que este muy avanzado
+[19:34:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : le dices
+[19:35:08] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : venga soy tu maestro y como lo van a ascender a caballero
+[19:35:11] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : rapidito
+[19:35:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y ya pa maestro
+[19:35:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro
+[19:35:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo estoy con un asco
+[19:35:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : menos mal que tengo el zygerriano y puedo secuestrar jawas y iniciados
+[19:35:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si no me liaba a sablazos
+[19:36:04] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que esto es un coñazo
+[19:36:14] Rayocom2HD ( STEAM_0:1:83510545 ) ( Por Instruir ) picked up a #lscsGlowstick ( weapon_lscs )
+[19:36:14] Umbra  ( STEAM_0:1:83510545 ) ( Umbra ) changed from Por Instruir to Umbra
+[19:36:16] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : de echo
+[19:36:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo de secuestrar a spook
+[19:36:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que tu viniste a darme de sablazos
+[19:36:28] Umbra  ( STEAM_0:1:83510545 ) ( Umbra ) picked up a weapon ( bcs_storage )
+[19:36:28] Umbra  ( STEAM_0:1:83510545 ) ( Umbra ) picked up a Keys ( keys )
+[19:36:28] Umbra  ( STEAM_0:1:83510545 ) ( Umbra ) picked up a Hands ( mvp_hands )
+[19:36:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un iniciado
+[19:36:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que fallecio
+[19:36:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si estaba preparado
+[19:36:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : entre yo y el iniciado
+[19:37:00] Umbra  ( STEAM_0:1:83510545 ) ( Umbra ) : /name Lux
+[19:37:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo qeu no estaba planeado
+[19:37:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : era que viniera un sith
+[19:37:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a no si lo fusile y bien agusto que me quede
+[19:37:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero ademas lo remate
+[19:37:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cargador vaciado
+[19:37:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a si salio incitado por mi
+[19:37:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pa hacer rol
+[19:37:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero igual le vacie el cargador
+[19:38:03] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si por cierto
+[19:38:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu al final me mataste
+[19:38:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cuando
+[19:38:15] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : podias haberte ido del planeta
+[19:38:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si hijo de puta ni te dispare
+[19:38:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : solo mate al iniciado
+[19:38:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ver pero esqeu niños tontos aqui sobran
+[19:39:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si esto mas que templo es un parbulario
+[19:39:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : miiira hacemos un convenio
+[19:39:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cuando veas a uno muy tonto
+[19:39:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu traemelo al planeta esclavista y yo ya
+[19:39:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo ya
+[19:39:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : me encargo
+[19:39:42] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo te cuido a los niños
+[19:39:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu veras como salen espabilados
+[19:39:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : despues de partirse el lomo
+[19:39:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : siendo esclavo
+[19:40:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo lo veo perfecto
+[19:40:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esque
+[19:40:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : teneis mucho odio los jedi
+[19:40:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a los esclavstas
+[19:40:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero tenemos utilidad
+[19:40:42] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si de esclavista literalmente
+[19:40:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : solo estoy yo
+[19:40:52] Umbra  ( STEAM_0:1:83510545 ) ( Umbra ) : !pj
+[19:40:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : todos son o mandalorianos o cazarrecompensas o sith
+[19:41:11] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : de esclavista solo em conozco ami
+[19:41:19] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero muy diisfrutable lo de torturar te digo
+[19:41:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : para desahogarte
+[19:41:35]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) picked up a Hands ( mvp_hands )
+[19:41:35] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) changed from Umbra to Funcionario
+[19:41:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a latigazo limpio
+[19:41:37] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) : !pj
+[19:41:41] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) : !pj
+[19:41:43] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) picked up a weapon ( bcs_storage )
+[19:41:43] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) picked up a #GMOD_Fists ( weapon_fists )
+[19:41:43] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) picked up a #bKeypads_Keycard ( bkeycard )
+[19:41:43] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) picked up a Hands ( mvp_hands )
+[19:41:46] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no veas les quitaba la piel a tras a algunos iniciiado
+[19:41:47] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) : !pj
+[19:41:52] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) picked up a weapon ( bcs_storage )
+[19:41:52] Reus  ( STEAM_0:1:83510545 ) ( Funcionario ) picked up a Hands ( mvp_hands )
+[19:41:52]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) changed from Funcionario to Umbra
+[19:41:56]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) picked up a weapon ( bcs_storage )
+[19:41:56]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) picked up a Keys ( keys )
+[19:41:56]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) picked up a Hands ( mvp_hands )
+[19:42:03] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por cierto tu estas soltando mucha mierda de iniciados pero hombre eres caballero
+[19:42:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : deberias ser como el maestro alexander
+[19:42:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : puro amor de persona
+[19:42:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un maquina el maestro alexander
+[19:42:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si somos muy diisciplinados
+[19:43:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : espera como como como?
+[19:43:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : otra vez
+[19:43:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no no se por que no me e enterado
+[19:43:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a pues soy el unico gilipollas que no lo sabia?
+[19:43:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo esque el dsicord mejor ni lo miro
+[19:43:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si
+[19:44:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : solo mas gilipollas
+[19:44:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ya eso ya lo se si no paran de escribir entre dos o tres
+[19:44:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues ahor ame alegro que se hallan muerto
+[19:44:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si
+[19:44:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el cabo
+[19:44:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno que se mueran
+[19:44:57] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : total una loca y un pedofilo
+[19:45:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que se mueran
+[19:45:11] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues muy bonita tumba para ser un pedofilo
+[19:45:15] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ya podia tener pasta
+[19:45:24] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : hicieron hasta
+[19:45:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : disparos esos
+[19:45:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : para el condecoramiento
+[19:45:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : una fumada
+[19:45:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo me e meado al lado de la tumba que no me aguantaba
+[19:45:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero bueno
+[19:46:19] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues se puso raro el rol no?
+[19:46:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : digo de pedofialia
+[19:46:32] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no sabai que se dejaban esos roles
+[19:46:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esque lo de sex rp y cosas asi
+[19:46:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : eso deberia estar fuera
+[19:47:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : romance romance
+[19:47:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero creo que lod e follar sobra que no sabes lo que pasa en algunos servers
+[19:47:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : me resulta un poco asqueroso
+[19:48:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y luego tambien lo de que sea
+[19:48:11] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un soldado y uan iniciada
+[19:48:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : mejor ni lo hablamos
+[19:48:24] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que bueno vito cuantos años se supone que tenia?
+[19:48:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y lunaria unos 13 o 12
+[19:49:03] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no ya menos mal que no era como el teniente que tiene 64
+[19:49:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que ya pa pegarse un tiro
+[19:49:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si 64 igual que alexander
+[19:49:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno
+[19:49:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : mas o menos lo mismo
+[19:49:46] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si al final le hace falta baston igual
+[19:49:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ambos al teniente y a alexander
+[19:50:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues menos mal que no vi a vito y a lunaria
+[19:50:24] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : 22 por cada extremida si
+[19:50:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si exacto
+[19:50:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si ami con que me den el padawan
+[19:50:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : me conformo
+[19:51:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pa que?
+[19:51:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pa guardian?
+[19:51:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : o pa maestro?
+[19:51:29] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si que luego en el iniciado se lo pasan por los cojones
+[19:51:32] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que llevo dias con todo
+[19:51:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y nada
+[19:51:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cualquier dia me dejo capturar con los sith
+[19:52:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : con suerte me uno a ellos y si no me matan y ya se acaba esto a tomar por culo
+[19:52:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : //un segundillo que me cambio los cascos me quedo callado un segundo
+[19:52:57] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : estoy
+[19:53:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que me decias?
+[19:53:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a si que me suban ya a padawna
+[19:53:15] MipoJohn ( STEAM_0:1:199512495 ) ( Joining/Connecting ) connected to the server
+[19:53:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo quiero ponerme con un maestro a aprender
+[19:53:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a tener un sable propio
+[19:53:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : irme con el maestro alexander a darle por culo pero siendo padawna
+[19:54:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo quiero un maestro y hacer algo
+[19:54:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues seguramente
+[19:54:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cualquiera que suba a padawn
+[19:54:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : va a querer un maestro
+[19:54:34] Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[19:54:40] Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[19:54:40] Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[19:54:40] Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[19:54:40] Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[19:54:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a si ahora es sorda muda
+[19:54:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : paralitica
+[19:54:55] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ciega
+[19:55:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un segundo me llaman por telefono ahora en un minuto vuelvo
+[19:56:08] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bien
+[19:56:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo de ser maestro de lunaria bueno ahora la paraplegica
+[19:56:37] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : estaba replanteandose el amestro alexander
+[19:56:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero por que alexander es un trozo de pan aguanta a quien sea
+[19:57:30] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a si y cuando
+[19:57:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : recita todo el refranero
+[19:57:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sisi yo cuando hace eso me alejo
+[19:57:54] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que yo no tengo que escucharlo tu si
+[19:57:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si pero me cae bien
+[19:58:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sobretodo cuando esta enfadado
+[19:58:13] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro claro
+[19:58:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu calladito y a ecscuchar
+[19:58:46] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : eso o hasta que acabe la republica y empiece el imperio
+[19:58:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que alexander puede hablar rato largo
+[19:59:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : puede hablar hasta que empiece hasta la trilogia dysney
+[19:59:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que bueno digo la trilogia disney no existe
+[19:59:29] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : fue un mal sueño lo de rey y todo eso
+[19:59:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : alexander
+[19:59:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : alexander puede hablar
+[20:00:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si alexander te habla
+[20:00:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu unico objetivo
+[20:00:19] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : va a se racabar la conversacion en menos de dos horas
+[20:00:30] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : con suerte os atacan los sith
+[20:00:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si minimo echalo hora y media
+[20:00:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : como tu amigo alexander
+[20:00:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : jajjaja
+[20:01:13] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un escalofrio a recorido tu cuerpo cuando a dicho eso alexander
+[20:01:16] The world damaged Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) for 53 damage
+[20:01:39] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : te va sa aprender el refranero de memoria cuando seas guardian
+[20:02:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si tu cuando te hable solo asiente y ya esta
+[20:02:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu solo asiente con la cabeza
+[20:02:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cuando te habla has asi
+[20:02:37] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu sabes lenguaje de signos
+[20:02:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ya
+[20:02:48] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo tampoco
+[20:02:54] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por saber se decir hello
+[20:02:57] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bye
+[20:03:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si exacto tu
+[20:03:11] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : haz como qeu ere cuatrilingue
+[20:03:16] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : o lo qeu te salga de los huevos
+[20:03:29] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : es mas pon que sabes hasta zygeriano
+[20:03:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si total
+[20:03:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : todo el mundo sabe de todo
+[20:03:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : vas a ser como un droide de protocolo
+[20:04:08] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a y otra cosa
+[20:04:13] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : creo
+[20:04:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que la paraplegica
+[20:04:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que no me se su nombre
+[20:04:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : es su apodo
+[20:04:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : plegica para los amigos
+[20:04:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esa
+[20:04:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pa que no sea tan descarado
+[20:04:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cuando le diga plegica
+[20:04:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ya solo hay que sumarle el para
+[20:05:15] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : em nathaniel ahi te has pasado
+[20:05:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo creia que eras una persona educada
+[20:05:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si la verdad que tampoco estabas muy cuerdo de primeras
+[20:05:54] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero ahora vas a peor
+[20:06:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a no de primer ay de segunda
+[20:06:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : eres autista
+[20:06:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero antes eras amable
+[20:06:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : eras educado
+[20:06:30] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si aqui el que no es autista es retrasado
+[20:06:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no te preocupes aqui bien no hay nadie
+[20:06:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : la soledad es lo mejor
+[20:06:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : la verdad qeu si
+[20:07:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que pa esta con la paraplegica un puto rodiano que habla como un gilipollas alexander cuando habla que sube el pan
+[20:07:16] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo mejor es estar solo
+[20:07:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si pues sabe que
+[20:07:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por entrar de antes a la fiesta
+[20:07:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el puto maestro centinela me castigo
+[20:08:03] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a recoger putas plantas submarinas
+[20:08:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ahogarme en un puto rio
+[20:08:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo estaba por meterle un gapo en al cara al maestro
+[20:08:24] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero iba a ser peor
+[20:08:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si calro
+[20:08:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : felicidades eres un año mas vieja
+[20:08:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ademas
+[20:08:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que no e visto a nadie recibir una fiesta asi
+[20:09:04] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : menos a ella
+[20:09:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si habia hasta un puto jawa en una celda de perro
+[20:09:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sabes por que por que es hiajd e straw berry
+[20:09:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro y ademas es la maestra hextar
+[20:10:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no yo digo que es mi cumpleaños y creo qeu el maestro centinela me castiga y todo
+[20:10:39] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno tambein te digo que el dia de mi cumpleaños por aqui no me vais a ver el pelo tambien te digo
+[20:11:04] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro por eso
+[20:11:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si bueno gordio estas ya
+[20:11:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : barriga te sobra
+[20:11:20] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : los bollicaos
+[20:11:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ahora usas el ataru?
+[20:11:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : una decepcion total la verdad
+[20:11:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu eras como yo soresista
+[20:12:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y ibas pa consul
+[20:12:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo solo uso soresu tambien te digo
+[20:12:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : solo uso soresu
+[20:12:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y gano a todos los iniciados
+[20:13:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a rubi le gano por que rubi entre tu y yo
+[20:13:03] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pelea mu mal
+[20:13:07] The world damaged Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) for 41 damage
+[20:13:08] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : muuuuuuuuuuuuuyyyyyyy mal
+[20:13:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero mal
+[20:13:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pelea horrible rubi
+[20:13:28] Rath  ( STEAM_0:1:199512495 ) ( Iniciado Jedi ) disconnected from the server
+[20:13:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ademas sabes que
+[20:13:55] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que me atacaba y yo podia rellenarme la barra amarilla en nada
+[20:13:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : les bloqueaba todas
+[20:14:39] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno si la primera vez que peleaste conmigo qeu usabas el soresu
+[20:14:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bloqueaba bien
+[20:14:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pro eso duro 15 minutos el combate
+[20:14:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero atacaba mal
+[20:15:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ya vere como se desarrolla mi personaje
+[20:15:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo mismo me paso tmabienn pero de momento como no voy a ascender
+[20:16:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que no me van a ascender
+[20:16:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pos bueno estoy bien con el soresu
+[20:16:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esque me sabe mal
+[20:16:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo creo que me va a decir
+[20:16:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que le estamso presionando al staff
+[20:16:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y cualquier cosa asi
+[20:16:54] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : o incluso me es contraproducente
+[20:17:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el servidro esta en declibe
+[20:17:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si
+[20:17:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero ayer
+[20:17:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : habai 20 personas
+[20:17:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ami me gustaba mucho coruscant
+[20:18:04] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ver si la verdad qeu coruscant era un poco chustero de templo
+[20:18:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo tambien
+[20:18:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ami me fliipaba tatooine
+[20:18:30] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y illum estaba guapisimo
+[20:18:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y en el planeta esclavista yo los dejo pasar
+[20:18:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por mi
+[20:18:55] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo les dejo
+[20:19:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cuando sea un lord esclavista
+[20:19:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : hare visitas diplomaticas
+[20:19:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ver si podemos estar enn paz con los jedi
+[20:19:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero siendo esclavista
+[20:19:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo veo dificil
+[20:19:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero lo veremos
+[20:19:54] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : exacto
+[20:20:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo no voy a pedir un itio en el senado por que no me lo van a dar
+[20:20:15] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero un tratado de pa
+[20:20:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : paz
+[20:20:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro osea que yo ni si quiera mi principal obejtivo son los iniciados
+[20:20:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : son los jawas
+[20:20:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que son menos revoltosos
+[20:20:57] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y gritan menos al apuñalarlos
+[20:21:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero eso es otro tema
+[20:21:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ser cygerriano es arriesgar
+[20:21:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un dia navajeas tu y otro pues te navajean
+[20:21:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por cierto tu maestra era hextar no?
+[20:21:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que tal hextar como maestra?
+[20:21:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : aunqeu fueras el segundos
+[20:21:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : segundon
+[20:22:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el segundon eras eso lo se
+[20:22:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si un poco mierda ahora que lo veo bien
+[20:23:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ami me van a saliir sables de entreno por que no voy a ascender de momento
+[20:23:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : simpatica agradable?
+[20:23:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : la verdad que la maestra tiene pinta de no tener ni puta idea de pelear
+[20:24:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : como rubi
+[20:24:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : con razon es su favorito
+[20:24:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : habla habla
+[20:24:20] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si no hay nada que me guste mas que difamar
+[20:24:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sigue sigue
+[20:24:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : hombre ves algo mejor que hacer?
+[20:24:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : odia a la maestra
+[20:24:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que hizo que hizo
+[20:24:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : hay que celoso
+[20:25:10] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : celos celos
+[20:25:48] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : reparte el amor pa los demas padawans
+[20:25:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : uy
+[20:25:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que vas a decir
+[20:26:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ni un solo?
+[20:26:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : uy creia que ibas a decir otra cosa
+[20:26:16] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ni un solo
+[20:26:20] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no?
+[20:26:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no
+[20:26:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : vale no
+[20:26:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : igualmente
+[20:26:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : cuantso padawnas tenai hextar en ese momento?
+[20:27:08] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a el bueno y el segundon
+[20:27:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a si lo vi en discord
+[20:27:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pa una cosa que vi
+[20:27:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si vamos que le has robado un padawna a hextar
+[20:28:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : basicamente no te preocupes que ya me has dicho todo sobre la maestra
+[20:28:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que es una mierda de maestra me dijiste
+[20:28:29] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : alexander es el mejor maestro pero soportarlo todo todo el rato no se
+[20:28:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esque es mucho alexander
+[20:28:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu eres tu
+[20:28:55] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : hextar por lo que a dicho
+[20:29:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues una mierda
+[20:29:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ver de lore de la antigua republica
+[20:29:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a que no saben lore
+[20:29:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : de general?
+[20:30:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero si eso con que seas fan de star wars
+[20:30:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro par asaber que no hacer
+[20:30:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : claro claro el adoctrinamiento basico
+[20:30:39] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : de los jedi
+[20:30:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : secuestradores de niños
+[20:30:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : exacto exacto
+[20:31:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu de lore bien no?
+[20:31:16] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu crees esto como apuesta
+[20:31:19] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu crees
+[20:31:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que hextar se a visto toda la saga?
+[20:31:37] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : de la 1 a la 6
+[20:31:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : joder ya me joderia ser maestra
+[20:31:47] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : las nuevas?
+[20:31:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no entiendo no entiendo
+[20:31:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que nuevas?
+[20:31:59] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a no no eso no existe
+[20:32:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ojala hubiera una tercer atrilogia
+[20:32:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : me comi la trilogia de disney entera en el cine unso 50 pavos echados a la basura
+[20:32:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : los personajes
+[20:32:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : rey es una gilipollas
+[20:33:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : la primera orden es como el imperio mal echo
+[20:33:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el malo es como darth vader mal echo
+[20:33:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : snoke es como palpatine mal echo
+[20:33:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si
+[20:33:46] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que deberia haber muerto
+[20:34:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el gilipollas de dameron
+[20:34:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el finn que tambien le tengo asco
+[20:34:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si pero han solo era mucho mejor
+[20:34:21] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : muy mucho mejor
+[20:34:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si por que son igual de oscuros
+[20:34:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si pero tambien te digo
+[20:34:49] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : han echo un copia y pega mal hecho
+[20:35:04] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que la primera orden tampoco me gusta como se ve
+[20:35:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu la consideras como parte de la saga?
+[20:35:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : osea cuadno te ves la saga entera
+[20:35:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : te la ves las 7 8 9?
+[20:35:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ojala
+[20:35:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero como descanonizan los que les sale de la polla
+[20:36:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : te estas viendo ashoka?
+[20:36:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si
+[20:36:28] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sacaron creo qeu 6 capitulos
+[20:36:34] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo vi los 6 primero capitulos
+[20:36:42] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues sera por chicas
+[20:36:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : hay varias
+[20:36:48] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : describela
+[20:36:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : googleando
+[20:37:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : la bruja?
+[20:37:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a coño la mala
+[20:37:26] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sisi
+[20:37:29] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esque yo de nombres
+[20:37:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno cuidaito por donde vas
+[20:38:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ver est abien como villana
+[20:38:15] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esa risita
+[20:38:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : uy nathaniel callate
+[20:38:32] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a ver
+[20:38:38] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : como decir decir no lo has dicho
+[20:38:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero ese tono no me esta gustando
+[20:38:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo unico que no me convence
+[20:38:58] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : es lo de que sabine sea jedi
+[20:39:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un poco raro
+[20:39:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y lo de que trhawn se alla hinchado a polvorones tampoco
+[20:39:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si
+[20:39:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si pero no habia un viejo un poquillo mas fuerte?
+[20:40:09] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que parece que no le faltaban mantecados en el planeta en el que estaban
+[20:40:42] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo que si me gusto es la estetica de los troopers de thrawn
+[20:40:46] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : estan guapisimos
+[20:40:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el sapitan con la cara romana
+[20:41:12] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y el destructor medio de oro
+[20:41:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : un dibujo por debajo tambien
+[20:41:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : esta guapisimo
+[20:41:51] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y luego se nos murio el villano principal
+[20:41:55] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : se fue para arriba
+[20:41:57] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : el maestro
+[20:42:08] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : en una de estas le dio infarto o algo asi y bueno
+[20:42:22] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : s la verdad
+[20:42:25] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : auqneu tu seguramente
+[20:42:37] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no te fijaste en su personaje por que solo te fijabas en la rubia que iba detras
+[20:42:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pero bueno
+[20:42:50] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a si
+[20:43:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si esta pa jugar futbol americano
+[20:45:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : //voy a cenar en 15 mnutos por ahi vuelvo
+[20:48:33] Alice ( STEAM_0:0:586815808 ) ( Joining/Connecting ) connected to the server
+[20:49:54] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[20:49:59] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[20:49:59] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[20:49:59] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[20:49:59] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[20:49:59] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[20:50:24] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que pas ano te gustaba esa oca?
+[20:50:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : roca?
+[20:50:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : joder
+[20:50:39] Alice Vandire ( STEAM_0:0:586815808 ) ( Iniciado Jedi ) disconnected from the server
+[20:50:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu entretenimiento es
+[20:50:53] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : mirarle a una rubia de ashoka las...
+[20:51:00] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y ir de piedra en piedra
+[20:51:06] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu encuentras donde mirar
+[20:51:13] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : l averdad qeu seria
+[20:51:15] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo mejor
+[20:51:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no la verdad que no estamos emprendiendo no
+[20:51:30] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : lo qeu yo no se
+[20:51:36] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : es que cojones hace umbra
+[20:51:43] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sigue ah
+[20:51:45] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sin hacer nada
+[20:51:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : pues
+[20:52:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : como no se este haciendo una paja no entiendo como se esta entreteniendo
+[20:52:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : ya
+[20:52:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : oye una cosa
+[20:52:32] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu has visto korriban?
+[20:52:42] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : por que nov amso a dar un paseo
+[20:52:54] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si total no vas a subir a maestro igualmente ni yo a padawna
+[20:53:04] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si un paseo de tranquis y con suerte me vuelvo sith
+[20:53:14] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si yo lo veo
+[20:53:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a le metes al rockket
+[20:53:35] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : yo soy malisimo
+[20:53:41] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no subod e oro 3
+[20:53:41] Gatku ( STEAM_0:0:153814350 ) ( Joining/Connecting ) connected to the server
+[20:54:02] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : a claro tu lo dejas ahi que el juegue
+[20:54:05] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bien bien
+[20:54:17] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : sobretodo joder no?
+[20:54:23] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : tu eres oro pero que oro?
+[20:54:24] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) changed from Por Instruir to Padawan Jedi
+[20:54:26] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[20:54:26] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a weapon ( bcs_storage )
+[20:54:26] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a Keys ( keys )
+[20:54:26] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) picked up a Hands ( mvp_hands )
+[20:54:27] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : oro 1?
+[20:54:33] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : oro 2?
+[20:54:38] Beta0115 ( STEAM_0:1:581715009 ) ( Joining/Connecting ) connected to the server
+[20:54:56] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : oro 2
+[20:55:01] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : vamso malisimos
+[20:55:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : igual que yo
+[20:55:16] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) : 1 seg
+[20:55:30] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[20:55:31] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : bueno yo voy a dar un paseito por korriban si no le importa caballero nathaniiel
+[20:55:34] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[20:55:34] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[20:55:34] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[20:55:34] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[20:55:43] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) : No
+[20:55:44] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : que tengo negocios que hacer en korriban
+[20:55:51] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[20:55:52] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : perfecto lo mismo no me vuelves a ver
+[20:56:03] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : y ya ganas tu tambien que te libras de otro iniciado
+[20:56:09] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) : Vete a hablar con otros niños
+[20:56:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : si en korriban creo que hay niños
+[20:56:29] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) : no te preocupes ya me las buscare por alli
+[21:00:28] The world damaged Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) for 47 damage
+[21:01:16] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) : /pm lux ¿Dónde estás?
+[21:10:14] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) disconnected from the server
+[21:11:45] The world damaged Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) for 51 damage
+[21:18:32] Nathaniel Lambert ( STEAM_0:0:159218877 ) ( Caballero Jedi ) disconnected from the server
+[21:18:37] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) disconnected from the server
+[21:20:16] Gatku Adenn ( STEAM_0:0:153814350 ) ( Padawan Jedi ) disconnected from the server

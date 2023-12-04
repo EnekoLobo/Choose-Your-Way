@@ -1,0 +1,104 @@
+              __                        ___ 
+   ____ ___  / /   ____  ____ ______   |__ \
+  / __  __ \/ /   / __ \/ __  / ___/   __/ /
+ / / / / / / /___/ /_/ / /_/ (__  )   / __/ 
+/_/ /_/ /_/_____/\____/\__, /____/   /____/ 
+                      /____/                
+
+============================================
+           Logs for: 25-11-2023
+============================================
+
+[00:04:50]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) disconnected from the server
+[01:51:42] Rayocom2HD ( STEAM_0:1:83510545 ) ( Joining/Connecting ) connected to the server
+[01:59:54]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) changed from Por Instruir to Umbra
+[02:52:02]  Lux ( STEAM_0:1:83510545 ) ( Umbra ) disconnected from the server
+[15:09:20] FairyLeuret ( STEAM_0:0:635224977 ) ( Joining/Connecting ) connected to the server
+[15:39:47] Ylux02 ( STEAM_0:1:571428465 ) ( Joining/Connecting ) connected to the server
+[15:40:07] Maestra Consul Hextar ( STEAM_0:0:635224977 ) ( Por Instruir ) disconnected from the server
+[15:48:57] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[15:49:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[15:49:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[15:49:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[15:49:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[15:57:30] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) disconnected from the server
+[17:56:21] Ylux02 ( STEAM_0:1:571428465 ) ( Joining/Connecting ) connected to the server
+[17:58:52] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[17:59:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[17:59:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[17:59:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[17:59:08] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[17:59:29] Beta0115 ( STEAM_0:1:581715009 ) ( Joining/Connecting ) connected to the server
+[18:00:25] Beta Sunshine ( STEAM_0:1:581715009 ) ( Por Instruir ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:00:25] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[18:00:31] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[18:00:31] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[18:00:31] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[18:00:31] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[18:00:46] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:03:37] Eneko ( STEAM_0:0:63793651 ) ( Joining/Connecting ) connected to the server
+[18:04:21] LOBO ( STEAM_0:0:551085146 ) ( Joining/Connecting ) connected to the server
+[18:04:47] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) changed from Por Instruir to Caballero Jedi
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( bcs_storage )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Keys ( keys )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_r_handcuffs )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Hands ( mvp_hands )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_physgun )
+[18:04:50] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #GMOD_ToolGun ( gmod_tool )
+[18:05:03] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) changed from Por Instruir to Irindor Prime
+[18:06:07] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:06:07] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a weapon ( bcs_storage )
+[18:06:07] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a Keys ( keys )
+[18:06:07] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a Hands ( mvp_hands )
+[18:06:07] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a weapon ( weapon_physgun )
+[18:06:07] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) picked up a #GMOD_ToolGun ( gmod_tool )
+[18:09:02] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) : rubi ??
+[18:09:19] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) : y... pareces otra persona
+[18:09:31] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) : parece que la edad te pego feo ya
+[18:11:25] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Training Saber ( weapon_training_saber )
+[18:12:28] Beta Sunshine ( STEAM_0:1:581715009 ) ( Iniciado Jedi ) disconnected from the server
+[18:13:15] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) : /DROP
+[18:13:18] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Training Saber ( weapon_training_saber )
+[18:14:10] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:14:11] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:14:12] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:14:18] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:14:20] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:16:11] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) spawned a Forma I: Shii-Cho  ( item_stance_shiicho2 ) ( models/lscs/holocron.mdl )
+[18:18:54] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Training Saber ( weapon_training_saber )
+[18:19:35] Storm ( STEAM_0:0:562957255 ) ( Joining/Connecting ) connected to the server
+[18:20:26] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) killed Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) with a Training Saber ( weapon_training_saber )
+[18:20:40] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) changed from Por Instruir to Iniciado Jedi
+[18:21:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) : /DROP
+[18:21:04] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) picked up a Training Saber ( weapon_training_saber )
+[18:21:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a weapon ( bcs_storage )
+[18:21:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a Keys ( keys )
+[18:21:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[18:21:18] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) picked up a Hands ( mvp_hands )
+[18:22:13] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:23:01] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:23:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:23:03] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[18:25:47] Darth Ma`k ( STEAM_0:0:63793651 ) ( Irindor Prime ) disconnected from the server
+[18:35:24] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) : /MENU
+[18:35:29] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) : !MENU
+[18:35:36] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) ran the command: cloak #4
+[18:36:10] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) : !MENU
+[18:36:53] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) : !MENU
+[18:37:11] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) ran the command: uncloak #4
+[18:37:20] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) disconnected from the server
+[18:42:07] Lynx Talah ( STEAM_0:0:562957255 ) ( Iniciado Jedi ) disconnected from the server
+[18:55:50] Graal Terra ( STEAM_0:1:571428465 ) ( Iniciado Jedi ) disconnected from the server
+[20:56:39] LOBO ( STEAM_0:0:551085146 ) ( Joining/Connecting ) connected to the server
+[20:57:00] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) changed from Por Instruir to Caballero Jedi
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #lscsGlowstick ( weapon_lscs )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( bcs_storage )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Keys ( keys )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #bKeypads_Keycard ( bkeycard )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_r_handcuffs )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a Hands ( mvp_hands )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a weapon ( weapon_physgun )
+[20:57:02] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) picked up a #GMOD_ToolGun ( gmod_tool )
+[21:20:56] rubi Apellido ( STEAM_0:0:551085146 ) ( Caballero Jedi ) disconnected from the server

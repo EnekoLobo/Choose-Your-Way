@@ -1,0 +1,692 @@
+Fri Oct 27 05:51:13 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Fri Oct 27 05:51:13 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Fri Oct 27 05:51:34 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:52:13 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Fri Oct 27 05:52:13 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 05:52:16 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:52:18 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:52:22 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:52:24 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:53:55 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:54:24 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:55:39 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:55:48 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:57:49 2023	A1 Epsilon was killed by David Antonio with a rw_sw_tusken_cycler
+Fri Oct 27 05:57:57 2023	A1 Epsilon (STEAM_0:0:63793651): !reviveme
+Fri Oct 27 05:57:59 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Fri Oct 27 05:58:00 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_portableturret
+Fri Oct 27 05:58:01 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:58:38 2023	David Antonio (STEAM_0:0:142640452) spawned SENT bodyman_closet
+Fri Oct 27 05:58:44 2023	David Antonio (STEAM_0:0:142640452) spawned SENT trm_repairkit
+Fri Oct 27 05:58:45 2023	David Antonio (STEAM_0:0:142640452) spawned SENT trm_terminal
+Fri Oct 27 05:58:47 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:58:49 2023	David Antonio (STEAM_0:0:142640452) spawned SENT trm_stock
+Fri Oct 27 05:58:52 2023	David Antonio (STEAM_0:0:142640452) spawned SENT trm_disk
+Fri Oct 27 05:59:04 2023	David Antonio (STEAM_0:0:142640452) spawned SENT training_orb
+Fri Oct 27 05:59:18 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 05:59:31 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Fri Oct 27 05:59:58 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:00:53 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:00:54 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:04:39 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:04:40 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:05:43 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:05:44 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:05:46 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Fri Oct 27 06:05:48 2023	A1 Epsilon (STEAM_0:0:63793651) disconnected
+Fri Oct 27 06:21:09 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Fri Oct 27 06:21:09 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 06:24:02 2023	David Antonio was killed by Entity [589][trigger_hurt] with a trigger_hurt
+Fri Oct 27 06:24:12 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 06:25:32 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Fri Oct 27 06:25:32 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:26:21 2023	David Antonio (STEAM_0:0:142640452) spawned SENT repair_droid
+Fri Oct 27 06:26:31 2023	David Antonio (STEAM_0:0:142640452) spawned SENT training_orb
+Fri Oct 27 06:26:41 2023	David Antonio (STEAM_0:0:142640452) spawned SENT czerka_cruiser
+Fri Oct 27 06:26:43 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:27:27 2023	David Antonio (STEAM_0:0:142640452) spawned SENT longspur
+Fri Oct 27 06:27:41 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:27:44 2023	David Antonio (STEAM_0:0:142640452) spawned SENT rendili
+Fri Oct 27 06:27:45 2023	David Antonio (STEAM_0:0:142640452) spawned SENT ubrikki_elite
+Fri Oct 27 06:27:47 2023	David Antonio (STEAM_0:0:142640452) spawned SENT longspur_outrider
+Fri Oct 27 06:27:48 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:29:14 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:29:20 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:29:38 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_nbt630
+Fri Oct 27 06:29:42 2023	David Antonio (STEAM_0:0:142640452) spawned SENT tkaro_lfs_liberator
+Fri Oct 27 06:30:10 2023	David Antonio was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 06:30:13 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Fri Oct 27 06:30:29 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:30:32 2023	Heather Jackson was killed by Himself with a suicide trick
+Fri Oct 27 06:30:32 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:30:43 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:30:49 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:33:12 2023	Heather Jackson was killed by Entity [589][trigger_hurt] with a trigger_hurt
+Fri Oct 27 06:33:22 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:33:25 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:39:21 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:40:37 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:41:48 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:41:56 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:42:31 2023	Heather Jackson was killed by Entity [667][trigger_hurt] with a trigger_hurt
+Fri Oct 27 06:42:42 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 06:42:47 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:48:23 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 06:49:19 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 07:00:47 2023	Heather Jackson (STEAM_0:0:635224977) disconnected
+Fri Oct 27 09:17:26 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Fri Oct 27 09:17:26 2023	Charles McArthur (STEAM_0:1:92548084) spawned
+Fri Oct 27 09:17:52 2023	Charles McArthur (STEAM_0:1:92548084) spawned
+Fri Oct 27 09:19:43 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor8
+Fri Oct 27 09:19:49 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_zhrompike1	
+Fri Oct 27 09:19:50 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_zhrompike2
+Fri Oct 27 09:19:53 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_guard
+Fri Oct 27 09:19:54 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_swtor1
+Fri Oct 27 09:19:55 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_nanosword
+Fri Oct 27 09:20:08 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber1
+Fri Oct 27 09:20:10 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber2
+Fri Oct 27 09:20:11 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber3
+Fri Oct 27 09:20:13 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber4
+Fri Oct 27 09:20:15 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber5
+Fri Oct 27 09:20:17 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw9
+Fri Oct 27 09:20:19 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw8
+Fri Oct 27 09:20:22 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw7
+Fri Oct 27 09:20:26 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw6
+Fri Oct 27 09:20:28 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw5
+Fri Oct 27 09:20:30 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw5
+Fri Oct 27 09:20:33 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw4
+Fri Oct 27 09:20:35 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw30
+Fri Oct 27 09:20:37 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw3
+Fri Oct 27 09:20:39 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw29
+Fri Oct 27 09:20:41 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw28
+Fri Oct 27 09:20:44 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw27
+Fri Oct 27 09:20:46 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw26
+Fri Oct 27 09:20:47 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw25
+Fri Oct 27 09:20:49 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw24
+Fri Oct 27 09:20:51 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw23
+Fri Oct 27 09:20:53 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw22
+Fri Oct 27 09:20:56 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw28
+Fri Oct 27 09:20:58 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw28
+Fri Oct 27 09:21:12 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_crystal_chartreuse
+Fri Oct 27 09:21:14 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_crystal_smaragd
+Fri Oct 27 09:21:17 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Fri Oct 27 09:21:17 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 09:22:00 2023	Charles McArthur (STEAM_0:1:92548084) spawned SENT item_stance_juyo
+Fri Oct 27 09:22:42 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 09:22:50 2023	Charles McArthur (STEAM_0:1:92548084): /name Gran Maestro Neverlander
+Fri Oct 27 09:23:12 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:23:21 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:23:27 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_force_jump
+Fri Oct 27 09:24:58 2023	Heather Jackson (STEAM_0:0:635224977): sacala
+Fri Oct 27 09:25:43 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_stance_butterfly
+Fri Oct 27 09:25:44 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_stance_soresu
+Fri Oct 27 09:27:39 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_force_velocidadi
+Fri Oct 27 09:27:40 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_force_velocidadi
+Fri Oct 27 09:28:14 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): !cleanup
+Fri Oct 27 09:28:20 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): /cleanup
+Fri Oct 27 09:29:56 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:30:21 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT lunasflightschool_flashfire
+Fri Oct 27 09:30:34 2023	Gran Maestro Neverlander was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 09:30:44 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Oct 27 09:30:51 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:31:03 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT trm_terminal
+Fri Oct 27 09:31:38 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT trm_terminal
+Fri Oct 27 09:31:50 2023	Heather Jackson was killed by Gran Maestro Neverlander with a weapon_lscs
+Fri Oct 27 09:32:01 2023	Heather Jackson (STEAM_0:0:635224977) spawned
+Fri Oct 27 09:32:06 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:32:18 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:32:23 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT trm_disk
+Fri Oct 27 09:32:31 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:32:51 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:32:54 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT healthstation
+Fri Oct 27 09:33:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT czerka_cruiser
+Fri Oct 27 09:34:11 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT training_orb
+Fri Oct 27 09:35:57 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 09:35:58 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 09:37:38 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT item_stance_shiicho2
+Fri Oct 27 09:38:20 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Oct 27 09:38:52 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 09:40:18 2023	Heather Jackson (STEAM_0:0:635224977): 
+Fri Oct 27 09:40:57 2023	Heather Jackson (STEAM_0:0:635224977): Te saliste dde llamada
+Fri Oct 27 09:40:59 2023	Heather Jackson (STEAM_0:0:635224977): ah volviste
+Fri Oct 27 09:41:19 2023	Heather Jackson (STEAM_0:0:635224977): Me das el q es la espada laser pls
+Fri Oct 27 09:41:28 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): Qué quieres decir?
+Fri Oct 27 09:41:32 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): /name Arrow
+Fri Oct 27 09:41:34 2023	Heather Jackson (STEAM_0:0:635224977): Que no se cual arma es
+Fri Oct 27 09:41:40 2023	Arrow (STEAM_0:1:92548084): No es un arma
+Fri Oct 27 09:41:49 2023	Heather Jackson (STEAM_0:0:635224977): /name Violet
+Fri Oct 27 09:42:12 2023	Arrow (STEAM_0:1:92548084): Tienes que escoger mango y color del láser primero
+Fri Oct 27 09:44:56 2023	Violet (STEAM_0:0:635224977): Ah
+Fri Oct 27 09:45:01 2023	Violet (STEAM_0:0:635224977): Me dices un apodo primero?
+Fri Oct 27 09:45:08 2023	Violet (STEAM_0:0:635224977): Apellido*
+Fri Oct 27 09:45:33 2023	Arrow (STEAM_0:1:92548084): Ola
+Fri Oct 27 09:45:37 2023	Violet (STEAM_0:0:635224977): Ola
+Fri Oct 27 09:45:46 2023	Violet (STEAM_0:0:635224977): Te hise mas alto
+Fri Oct 27 09:47:04 2023	Violet (STEAM_0:0:635224977): /name Violet Hextar
+Fri Oct 27 09:47:19 2023	Violet Hextar (STEAM_0:0:635224977): Queda bn?
+Fri Oct 27 09:47:28 2023	Arrow (STEAM_0:1:92548084): El apellido?
+Fri Oct 27 09:48:13 2023	Violet Hextar (STEAM_0:0:635224977): Si
+Fri Oct 27 09:48:31 2023	Violet Hextar (STEAM_0:0:635224977): Busque apellidos por pinterest
+Fri Oct 27 09:48:35 2023	Arrow (STEAM_0:1:92548084): Esta chido
+Fri Oct 27 09:48:44 2023	Violet Hextar (STEAM_0:0:635224977): Como hago el sable?
+Fri Oct 27 09:49:07 2023	Arrow (STEAM_0:1:92548084): A ver
+Fri Oct 27 09:49:30 2023	Arrow (STEAM_0:1:92548084): Primero ve a Entidades LCSloquesea Hilts
+Fri Oct 27 09:49:41 2023	Arrow (STEAM_0:1:92548084): Y escoge un mango de sable, lo spawneas, y lo coges con la E
+Fri Oct 27 09:50:33 2023	Violet Hextar (STEAM_0:0:635224977): Puedo escoger el que quiera?
+Fri Oct 27 09:50:51 2023	Arrow (STEAM_0:1:92548084): Si, pero ten cuidado que algunas son sables dobles
+Fri Oct 27 09:51:02 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_saberhilt_swtor2
+Fri Oct 27 09:51:05 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_saberhilt_swtor4
+Fri Oct 27 09:51:11 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_saberhilt_swtors5
+Fri Oct 27 09:51:21 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_saberhilt_sidious
+Fri Oct 27 09:51:27 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_saberhilt_cw22
+Fri Oct 27 09:51:43 2023	Violet Hextar (STEAM_0:0:635224977): Ahora a ver cual me gusta más jajaj
+Fri Oct 27 09:51:56 2023	Arrow (STEAM_0:1:92548084): Pero be borrandolas, no spawnees todas xd
+Fri Oct 27 09:52:17 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_saberhilt_swtor4
+Fri Oct 27 09:52:27 2023	Violet Hextar (STEAM_0:0:635224977): tiene hojitas esta
+Fri Oct 27 09:52:42 2023	Violet Hextar (STEAM_0:0:635224977): amor mira
+Fri Oct 27 09:52:46 2023	Arrow (STEAM_0:1:92548084): Esa?
+Fri Oct 27 09:52:54 2023	Violet Hextar (STEAM_0:0:635224977): Tiene hojitas gravadas
+Fri Oct 27 09:53:03 2023	Arrow (STEAM_0:1:92548084): Pues dale a la E para cogerla
+Fri Oct 27 09:53:19 2023	Arrow (STEAM_0:1:92548084): Ve a la C a LSCS Menu
+Fri Oct 27 09:53:29 2023	Arrow (STEAM_0:1:92548084): Vas a Lightsaber
+Fri Oct 27 09:53:37 2023	Arrow (STEAM_0:1:92548084): Y en Hilt, pones esa
+Fri Oct 27 09:53:55 2023	Arrow (STEAM_0:1:92548084): Ya?
+Fri Oct 27 09:53:59 2023	Violet Hextar (STEAM_0:0:635224977): Se supone
+Fri Oct 27 09:54:17 2023	Arrow (STEAM_0:1:92548084): Vale, ahora vas a hacer lo mismo, pero en entidades vas a LSCS Crystals
+Fri Oct 27 09:54:27 2023	Arrow (STEAM_0:1:92548084): Escoge el color que más te guste
+Fri Oct 27 09:54:29 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_crystal_amethyst
+Fri Oct 27 09:54:32 2023	Violet Hextar (STEAM_0:0:635224977): amatista jaja
+Fri Oct 27 09:54:42 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_crystal_amethyst
+Fri Oct 27 09:54:50 2023	Arrow (STEAM_0:1:92548084): Pues ahora lo mismo que con el hilt en lo de la C
+Fri Oct 27 09:55:49 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_butterfly
+Fri Oct 27 09:56:07 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_makashi
+Fri Oct 27 09:57:45 2023	Violet Hextar (STEAM_0:0:635224977): escogí la butterfly
+Fri Oct 27 09:58:17 2023	Arrow (STEAM_0:1:92548084) spawned SENT training_orb
+Fri Oct 27 09:59:56 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:00:01 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:00:23 2023	Arrow (STEAM_0:1:92548084) spawned SENT lunasflightschool_hoverchair
+Fri Oct 27 10:00:27 2023	Violet Hextar (STEAM_0:0:635224977): how do i heal?
+Fri Oct 27 10:00:35 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_curarotro
+Fri Oct 27 10:00:39 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_heali
+Fri Oct 27 10:03:46 2023	Violet Hextar (STEAM_0:0:635224977): continue maestro
+Fri Oct 27 10:04:37 2023	Violet Hextar (STEAM_0:0:635224977): no s pq no me va
+Fri Oct 27 10:04:41 2023	Violet Hextar (STEAM_0:0:635224977): lo puse en la y xd
+Fri Oct 27 10:05:41 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_cyaninner
+Fri Oct 27 10:06:07 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_nanoparticles
+Fri Oct 27 10:06:19 2023	Violet Hextar (STEAM_0:0:635224977): uy brilla
+Fri Oct 27 10:06:39 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_gold
+Fri Oct 27 10:06:52 2023	Violet Hextar (STEAM_0:0:635224977): En realidad
+Fri Oct 27 10:06:59 2023	Violet Hextar (STEAM_0:0:635224977): el citrino es la piedra que atrae el dinero
+Fri Oct 27 10:07:04 2023	Violet Hextar (STEAM_0:0:635224977): así que no vas mal encaminado
+Fri Oct 27 10:07:10 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_yellowinner
+Fri Oct 27 10:07:22 2023	Violet Hextar (STEAM_0:0:635224977): pikachu
+Fri Oct 27 10:07:35 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_nanosword
+Fri Oct 27 10:07:41 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_push
+Fri Oct 27 10:07:50 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_zhrompike1	
+Fri Oct 27 10:07:54 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber1
+Fri Oct 27 10:08:04 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber2
+Fri Oct 27 10:08:13 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber3
+Fri Oct 27 10:08:22 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_crystal_white
+Fri Oct 27 10:08:23 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_crystal_white
+Fri Oct 27 10:09:23 2023	Violet Hextar (STEAM_0:0:635224977): amoooor
+Fri Oct 27 10:09:29 2023	Violet Hextar (STEAM_0:0:635224977): mira pto
+Fri Oct 27 10:10:21 2023	Violet Hextar (STEAM_0:0:635224977): sabes
+Fri Oct 27 10:10:35 2023	Violet Hextar (STEAM_0:0:635224977): que si le das a la s + ataque + espacio
+Fri Oct 27 10:10:41 2023	Violet Hextar (STEAM_0:0:635224977): haces otra animación?
+Fri Oct 27 10:11:49 2023	Violet Hextar (STEAM_0:0:635224977): papayasenlaplaya
+Fri Oct 27 10:12:04 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_lightblue
+Fri Oct 27 10:12:06 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_cyan
+Fri Oct 27 10:12:09 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_cyan
+Fri Oct 27 10:12:28 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_chartreuse
+Fri Oct 27 10:12:30 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_smaragd
+Fri Oct 27 10:12:32 2023	Violet Hextar (STEAM_0:0:635224977): Me esta petando hasta a mi pto
+Fri Oct 27 10:12:48 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_citrine
+Fri Oct 27 10:12:52 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_gold
+Fri Oct 27 10:13:21 2023	Violet Hextar (STEAM_0:0:635224977): citrino, jade y aquamarina
+Fri Oct 27 10:13:25 2023	Violet Hextar (STEAM_0:0:635224977): a tomar por culojajaj
+Fri Oct 27 10:13:31 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_allnatt
+Fri Oct 27 10:13:32 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_pink
+Fri Oct 27 10:13:34 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_amethyst
+Fri Oct 27 10:13:36 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_cyan
+Fri Oct 27 10:13:43 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_pink
+Fri Oct 27 10:13:49 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_pink
+Fri Oct 27 10:14:19 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_velocidadi
+Fri Oct 27 10:14:32 2023	Violet Hextar (STEAM_0:0:635224977): yo miro
+Fri Oct 27 10:15:38 2023	Violet Hextar (STEAM_0:0:635224977): pidesela a david
+Fri Oct 27 10:15:42 2023	Violet Hextar (STEAM_0:0:635224977): PERO COMO VAAA
+Fri Oct 27 10:15:55 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_ahorcar
+Fri Oct 27 10:16:53 2023	Violet Hextar (STEAM_0:0:635224977): el movimiento
+Fri Oct 27 10:16:58 2023	Violet Hextar (STEAM_0:0:635224977): mi padre se fue por leche
+Fri Oct 27 10:17:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:17:10 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_velocidadiii
+Fri Oct 27 10:17:49 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_throw
+Fri Oct 27 10:18:35 2023	Luki (STEAM_0:1:447559192) has joined the game
+Fri Oct 27 10:18:35 2023	Luki (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:19:00 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:19:08 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:19:12 2023	Luki (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:19:14 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:19:38 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_desarmariii
+Fri Oct 27 10:19:38 2023	Luki (STEAM_0:1:447559192): y
+Fri Oct 27 10:19:47 2023	Violet Hextar (STEAM_0:0:635224977): aaah me peta
+Fri Oct 27 10:19:50 2023	Luki (STEAM_0:1:447559192): /name Simon
+Fri Oct 27 10:19:56 2023	Violet Hextar (STEAM_0:0:635224977): no me deja moverme
+Fri Oct 27 10:19:59 2023	Violet Hextar (STEAM_0:0:635224977): ayudaaa
+Fri Oct 27 10:20:19 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_heal
+Fri Oct 27 10:20:21 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_kylo
+Fri Oct 27 10:20:29 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_kylo
+Fri Oct 27 10:20:51 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_macer
+Fri Oct 27 10:20:53 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_curarotro
+Fri Oct 27 10:21:11 2023	Simon (STEAM_0:1:447559192) spawned SENT item_crystal_greeninner
+Fri Oct 27 10:21:57 2023	Arrow (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:22:00 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:22:04 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:22:05 2023	Simon (STEAM_0:1:447559192) spawned SENT item_crystal_lightblue
+Fri Oct 27 10:22:17 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_stance_makashi
+Fri Oct 27 10:22:45 2023	Violet Hextar (STEAM_0:0:635224977): pq es dioo
+Fri Oct 27 10:22:47 2023	Simon was killed by Arrow with a weapon_lscs
+Fri Oct 27 10:22:52 2023	Violet Hextar was killed by Himself with a suicide trick
+Fri Oct 27 10:22:52 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:23:03 2023	Simon (STEAM_0:1:447559192): !reviveme
+Fri Oct 27 10:23:04 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:23:07 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:23:13 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:23:19 2023	Violet Hextar (STEAM_0:0:635224977): !respawnme
+Fri Oct 27 10:23:20 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:23:20 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:23:53 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:24:24 2023	Violet Hextar (STEAM_0:0:635224977): no estoy
+Fri Oct 27 10:24:25 2023	Simon (STEAM_0:1:447559192) spawned SENT item_stance_ataru
+Fri Oct 27 10:24:28 2023	Violet Hextar (STEAM_0:0:635224977): es q me peta a poquito
+Fri Oct 27 10:24:51 2023	Violet Hextar (STEAM_0:0:635224977): dale s + ataque + espacio
+Fri Oct 27 10:25:23 2023	Violet Hextar was killed by Simon with a weapon_lscs
+Fri Oct 27 10:25:29 2023	Violet Hextar (STEAM_0:0:635224977): se me quedo pillao jajaja
+Fri Oct 27 10:25:33 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:25:37 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:25:43 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:25:45 2023	Simon was killed by Arrow with a weapon_lscs
+Fri Oct 27 10:25:55 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:26:08 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:26:14 2023	Arrow (STEAM_0:1:92548084): !name Gran Maestro Neverlander
+Fri Oct 27 10:26:29 2023	Simon (STEAM_0:1:447559192) spawned SENT item_stance_juyo
+Fri Oct 27 10:26:53 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_nanosword
+Fri Oct 27 10:27:04 2023	Simon was killed by Violet Hextar with a weapon_physgun
+Fri Oct 27 10:27:14 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:27:15 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_nanosword
+Fri Oct 27 10:27:16 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:27:20 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:27:32 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_crystal_smaragd
+Fri Oct 27 10:27:33 2023	Violet Hextar (STEAM_0:0:635224977): podemos porfiii?
+Fri Oct 27 10:27:56 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_stance_butterfly
+Fri Oct 27 10:28:29 2023	Simon (STEAM_0:1:447559192) spawned SENT item_stance_juyo
+Fri Oct 27 10:30:01 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Fri Oct 27 10:30:10 2023	Simon was killed by Arrow with a weapon_lscs
+Fri Oct 27 10:30:20 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:30:22 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:30:29 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:30:38 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:30:47 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:30:56 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:31:48 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_dooku
+Fri Oct 27 10:31:55 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_dooku
+Fri Oct 27 10:32:34 2023	Simon (STEAM_0:1:447559192) spawned SENT item_stance_makashi
+Fri Oct 27 10:32:40 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_empujariii
+Fri Oct 27 10:32:51 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Fri Oct 27 10:32:51 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:33:19 2023	Arrow was killed by Simon with a weapon_lscs
+Fri Oct 27 10:33:30 2023	Arrow (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:33:33 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:35:14 2023	Simon was killed by Arrow with a weapon_lscs
+Fri Oct 27 10:35:24 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:37:06 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:37:27 2023	Arrow (STEAM_0:1:92548084) spawned SENT falign_150_lightside
+Fri Oct 27 10:37:42 2023	Arrow (STEAM_0:1:92548084) spawned SENT falign_1000_lightside
+Fri Oct 27 10:38:03 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:38:11 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_cw3
+Fri Oct 27 10:38:11 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber1
+Fri Oct 27 10:38:13 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_fsaber5
+Fri Oct 27 10:38:14 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_cw4
+Fri Oct 27 10:38:25 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:38:27 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_ani2r
+Fri Oct 27 10:38:28 2023	Simon (STEAM_0:1:447559192) spawned SENT item_saberhilt_cw7
+Fri Oct 27 10:38:28 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_saberhilt_cw1
+Fri Oct 27 10:38:28 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:39:40 2023	Violet Hextar (STEAM_0:0:635224977): perdon
+Fri Oct 27 10:39:42 2023	Violet Hextar (STEAM_0:0:635224977): perdon
+Fri Oct 27 10:39:59 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_sense
+Fri Oct 27 10:40:07 2023	Simon was killed by Himself with a suicide trick
+Fri Oct 27 10:40:07 2023	Arrow (STEAM_0:1:92548084): 
+Fri Oct 27 10:40:12 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:40:18 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:41:04 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_sense
+Fri Oct 27 10:41:06 2023	Arrow (STEAM_0:1:92548084) spawned SENT item_force_sense
+Fri Oct 27 10:41:13 2023	Simon (STEAM_0:1:447559192) disconnected
+Fri Oct 27 10:41:55 2023	Arrow (STEAM_0:1:92548084): /name Gran Maestro Neverlander
+Fri Oct 27 10:42:57 2023	Violet Hextar (STEAM_0:0:635224977): /pm arrow cual era el de volar
+Fri Oct 27 10:43:05 2023	Luki (STEAM_0:1:447559192) has joined the game
+Fri Oct 27 10:43:05 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:43:06 2023	Violet Hextar (STEAM_0:0:635224977): /pm neverlander cual era el de volar?
+Fri Oct 27 10:43:13 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): /pm Violet Jump
+Fri Oct 27 10:43:28 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_jump
+Fri Oct 27 10:43:31 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_jump
+Fri Oct 27 10:43:53 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:44:00 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:44:06 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:44:15 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_atraerii
+Fri Oct 27 10:44:16 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_heal
+Fri Oct 27 10:44:17 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_force_throw
+Fri Oct 27 10:44:23 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:44:35 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:44:47 2023	Simon was killed by Gran Maestro Neverlander with a weapon_lscs
+Fri Oct 27 10:44:55 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:44:55 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:44:59 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:45:03 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:45:05 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:45:06 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:45:58 2023	Violet Hextar (STEAM_0:0:635224977): no me puedo mover
+Fri Oct 27 10:46:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:46:14 2023	Gran Maestro Neverlander was killed by Simon with a weapon_lscs
+Fri Oct 27 10:46:18 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): !reviveme
+Fri Oct 27 10:46:23 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:46:26 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:46:26 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:46:26 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:46:35 2023	Violet Hextar (STEAM_0:0:635224977): No me puedo moveee
+Fri Oct 27 10:46:41 2023	Violet Hextar was killed by Himself with a suicide trick
+Fri Oct 27 10:46:41 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:46:51 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:47:07 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:47:10 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:47:14 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:47:22 2023	Violet Hextar (STEAM_0:0:635224977): que monojajjaja
+Fri Oct 27 10:47:26 2023	Violet Hextar (STEAM_0:0:635224977): suena como uno
+Fri Oct 27 10:47:38 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:47:40 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:47:56 2023	Violet Hextar (STEAM_0:0:635224977): jajajja
+Fri Oct 27 10:48:41 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:48:48 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:48:57 2023	Violet Hextar was killed by Simon with a weapon_lscs
+Fri Oct 27 10:49:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:49:08 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:49:27 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:49:39 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:49:39 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:50:06 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:50:10 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:50:11 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:50:18 2023	Violet Hextar (STEAM_0:0:635224977): como los hago?
+Fri Oct 27 10:50:50 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:50:56 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:50:58 2023	Simon (STEAM_0:1:447559192) spawned SENT item_crystal_rubind
+Fri Oct 27 10:51:59 2023	Violet Hextar was killed by Simon with a weapon_lscs
+Fri Oct 27 10:52:06 2023	Gran Maestro Neverlander was killed by Simon with a weapon_lscs
+Fri Oct 27 10:52:07 2023	Violet Hextar (STEAM_0:0:635224977): papa me mataron
+Fri Oct 27 10:52:10 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:52:10 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 10:52:14 2023	Simon was killed by Himself with a suicide trick
+Fri Oct 27 10:52:14 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:52:19 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:52:19 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:52:24 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:52:26 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:52:41 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Fri Oct 27 10:52:41 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 10:52:42 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:53:00 2023	Simon (STEAM_0:1:447559192) spawned SENT lunasflightschool_niksacokica_scavenger_speeder
+Fri Oct 27 10:53:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:53:06 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:53:19 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): /name Jawaito
+Fri Oct 27 10:53:31 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 10:53:31 2023	Jawaito was killed by Violet Hextar with a weapon_lscs
+Fri Oct 27 10:53:31 2023	Simon was killed by Violet Hextar with a weapon_lscs
+Fri Oct 27 10:53:36 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:53:36 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:53:41 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:53:43 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:53:51 2023	David Antonio (STEAM_0:0:142640452): 
+Fri Oct 27 10:54:10 2023	Violet Hextar was killed by Simon with a weapon_lscs
+Fri Oct 27 10:54:17 2023	Violet Hextar (STEAM_0:0:635224977): No vale, que yo no se
+Fri Oct 27 10:54:20 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 10:54:21 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:54:21 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:54:24 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:54:30 2023	Jawaito was killed by David Antonio with a rw_sw_westar11
+Fri Oct 27 10:54:34 2023	Simon (STEAM_0:1:447559192): /name Jawa jose maria del campo
+Fri Oct 27 10:54:38 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:54:39 2023	Jawa jose maria del campo was killed by David Antonio with a rw_sw_westar11
+Fri Oct 27 10:54:50 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:54:53 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:54:53 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:54:57 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:54:58 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:55:04 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:55:08 2023	Jawa jose maria del campo was killed by David Antonio with a rw_sw_z2
+Fri Oct 27 10:55:18 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:55:26 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:55:32 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:56:19 2023	Violet Hextar was killed by Jawa jose maria del campo with a weapon_lscs
+Fri Oct 27 10:56:23 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Fri Oct 27 10:56:24 2023	Violet Hextar (STEAM_0:0:635224977): !reviveme
+Fri Oct 27 10:56:27 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_niksacokica_skiff
+Fri Oct 27 10:56:28 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:56:28 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:56:31 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:56:32 2023	Jawaito was killed by David Antonio with a lunasflightschool_awing
+Fri Oct 27 10:56:36 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:56:38 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:56:38 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:57:01 2023	Jawaito was killed by David Antonio with a lunasflightschool_awing
+Fri Oct 27 10:57:05 2023	Jawaito (STEAM_0:1:92548084): !reviveme
+Fri Oct 27 10:57:09 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:57:09 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:57:11 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_vwing
+Fri Oct 27 10:57:11 2023	Jawa jose maria del campo was killed by Violet Hextar with a weapon_physgun
+Fri Oct 27 10:57:21 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:57:24 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:57:26 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_vwing
+Fri Oct 27 10:57:27 2023	Jawaito was killed by David Antonio with a rw_sw_z2
+Fri Oct 27 10:57:33 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:57:33 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:57:38 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_vwing
+Fri Oct 27 10:57:51 2023	Jawaito (STEAM_0:1:92548084) spawned SENT lunasflightschool_niksacokica_scavenger_speeder
+Fri Oct 27 10:57:52 2023	Jawaito was killed by Entity [1298][lunasflightschool_niksacokica_scavenger_speeder] with a lunasflightschool_niksacokica_scavenger_speeder
+Fri Oct 27 10:57:56 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 10:57:56 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 10:58:02 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_r41
+Fri Oct 27 10:58:03 2023	Jawaito (STEAM_0:1:92548084) spawned SENT lunasflightschool_niksacokica_scavenger_speeder
+Fri Oct 27 10:58:07 2023	Jawa jose maria del campo was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 10:58:13 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:58:15 2023	Violet Hextar was killed by Entity [1317][lunasflightschool_niksacokica_scavenger_speeder] with a lunasflightschool_niksacokica_scavenger_speeder
+Fri Oct 27 10:58:17 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:58:23 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:58:25 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:58:27 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:58:28 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:58:33 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:58:36 2023	Jawaito (STEAM_0:1:92548084) spawned SENT tkaro_lfs_liberator
+Fri Oct 27 10:58:41 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_tie_avenger
+Fri Oct 27 10:58:59 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT sfp_viper
+Fri Oct 27 10:59:01 2023	David Antonio was killed by Jawa jose maria del campo with a lunasflightschool_tie_avenger
+Fri Oct 27 10:59:02 2023	Jawa jose maria del campo was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 10:59:06 2023	David Antonio (STEAM_0:0:142640452): !reviveme
+Fri Oct 27 10:59:10 2023	David Antonio (STEAM_0:0:142640452): !respaw
+Fri Oct 27 10:59:12 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 10:59:13 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 10:59:13 2023	David Antonio (STEAM_0:0:142640452): 
+Fri Oct 27 10:59:15 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 10:59:21 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_corvette_defender_class
+Fri Oct 27 10:59:23 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_navy_gage_class
+Fri Oct 27 10:59:24 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_navy_wandere_class
+Fri Oct 27 10:59:25 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_corvette_fury_class
+Fri Oct 27 10:59:25 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 10:59:27 2023	David Antonio (STEAM_0:0:142640452) spawned SENT tkaro_lfs_liberator
+Fri Oct 27 10:59:27 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_t42
+Fri Oct 27 10:59:30 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lfs-rep-troop-transport
+Fri Oct 27 10:59:34 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:59:35 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_s12_blackbolt
+Fri Oct 27 10:59:37 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 10:59:53 2023	Jawa jose maria del campo was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 11:00:00 2023	Jawaito was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 11:00:03 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:00:11 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 11:00:11 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:00:16 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_skipray
+Fri Oct 27 11:00:24 2023	Jawaito (STEAM_0:1:92548084) spawned SENT canofen_corvette_defender_class
+Fri Oct 27 11:00:27 2023	Jawaito (STEAM_0:1:92548084) spawned SENT canofen_navy_gage_class
+Fri Oct 27 11:00:32 2023	Jawaito (STEAM_0:1:92548084) spawned SENT canofen_navy_gage_class
+Fri Oct 27 11:00:50 2023	Jawaito (STEAM_0:1:92548084) spawned SENT canofen_navy_gage_class
+Fri Oct 27 11:01:09 2023	Jawa jose maria del campo was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 11:01:12 2023	Jawaito (STEAM_0:1:92548084) spawned SENT canofen_navy_wandere_class
+Fri Oct 27 11:01:19 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:01:24 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT podracer
+Fri Oct 27 11:01:33 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_antiairturret
+Fri Oct 27 11:01:49 2023	Violet Hextar was killed by Himself with a suicide trick
+Fri Oct 27 11:01:49 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft2_quell
+Fri Oct 27 11:01:56 2023	Jawaito (STEAM_0:1:92548084) spawned SENT canofen_corvette_fury_class
+Fri Oct 27 11:01:59 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 11:02:04 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_corvette_fury_class
+Fri Oct 27 11:02:08 2023	Jawaito (STEAM_0:1:92548084) spawned SENT lunasflightschool_flashfire
+Fri Oct 27 11:02:08 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiairturret
+Fri Oct 27 11:02:09 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT lunasflightschool_alligator
+Fri Oct 27 11:02:22 2023	Jawa jose maria del campo was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 27 11:02:32 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:02:33 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiinfantryturret
+Fri Oct 27 11:02:40 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antivehicleturret
+Fri Oct 27 11:02:43 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:02:49 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_kimogila
+Fri Oct 27 11:03:04 2023	Jawaito (STEAM_0:1:92548084) spawned SENT czerka_cruiser
+Fri Oct 27 11:03:08 2023	Jawaito (STEAM_0:1:92548084) spawned SENT longspur
+Fri Oct 27 11:03:09 2023	Jawaito (STEAM_0:1:92548084) spawned SENT longspur_outrider
+Fri Oct 27 11:03:10 2023	Jawaito (STEAM_0:1:92548084) spawned SENT rendili
+Fri Oct 27 11:03:12 2023	Jawaito (STEAM_0:1:92548084) spawned SENT ubrikki
+Fri Oct 27 11:03:13 2023	Jawaito (STEAM_0:1:92548084) spawned SENT ubrikki_elite
+Fri Oct 27 11:03:19 2023	Jawaito (STEAM_0:1:92548084) spawned SENT czerka_cruiser
+Fri Oct 27 11:03:26 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT item_crystal_cyan
+Fri Oct 27 11:03:29 2023	Jawaito (STEAM_0:1:92548084) spawned SENT longspur
+Fri Oct 27 11:03:31 2023	Jawaito (STEAM_0:1:92548084) spawned SENT longspur_outrider
+Fri Oct 27 11:03:33 2023	Jawa jose maria del campo was killed by David Antonio with a rw_sw_dual_ib94
+Fri Oct 27 11:03:41 2023	Jawaito (STEAM_0:1:92548084) spawned SENT rendili
+Fri Oct 27 11:03:43 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:03:51 2023	Jawaito (STEAM_0:1:92548084) spawned SENT ubrikki
+Fri Oct 27 11:04:13 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT item_force_velocidadiii
+Fri Oct 27 11:04:22 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:04:29 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:04:34 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:04:36 2023	David Antonio (STEAM_0:0:142640452): 
+Fri Oct 27 11:04:37 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:05:03 2023	Jawaito was killed by Himself with a suicide trick
+Fri Oct 27 11:05:03 2023	David Antonio was killed by Himself with a suicide trick
+Fri Oct 27 11:05:04 2023	Violet Hextar was killed by Himself with a suicide trick
+Fri Oct 27 11:05:14 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 11:05:14 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:05:14 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 11:05:17 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 11:05:19 2023	Jawa jose maria del campo was killed by Himself with a suicide trick
+Fri Oct 27 11:05:20 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:05:21 2023	Jawaito (STEAM_0:1:92548084) spawned SENT czerka_cruiser
+Fri Oct 27 11:05:23 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:05:28 2023	Jawaito (STEAM_0:1:92548084) spawned SENT longspur
+Fri Oct 27 11:05:29 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:05:30 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:05:32 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 11:05:38 2023	Jawaito (STEAM_0:1:92548084) spawned SENT rendili
+Fri Oct 27 11:05:44 2023	Jawaito (STEAM_0:1:92548084) spawned SENT ubrikki
+Fri Oct 27 11:05:50 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Fri Oct 27 11:05:55 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:06:12 2023	Violet Hextar (STEAM_0:0:635224977): falta david
+Fri Oct 27 11:06:23 2023	Jawa jose maria del campo was killed by Himself with a suicide trick
+Fri Oct 27 11:06:33 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:06:34 2023	Violet Hextar was killed by Himself with a suicide trick
+Fri Oct 27 11:06:41 2023	Jawaito was killed by Himself with a suicide trick
+Fri Oct 27 11:06:46 2023	Violet Hextar (STEAM_0:0:635224977): ha ganao jawa
+Fri Oct 27 11:06:50 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 11:06:52 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 11:06:54 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:06:57 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:07:03 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned SENT item_force_sense
+Fri Oct 27 11:07:16 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:07:23 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:08:07 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:08:55 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 11:09:49 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 11:10:12 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:10:19 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:11:24 2023	Jawa jose maria del campo (STEAM_0:1:447559192): 
+Fri Oct 27 11:11:29 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:11:47 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:11:51 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:13:55 2023	Jawa jose maria del campo was killed by Himself with a suicide trick
+Fri Oct 27 11:13:55 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:14:05 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:14:11 2023	Jawa jose maria del campo (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:14:16 2023	Jawa jose maria del campo (STEAM_0:1:447559192): /name Simon
+Fri Oct 27 11:14:19 2023	Jawaito (STEAM_0:1:92548084) disconnected
+Fri Oct 27 11:14:28 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:14:34 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:14:44 2023	Violet Hextar was killed by Entity [668][trigger_hurt] with a trigger_hurt
+Fri Oct 27 11:14:49 2023	Violet Hextar (STEAM_0:0:635224977): !reviveme
+Fri Oct 27 11:14:52 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 11:14:52 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:15:00 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:15:16 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:15:23 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:18:05 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Fri Oct 27 11:18:05 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 11:18:12 2023	Simon was killed by Himself with a suicide trick
+Fri Oct 27 11:18:12 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:18:23 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:18:26 2023	Violet Hextar (STEAM_0:0:635224977): Vuelve a hacer otra puta broma de la regla
+Fri Oct 27 11:18:29 2023	Jawaito (STEAM_0:1:92548084) spawned
+Fri Oct 27 11:18:30 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:18:33 2023	Jawaito (STEAM_0:1:92548084): 
+Fri Oct 27 11:18:51 2023	Jawaito (STEAM_0:1:92548084): /name Gran Maestro Neverlander
+Fri Oct 27 11:18:52 2023	Violet Hextar (STEAM_0:0:635224977): Las camas rosas pa los alumnos
+Fri Oct 27 11:18:57 2023	Violet Hextar (STEAM_0:0:635224977): Y las otra pa los maestros
+Fri Oct 27 11:19:01 2023	Violet Hextar (STEAM_0:0:635224977): ya que todos duermen aqui
+Fri Oct 27 11:19:20 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned SENT training_orb
+Fri Oct 27 11:20:08 2023	Violet Hextar (STEAM_0:0:635224977): !sacale neverlander 1.1
+Fri Oct 27 11:20:14 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:20:51 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 11:21:08 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:21:48 2023	Violet Hextar (STEAM_0:0:635224977): Yo es que ya elegí la mia hace un huevo
+Fri Oct 27 11:22:01 2023	Violet Hextar (STEAM_0:0:635224977): tengo 6 trajes y 5 pelos xd
+Fri Oct 27 11:22:10 2023	Violet Hextar (STEAM_0:0:635224977): no
+Fri Oct 27 11:22:27 2023	Violet Hextar (STEAM_0:0:635224977): No vamos a empezar a hacer excepciones
+Fri Oct 27 11:22:38 2023	Violet Hextar (STEAM_0:0:635224977): a que te ahorco
+Fri Oct 27 11:22:47 2023	Violet Hextar (STEAM_0:0:635224977): Pues acepta lo
+Fri Oct 27 11:22:51 2023	Simon (STEAM_0:1:447559192): /model simon models/player/skeleton.mdl
+Fri Oct 27 11:22:58 2023	Violet Hextar (STEAM_0:0:635224977): Cierto
+Fri Oct 27 11:23:04 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:23:24 2023	Violet Hextar (STEAM_0:0:635224977): a ver
+Fri Oct 27 11:23:30 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:23:32 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 11:23:41 2023	Violet Hextar (STEAM_0:0:635224977): voy en t
+Fri Oct 27 11:24:00 2023	Violet Hextar (STEAM_0:0:635224977): amor
+Fri Oct 27 11:24:01 2023	Violet Hextar (STEAM_0:0:635224977): !medico
+Fri Oct 27 11:24:02 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:24:03 2023	Violet Hextar (STEAM_0:0:635224977): amor
+Fri Oct 27 11:24:04 2023	Violet Hextar (STEAM_0:0:635224977): amor
+Fri Oct 27 11:24:10 2023	Violet Hextar (STEAM_0:0:635224977): al moverme se pone en t pose
+Fri Oct 27 11:24:20 2023	Violet Hextar (STEAM_0:0:635224977): ah bueno
+Fri Oct 27 11:24:43 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:24:56 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Fri Oct 27 11:24:56 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 11:25:20 2023	Violet Hextar was killed by Simon with a weapon_lscs
+Fri Oct 27 11:25:27 2023	Simon was killed by Himself with a suicide trick
+Fri Oct 27 11:25:27 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:25:28 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Fri Oct 27 11:25:32 2023	Violet Hextar (STEAM_0:0:635224977): !reviveme
+Fri Oct 27 11:25:35 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Fri Oct 27 11:25:37 2023	Simon (STEAM_0:1:447559192) spawned
+Fri Oct 27 11:25:38 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:25:41 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Fri Oct 27 11:25:41 2023	Violet Hextar (STEAM_0:0:635224977): 
+Fri Oct 27 11:25:45 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:25:52 2023	Simon (STEAM_0:1:447559192): /goto gran
+Fri Oct 27 11:25:57 2023	Simon (STEAM_0:1:447559192): 
+Fri Oct 27 11:26:27 2023	Violet Hextar (STEAM_0:0:635224977): joel
+Fri Oct 27 11:26:35 2023	Violet Hextar (STEAM_0:0:635224977): disc
+Fri Oct 27 11:27:07 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Fri Oct 27 11:27:07 2023	David Antonio (STEAM_0:0:142640452) spawned
+Fri Oct 27 11:27:59 2023	Simon (STEAM_0:1:447559192): 

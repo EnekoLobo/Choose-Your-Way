@@ -1,0 +1,174 @@
+Wed Nov 22 17:45:08 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Wed Nov 22 17:45:08 2023	Quester (STEAM_0:0:63793651) spawned
+Wed Nov 22 17:45:30 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Wed Nov 22 17:48:37 2023	zacon31 (STEAM_0:0:529660694) has joined the game
+Wed Nov 22 17:48:37 2023	zack (STEAM_0:0:529660694) spawned
+Wed Nov 22 17:48:38 2023	Storm (STEAM_0:0:562957255) has joined the game
+Wed Nov 22 17:48:38 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Wed Nov 22 17:49:34 2023	zack  (STEAM_0:0:529660694) spawned
+Wed Nov 22 17:50:10 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Wed Nov 22 17:50:12 2023	Lynx Talah (STEAM_0:0:562957255): /rpdesc
+Wed Nov 22 17:50:46 2023	Lynx Talah (STEAM_0:0:562957255): 
+Wed Nov 22 17:50:54 2023	Etahn Mulec  (STEAM_0:0:562957255) spawned
+Wed Nov 22 17:51:10 2023	Etahn Mulec  (STEAM_0:0:562957255): /rpdesc
+Wed Nov 22 17:53:44 2023	Etahn Mulec  (STEAM_0:0:562957255): uqe quiere
+Wed Nov 22 17:53:53 2023	Etahn Mulec  (STEAM_0:0:562957255): a beuno
+Wed Nov 22 17:54:03 2023	Etahn Mulec  (STEAM_0:0:562957255): vale vale
+Wed Nov 22 17:54:09 2023	Etahn Mulec  (STEAM_0:0:562957255): va perfe
+Wed Nov 22 17:54:21 2023	Etahn Mulec  (STEAM_0:0:562957255): si en algun punto va lag pero va bien
+Wed Nov 22 17:54:25 2023	Etahn Mulec  (STEAM_0:0:562957255): si
+Wed Nov 22 17:54:27 2023	Samy (STEAM_0:0:146740106) has joined the game
+Wed Nov 22 17:54:27 2023	Samy Encapuchado (STEAM_0:0:146740106) spawned
+Wed Nov 22 17:54:44 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:44 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:51 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:52 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:53 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:53 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:54 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:56 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:57 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:57 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:58 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:54:58 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:55:00 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:55:01 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_mecharancor
+Wed Nov 22 17:55:07 2023	Samy  (STEAM_0:0:146740106) spawned
+Wed Nov 22 17:55:10 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 17:55:45 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:55:47 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:55:47 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:55:48 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:55:50 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 17:56:01 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 17:56:03 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 17:56:06 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
+Wed Nov 22 17:56:06 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Wed Nov 22 17:56:10 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:56:11 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:56:12 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:56:13 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_irradiated_rancor
+Wed Nov 22 17:56:35 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:36 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:37 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:37 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:38 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:38 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:39 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:39 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:39 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:40 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:40 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:41 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:41 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:42 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:42 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:42 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:47 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:48 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:48 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:48 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:48 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:49 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:49 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:49 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:50 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:50 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:51 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:51 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:52 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:56:52 2023	Darth Ma`k (STEAM_0:0:63793651) spawned NPC npc_drg_marsh_rancor
+Wed Nov 22 17:57:12 2023	Straw berry (STEAM_0:0:142640452) spawned
+Wed Nov 22 17:57:54 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 17:58:01 2023	Etahn Mulec  (STEAM_0:0:562957255): va perfe
+Wed Nov 22 17:58:27 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_repcorvette3
+Wed Nov 22 17:58:35 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_repcorvette2
+Wed Nov 22 17:58:50 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_repcorvette3
+Wed Nov 22 17:58:50 2023	Etahn Mulec  (STEAM_0:0:562957255): 
+Wed Nov 22 17:58:55 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_repcorvette3
+Wed Nov 22 17:58:57 2023	Lynx Talah (STEAM_0:0:562957255) spawned
+Wed Nov 22 17:59:00 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_repcorvette2
+Wed Nov 22 17:59:11 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_repcorvette1
+Wed Nov 22 17:59:20 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_cr90
+Wed Nov 22 17:59:40 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Wed Nov 22 17:59:40 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Wed Nov 22 17:59:46 2023	Lynx Talah (STEAM_0:0:562957255): /rpdesc
+Wed Nov 22 17:59:58 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 18:00:26 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 18:00:44 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 18:02:10 2023	Samy  (STEAM_0:0:146740106) spawned SENT lunasflightschool_alligator
+Wed Nov 22 18:02:44 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Wed Nov 22 18:03:03 2023	Violet Hextar (STEAM_0:0:635224977): 
+Wed Nov 22 18:03:13 2023	Alis Berry (STEAM_0:0:635224977) spawned
+Wed Nov 22 18:03:27 2023	Samy  (STEAM_0:0:146740106): !rpdesc
+Wed Nov 22 18:03:30 2023	Alis Berry (STEAM_0:0:635224977): 
+Wed Nov 22 18:03:32 2023	Samy  (STEAM_0:0:146740106): /rpdesc
+Wed Nov 22 18:04:01 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 18:04:03 2023	Samy  (STEAM_0:0:146740106): 
+Wed Nov 22 18:04:03 2023	Alis Berry (STEAM_0:0:635224977): Te tengo que decir un secreto
+Wed Nov 22 18:04:13 2023	Alis Berry (STEAM_0:0:635224977): agacha
+Wed Nov 22 18:04:23 2023	Alis Berry (STEAM_0:0:635224977): /w Hoy es mi cumple
+Wed Nov 22 18:04:34 2023	Straw berry (STEAM_0:0:142640452): /w enserio?
+Wed Nov 22 18:04:39 2023	Straw berry (STEAM_0:0:142640452): /w felicidades
+Wed Nov 22 18:04:47 2023	Teniente Parla (STEAM_0:0:146740106): 
+Wed Nov 22 18:04:55 2023	Teniente Parla (STEAM_0:0:146740106): 
+Wed Nov 22 18:04:55 2023	Straw berry (STEAM_0:0:142640452): /w creo que tengo un regalo para ti espera aqui
+Wed Nov 22 18:04:57 2023	LOBO (STEAM_0:0:551085146) has joined the game
+Wed Nov 22 18:04:57 2023	Rubi (STEAM_0:0:551085146) spawned
+Wed Nov 22 18:05:01 2023	Alis Berry (STEAM_0:0:635224977): Si, hoy cumplo 12
+Wed Nov 22 18:05:05 2023	Teniente Parla (STEAM_0:0:146740106): 
+Wed Nov 22 18:05:32 2023	rubi Apellido (STEAM_0:0:551085146) spawned
+Wed Nov 22 18:05:34 2023	Teniente Parla (STEAM_0:0:146740106): /drop
+Wed Nov 22 18:07:36 2023	Teniente Parla (STEAM_0:0:146740106): /drop
+Wed Nov 22 18:08:27 2023	zack  was killed by Himself with a suicide trick
+Wed Nov 22 18:08:27 2023	Teniente Parla (STEAM_0:0:146740106): 
+Wed Nov 22 18:08:31 2023	Straw berry (STEAM_0:0:142640452): 
+Wed Nov 22 18:08:37 2023	zack  (STEAM_0:0:529660694) spawned
+Wed Nov 22 18:08:41 2023	Lynx Talah (STEAM_0:0:562957255): sabes qeu esta pasando ahi?
+Wed Nov 22 18:08:45 2023	Straw berry (STEAM_0:0:142640452): 
+Wed Nov 22 18:08:45 2023	Straw berry (STEAM_0:0:142640452): 
+Wed Nov 22 18:10:41 2023	nasiporin (STEAM_0:0:1770861) has joined the game
+Wed Nov 22 18:10:41 2023	Alex Antares (STEAM_0:0:1770861) spawned
+Wed Nov 22 18:11:28 2023	alex antares (STEAM_0:0:1770861) spawned
+Wed Nov 22 18:11:39 2023	Alis Berry (STEAM_0:0:635224977): Que pasa?
+Wed Nov 22 18:11:41 2023	alex antares (STEAM_0:0:1770861) spawned
+Wed Nov 22 18:12:05 2023	Alis Berry (STEAM_0:0:635224977): 
+Wed Nov 22 18:12:05 2023	Alis Berry (STEAM_0:0:635224977): 
+Wed Nov 22 18:12:08 2023	Alis Berry (STEAM_0:0:635224977): Aaaah!!!
+Wed Nov 22 18:12:21 2023	Alis Berry (STEAM_0:0:635224977): Me encanta!!
+Wed Nov 22 18:12:25 2023	Straw berry (STEAM_0:0:142640452): 
+Wed Nov 22 18:12:25 2023	Straw berry (STEAM_0:0:142640452): 
+Wed Nov 22 18:12:27 2023	SNAGEL (STEAM_0:1:535855462) has joined the game
+Wed Nov 22 18:12:27 2023	Centinela Maestro (STEAM_0:1:535855462) spawned
+Wed Nov 22 18:13:09 2023	Centinela  (STEAM_0:1:535855462) spawned
+Wed Nov 22 18:13:13 2023	Alis Berry (STEAM_0:0:635224977): /pm straw que prop es?
+Wed Nov 22 18:13:13 2023	Centinela  (STEAM_0:1:535855462): /rpdesc
+Wed Nov 22 18:13:13 2023	Lynx Talah (STEAM_0:0:562957255): loque ibamos comentando
+Wed Nov 22 18:13:22 2023	Lynx Talah (STEAM_0:0:562957255): hasta  que dio el lapso
+Wed Nov 22 18:13:27 2023	Lynx Talah (STEAM_0:0:562957255): esuqe era un iniciado exlente
+Wed Nov 22 18:13:33 2023	Lynx Talah (STEAM_0:0:562957255): creo
+Wed Nov 22 18:13:42 2023	Lynx Talah (STEAM_0:0:562957255): uy uy
+Wed Nov 22 18:13:48 2023	Lynx Talah (STEAM_0:0:562957255): uy
+Wed Nov 22 18:13:51 2023	Lynx Talah (STEAM_0:0:562957255): por poco
+Wed Nov 22 18:13:57 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 18:13:57 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 18:13:57 2023	Lynx Talah (STEAM_0:0:562957255): si lo que me decia?
+Wed Nov 22 18:14:00 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 18:14:00 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 18:14:06 2023	Straw berry (STEAM_0:0:142640452) spawned SENT item_box_buckshot
+Wed Nov 22 18:14:10 2023	Lynx Talah (STEAM_0:0:562957255): a si se estan dando de ostais en el cuertel de los soldado cre
+Wed Nov 22 18:14:12 2023	Lynx Talah (STEAM_0:0:562957255): creo
+Wed Nov 22 18:14:26 2023	Straw berry (STEAM_0:0:142640452): 
+Wed Nov 22 18:14:28 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Wed Nov 22 18:14:34 2023	Lynx Talah (STEAM_0:0:562957255): no hara falta
+Wed Nov 22 18:14:38 2023	Lynx Talah (STEAM_0:0:562957255): no me volvera a pillar
+Wed Nov 22 18:14:45 2023	Straw berry (STEAM_0:0:142640452) spawned SENT npc_grenade_frag
+Wed Nov 22 18:14:49 2023	Straw berry (STEAM_0:0:142640452) spawned SENT npc_grenade_frag
+Wed Nov 22 18:14:57 2023	Lynx Talah (STEAM_0:0:562957255): si ya e estado en el planeta esclavista
+Wed Nov 22 18:15:07 2023	Lynx Talah (STEAM_0:0:562957255): aunque sorprendentemente es un sitio muy bonita
+Wed Nov 22 18:15:09 2023	Lynx Talah (STEAM_0:0:562957255): bonito
+Wed Nov 22 18:15:11 2023	Lynx Talah (STEAM_0:0:562957255): ee
+Wed Nov 22 18:15:16 2023	Lynx Talah (STEAM_0:0:562957255): las espositas relajadas
+Wed Nov 22 18:15:21 2023	Lynx Talah (STEAM_0:0:562957255): ee
+Wed Nov 22 18:15:27 2023	Straw berry (STEAM_0:0:142640452) spawned SENT npc_grenade_frag
+Wed Nov 22 18:15:33 2023	Lynx Talah (STEAM_0:0:562957255): no har aflata

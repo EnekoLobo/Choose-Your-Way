@@ -1,0 +1,198 @@
+Thu Nov 16 02:01:37 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 16 02:01:37 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 16 02:03:18 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Thu Nov 16 02:03:18 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:04:04 2023	Minirito (STEAM_0:1:125413969) has joined the game
+Thu Nov 16 02:04:04 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:05:12 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:05:23 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 02:06:00 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:06:16 2023	Draik Kadera (STEAM_0:1:125413969) spawned SENT canofen_corvette_defender_class
+Thu Nov 16 02:06:22 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:06:40 2023	Draik Kadera (STEAM_0:1:125413969) spawned SENT canofen_corvette_defender_class
+Thu Nov 16 02:07:15 2023	Draik Kadera (STEAM_0:1:125413969) spawned SENT canofen_corvette_defender_class
+Thu Nov 16 02:08:02 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Thu Nov 16 02:08:02 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 02:08:13 2023	Draik Kadera (STEAM_0:1:125413969) spawned SENT canofen_corvette_defender_class
+Thu Nov 16 02:09:26 2023	Draik Kadera (STEAM_0:1:125413969) spawned SENT canofen_corvette_defender_class
+Thu Nov 16 02:10:18 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Thu Nov 16 02:11:13 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:11:38 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:11:47 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:12:10 2023	Maestra Consul Hextar (STEAM_0:0:635224977): Mira q bonito
+Thu Nov 16 02:12:20 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:12:22 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:12:24 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:12:37 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 02:12:40 2023	Draik Kadera was killed by Quester with a weapon_lscs
+Thu Nov 16 02:12:40 2023	Tte Straw Berry was killed by Quester with a weapon_lscs
+Thu Nov 16 02:12:46 2023	Draik Kadera (STEAM_0:1:125413969): !reviveme
+Thu Nov 16 02:12:51 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:12:51 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:12:51 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:13:03 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:13:55 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:14:22 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:14:26 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:14:35 2023	Quester was killed by Entity [0][worldspawn] with a unknown
+Thu Nov 16 02:14:46 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 16 02:14:56 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:14:59 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:18:19 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:18:52 2023	Tte Straw Berry (STEAM_0:0:142640452) disconnected
+Thu Nov 16 02:19:57 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 02:20:05 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
+Thu Nov 16 02:20:05 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:20:14 2023	Maestra Consul Hextar (STEAM_0:0:635224977): No hay q ocupen todo
+Thu Nov 16 02:20:37 2023	Draik Kadera (STEAM_0:1:125413969) spawned SENT canofen_corvette_defender_class
+Thu Nov 16 02:20:40 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:20:58 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:21:01 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:21:04 2023	Maestra Consul Hextar (STEAM_0:0:635224977): bush
+Thu Nov 16 02:21:11 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:21:22 2023	Maestra Consul Hextar (STEAM_0:0:635224977): esto dices?
+Thu Nov 16 02:21:22 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:21:46 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Thu Nov 16 02:21:46 2023	Droide de Entreno SH (STEAM_0:1:92548084) spawned
+Thu Nov 16 02:21:54 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:22:18 2023	Maestra Consul Hextar (STEAM_0:0:635224977): quitarse
+Thu Nov 16 02:22:31 2023	Droide de Entreno SH (STEAM_0:1:92548084): /name Gran Maestro Neverlander
+Thu Nov 16 02:22:32 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 16 02:22:34 2023	Quester was killed by Himself with a suicide trick
+Thu Nov 16 02:22:34 2023	Tte Straw Berry was killed by Quester with a prop_physics
+Thu Nov 16 02:22:40 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 16 02:22:40 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 02:22:45 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:22:47 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 02:22:47 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:23:51 2023	Maestra Consul Hextar (STEAM_0:0:635224977) disconnected
+Thu Nov 16 02:23:54 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Thu Nov 16 02:23:59 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:24:13 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Thu Nov 16 02:24:17 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Thu Nov 16 02:24:45 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Thu Nov 16 02:24:58 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Thu Nov 16 02:25:13 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:25:25 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:25:30 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 02:25:55 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:26:05 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 02:27:19 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:27:58 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:28:33 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:28:45 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:28:45 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:28:48 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:30:39 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:30:39 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:31:02 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:31:58 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:32:05 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:32:06 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:32:06 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:32:07 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:32:09 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:32:09 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:32:09 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:32:33 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT canofen_navy_wandere_class
+Thu Nov 16 02:32:34 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT canofen_navy_wandere_class
+Thu Nov 16 02:39:14 2023	Quester (STEAM_0:0:63793651) disconnected
+Thu Nov 16 02:41:11 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:41:22 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:41:52 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:43:18 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 02:44:52 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 02:45:27 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 02:45:37 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:48:12 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:48:31 2023	Tte Straw Berry was killed by Gran Maestro Neverlander with a weapon_lscs
+Thu Nov 16 02:48:38 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:48:38 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:48:42 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:48:48 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:48:48 2023	Draik Kadera was killed by Gran Maestro Neverlander with a weapon_lscs
+Thu Nov 16 02:48:51 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:48:51 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:48:52 2023	Tte Straw Berry was killed by Gran Maestro Neverlander with a weapon_lscs
+Thu Nov 16 02:48:55 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:48:55 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:48:56 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:48:57 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:49:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 02:49:15 2023	Draik Kadera was killed by Tte Straw Berry with a weapon_vibrosword
+Thu Nov 16 02:49:46 2023	Tte Straw Berry was killed by Gran Maestro Neverlander with a weapon_vibrosword
+Thu Nov 16 02:50:44 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:50:44 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:50:45 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:51:53 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:52:03 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:52:24 2023	Draik Kadera was killed by Gran Maestro Neverlander with a weapon_nanosword
+Thu Nov 16 02:52:25 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:52:25 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:52:25 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:52:27 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:52:27 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:52:28 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:52:28 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:52:28 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:52:28 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:52:28 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:52:29 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:52:29 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:52:31 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:03 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_portableturret
+Thu Nov 16 02:53:29 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:53:29 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:53:29 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthkit
+Thu Nov 16 02:53:30 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:30 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:31 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:31 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:31 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:31 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthvial
+Thu Nov 16 02:53:33 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:37 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_battery
+Thu Nov 16 02:53:37 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthvial
+Thu Nov 16 02:53:39 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT item_healthvial
+Thu Nov 16 02:53:48 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_antivehicleturret
+Thu Nov 16 02:54:05 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned SENT lunasflightschool_antivehicleturret
+Thu Nov 16 02:54:08 2023	Draik Kadera was killed by Gran Maestro Neverlander with a weapon_lscs
+Thu Nov 16 02:54:11 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 02:54:11 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:54:38 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:55:20 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Thu Nov 16 02:55:20 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:55:26 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:55:32 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Thu Nov 16 02:55:36 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 02:55:52 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned NPC npc_drg_brutal_rakghoul
+Thu Nov 16 03:02:49 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:12:39 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:12:44 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Thu Nov 16 03:12:44 2023	Quester (STEAM_0:0:63793651) spawned
+Thu Nov 16 03:13:11 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:13:52 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 03:16:59 2023	Draik Kadera was killed by Himself with a suicide trick
+Thu Nov 16 03:17:03 2023	Draik Kadera (STEAM_0:1:125413969) spawned
+Thu Nov 16 03:17:03 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:18:36 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:18:39 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:20:57 2023	Tte Straw Berry (STEAM_0:0:142640452) disconnected
+Thu Nov 16 03:22:36 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 03:23:28 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 03:23:40 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Thu Nov 16 03:23:50 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:29:00 2023	Draik Kadera (STEAM_0:1:125413969): 
+Thu Nov 16 03:36:05 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:36:05 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:36:12 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:37:49 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:40:21 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:42:13 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:42:28 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:42:47 2023	Gran Maestro Neverlander was killed by Quester with a weapon_lscs
+Thu Nov 16 03:43:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Thu Nov 16 03:43:38 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:43:43 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) disconnected
+Thu Nov 16 03:43:44 2023	Quester (STEAM_0:0:63793651): 
+Thu Nov 16 03:43:46 2023	Quester (STEAM_0:0:63793651) disconnected

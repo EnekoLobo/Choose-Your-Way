@@ -1,0 +1,1 @@
+1=item_stance_untrained,2=item_stance_shiicho,3=item_saberhilt_ani1,4=item_crystal_smaragd,5=item_force_empujarii,6=item_force_heali,7=item_force_curarotro,8=item_force_atraerii,9=item_force_heal,10=item_force_jump,11=item_force_pull,12=item_force_push,13=item_force_replenish,14=item_stance_juggernaut,#2=0,3=0,4=0,5=0,6=0,7=0,8=0,9=0,10=0,11=0,12=0,13=0,14=0,

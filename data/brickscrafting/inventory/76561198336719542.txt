@@ -1,0 +1,1 @@
+{"Resources":{"Plastico":89.0,"Scrap":39.0,"Madera":61.0}}

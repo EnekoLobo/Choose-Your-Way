@@ -1,0 +1,1 @@
+1=item_stance_makashi,2=item_stance_soresu,3=item_stance_shiicho2,4=item_stance_ataru,#1=0,2=0,3=0,4=0,

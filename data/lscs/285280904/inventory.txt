@@ -1,0 +1,1 @@
+1=item_stance_soresu,2=item_saberhilt_ani2,#1=0,

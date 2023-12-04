@@ -1,0 +1,12 @@
+Sun Nov 19 01:37:14 2023	Tiburex (STEAM_0:1:541478307) has joined the game
+Sun Nov 19 01:37:14 2023	Jaxon Stumber (STEAM_0:1:541478307) spawned
+Sun Nov 19 01:37:40 2023	Tayson  (STEAM_0:1:541478307) spawned
+Sun Nov 19 01:40:57 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Sun Nov 19 01:40:57 2023	Quester (STEAM_0:0:63793651) spawned
+Sun Nov 19 01:41:43 2023	Elion Cian (STEAM_0:0:63793651) spawned
+Sun Nov 19 01:42:54 2023	Elion Cian (STEAM_0:0:63793651): 
+Sun Nov 19 01:43:02 2023	Exolur Cirral (STEAM_0:0:63793651) spawned
+Sun Nov 19 01:43:06 2023	Exolur Cirral (STEAM_0:0:63793651): 
+Sun Nov 19 01:44:47 2023	Tayson  (STEAM_0:1:541478307): //me pone conectando RTC, wait
+Sun Nov 19 01:45:16 2023	Exolur Cirral (STEAM_0:0:63793651): Reinicia disc
+Sun Nov 19 01:45:20 2023	Tayson  (STEAM_0:1:541478307): //voy

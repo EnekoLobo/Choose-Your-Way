@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sterling/crafting_wood_main"
+	"$bumpmap" "sterling/crafting_wood_norm"
+
+	"$alphatest" "1"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "25"
+	"$phongfresnelranges" "[0.5 3 7]"
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.05 .05 .05]"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" ".5"
+}

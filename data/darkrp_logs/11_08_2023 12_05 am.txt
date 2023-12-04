@@ -1,0 +1,45 @@
+Wed Nov  8 00:05:52 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Wed Nov  8 00:05:52 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 00:09:08 2023	Desconocido (STEAM_0:0:63793651) disconnected
+Wed Nov  8 01:02:55 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Wed Nov  8 01:02:55 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 01:04:11 2023	Samy (STEAM_0:0:146740106) has joined the game
+Wed Nov  8 01:04:11 2023	Samy (STEAM_0:0:146740106) spawned
+Wed Nov  8 01:04:23 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:04:38 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 01:04:41 2023	Samy (STEAM_0:0:146740106) spawned
+Wed Nov  8 01:06:13 2023	Samy was killed by Desconocido with a weapon_lscs
+Wed Nov  8 01:06:21 2023	Samy (STEAM_0:0:146740106) spawned
+Wed Nov  8 01:06:21 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:06:39 2023	Desconocido was killed by Samy with a weapon_training_saber
+Wed Nov  8 01:06:45 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 01:06:45 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:07:21 2023	Desconocido was killed by Samy with a weapon_training_saber
+Wed Nov  8 01:07:31 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 01:08:55 2023	Desconocido was killed by Samy with a weapon_training_saber
+Wed Nov  8 01:08:57 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 01:08:57 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:14:20 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:14:20 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:14:38 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Wed Nov  8 01:14:38 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Wed Nov  8 01:15:07 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:15:10 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:15:11 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:16:01 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Wed Nov  8 01:19:40 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:19:59 2023	Maestra Consul Hextar was killed by Samy with a weapon_training_saber
+Wed Nov  8 01:20:51 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:20:56 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:22:44 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:22:52 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Wed Nov  8 01:23:42 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:24:06 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:24:10 2023	Desconocido (STEAM_0:0:63793651): /uncloak
+Wed Nov  8 01:24:13 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:24:24 2023	Maestra Consul Hextar (STEAM_0:0:635224977): 
+Wed Nov  8 01:24:36 2023	Desconocido was killed by Samy with a weapon_training_saber
+Wed Nov  8 01:24:39 2023	Desconocido (STEAM_0:0:63793651) spawned
+Wed Nov  8 01:24:39 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:24:45 2023	Desconocido (STEAM_0:0:63793651): 
+Wed Nov  8 01:24:46 2023	Desconocido (STEAM_0:0:63793651): 

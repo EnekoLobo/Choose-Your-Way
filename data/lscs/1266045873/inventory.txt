@@ -1,0 +1,1 @@
+1=item_stance_shiicho,2=item_stance_shiicho2,#1=0,

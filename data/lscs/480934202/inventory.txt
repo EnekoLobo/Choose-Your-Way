@@ -1,0 +1,1 @@
+1=item_saberhilt_commonr,2=item_crystal_blueinner,3=item_stance_djemso,4=item_force_push,5=item_force_replenish,6=item_force_throw,7=item_force_atraeri,8=item_force_atraerii,9=item_force_atraeriii,10=item_force_empujariii,11=item_force_empujari,12=item_force_empujarii,#

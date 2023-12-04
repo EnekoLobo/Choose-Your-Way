@@ -1,0 +1,123 @@
+Tue Nov 28 13:24:21 2023	LOBO (STEAM_0:0:551085146) has joined the game
+Tue Nov 28 13:24:21 2023	Rubi (STEAM_0:0:551085146) spawned
+Tue Nov 28 13:24:46 2023	Rubi Sarn (STEAM_0:0:551085146) spawned
+Tue Nov 28 13:26:02 2023	ben tibu (STEAM_0:0:551085146) spawned
+Tue Nov 28 13:26:25 2023	Rubi Sarn (STEAM_0:0:551085146) spawned
+Tue Nov 28 13:26:51 2023	ben tibu (STEAM_0:0:551085146) spawned
+Tue Nov 28 13:28:03 2023	Rubi Sarn (STEAM_0:0:551085146) spawned
+Tue Nov 28 13:46:25 2023	Rubi Sarn (STEAM_0:0:551085146) disconnected
+Tue Nov 28 16:02:07 2023	LOBO (STEAM_0:0:551085146) has joined the game
+Tue Nov 28 16:02:07 2023	Rubi (STEAM_0:0:551085146) spawned
+Tue Nov 28 16:02:31 2023	Rubi Sarn (STEAM_0:0:551085146) spawned
+Tue Nov 28 16:07:22 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
+Tue Nov 28 16:07:22 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov 28 16:07:42 2023	Startrick17 (STEAM_0:0:159218877) has joined the game
+Tue Nov 28 16:07:42 2023	Tte Straw Berry was killed by Himself with a suicide trick
+Tue Nov 28 16:07:42 2023	Nathaniel Lambert (STEAM_0:0:159218877) spawned
+Tue Nov 28 16:08:11 2023	Nathaniel Lambert (STEAM_0:0:159218877) spawned
+Tue Nov 28 16:10:50 2023	Rubi Sarn (STEAM_0:0:551085146) spawned SENT item_force_throw
+Tue Nov 28 16:12:19 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov 28 16:12:33 2023	aslang_alai (STEAM_0:0:547913633) has joined the game
+Tue Nov 28 16:12:33 2023	Tte Straw Berry was killed by Himself with a suicide trick
+Tue Nov 28 16:12:33 2023	Darth Tyranidus (STEAM_0:0:547913633) spawned
+Tue Nov 28 16:12:43 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov 28 16:13:15 2023	Nition Azala (STEAM_0:0:547913633) spawned
+Tue Nov 28 16:15:09 2023	Rubi Sarn (STEAM_0:0:551085146): !ss
+Tue Nov 28 16:15:16 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:17:14 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov 28 16:17:14 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:17:22 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:17:22 2023	Nition Azala was killed by Nathaniel Lambert with a weapon_lscs
+Tue Nov 28 16:17:36 2023	Nition Azala (STEAM_0:0:547913633): //estoy muy desentrenado xd
+Tue Nov 28 16:17:41 2023	Tte Straw Berry (STEAM_0:0:142640452): //escucha una pregunta
+Tue Nov 28 16:17:43 2023	Nition Azala (STEAM_0:0:547913633): 
+Tue Nov 28 16:17:50 2023	Tte Straw Berry (STEAM_0:0:142640452): //donde espawneais los jedi y eso
+Tue Nov 28 16:17:50 2023	Nition Azala (STEAM_0:0:547913633) spawned
+Tue Nov 28 16:17:57 2023	Nition Azala (STEAM_0:0:547913633): //en la biblioteca
+Tue Nov 28 16:19:52 2023	Power (STEAM_0:0:596592151) has joined the game
+Tue Nov 28 16:19:52 2023	Luna Pavlichenko (STEAM_0:0:596592151) spawned
+Tue Nov 28 16:20:53 2023	Flowchris (STEAM_0:0:240467101) has joined the game
+Tue Nov 28 16:20:53 2023	Luna Pavlichenko was killed by Himself with a suicide trick
+Tue Nov 28 16:20:53 2023	Christian Barton (STEAM_0:0:240467101) spawned
+Tue Nov 28 16:21:18 2023	Rubi Sarn was killed by Himself with a suicide trick
+Tue Nov 28 16:21:28 2023	Rubi Sarn (STEAM_0:0:551085146) spawned
+Tue Nov 28 16:21:40 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Tue Nov 28 16:21:40 2023	Maestra Consul Hextar (STEAM_0:0:635224977) spawned
+Tue Nov 28 16:21:53 2023	Christian  (STEAM_0:0:240467101) spawned
+Tue Nov 28 16:22:12 2023	Christian  (STEAM_0:0:240467101): 
+Tue Nov 28 16:22:31 2023	Luna Pavlichenko (STEAM_0:0:596592151) spawned
+Tue Nov 28 16:22:38 2023	Luna Pavlichenko (STEAM_0:0:596592151): /A Wtfa ¿cambiaron el Spawn ?
+Tue Nov 28 16:22:52 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:23:03 2023	Shouko Nishi (STEAM_0:0:596592151) spawned
+Tue Nov 28 16:23:27 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Tue Nov 28 16:23:27 2023	Quester (STEAM_0:0:63793651) spawned
+Tue Nov 28 16:23:33 2023	Shouko Nishi (STEAM_0:0:596592151): /rpdesc
+Tue Nov 28 16:23:53 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
+Tue Nov 28 16:23:56 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:24:02 2023	Darth Ma`k (STEAM_0:0:63793651): !mrs
+Tue Nov 28 16:24:13 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Tue Nov 28 16:24:35 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:24:45 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:25:21 2023	Shouko Nishi (STEAM_0:0:596592151): /A tengo miedo, estoy rodeada de Admins jaja
+Tue Nov 28 16:25:37 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:25:37 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:25:48 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:25:48 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:25:50 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:25:50 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:26:07 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:26:07 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:26:25 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:26:47 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:26:47 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:26:52 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov 28 16:26:52 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:27:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:27:01 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:27:20 2023	Violet Hextar was killed by Himself with a suicide trick
+Tue Nov 28 16:27:20 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:27:31 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Tue Nov 28 16:27:34 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:27:34 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:27:42 2023	Violet Hextar (STEAM_0:0:635224977): /pm chris si
+Tue Nov 28 16:27:48 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:27:48 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:27:50 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:27:50 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:27:52 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:27:52 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:28:34 2023	Darth Ma`k (STEAM_0:0:63793651) spawned SENT brickscrafting_bench_weapons
+Tue Nov 28 16:28:47 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:28:47 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:28:54 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
+Tue Nov 28 16:28:54 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:29:06 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:29:06 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:29:12 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:29:12 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:29:25 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:29:27 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:29:27 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:30:07 2023	Nition Azala (STEAM_0:0:547913633): //van a hacer que haya varios
+Tue Nov 28 16:30:15 2023	Nition Azala (STEAM_0:0:547913633): //a si que no deberias de tener problemas
+Tue Nov 28 16:30:22 2023	Nathaniel Lambert (STEAM_0:0:159218877): //Ah, bien, así aprendo lo que me falta
+Tue Nov 28 16:31:10 2023	Nition Azala (STEAM_0:0:547913633) disconnected
+Tue Nov 28 16:31:19 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:31:19 2023	Violet Hextar (STEAM_0:0:635224977): 
+Tue Nov 28 16:31:22 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:31:22 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:32:20 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:32:20 2023	Darth Ma`k (STEAM_0:0:63793651): 
+Tue Nov 28 16:32:25 2023	Christian  (STEAM_0:0:240467101) disconnected
+Tue Nov 28 16:32:56 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:32:56 2023	Tte Straw Berry (STEAM_0:0:142640452): 
+Tue Nov 28 16:33:19 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Tue Nov 28 16:36:23 2023	Darth Ma`k (STEAM_0:0:63793651) disconnected
+Tue Nov 28 16:41:06 2023	Shouko Nishi (STEAM_0:0:596592151) disconnected
+Tue Nov 28 16:47:15 2023	Gatku (STEAM_0:0:153814350) has joined the game
+Tue Nov 28 16:47:15 2023	Gatku Adenn (STEAM_0:0:153814350) spawned
+Tue Nov 28 16:48:12 2023	Encapuchado Gatku (STEAM_0:0:153814350) spawned
+Tue Nov 28 16:52:24 2023	Gatku Adenn (STEAM_0:0:153814350) disconnected
+Tue Nov 28 16:52:45 2023	Nathaniel Lambert (STEAM_0:0:159218877) disconnected
+Tue Nov 28 16:52:52 2023	Rubi Sarn (STEAM_0:0:551085146) disconnected
+Tue Nov 28 16:52:59 2023	Tte Straw Berry (STEAM_0:0:142640452) disconnected

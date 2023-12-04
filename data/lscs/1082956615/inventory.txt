@@ -1,0 +1,1 @@
+1=item_stance_shiicho2,2=item_stance_makashi,3=item_stance_soresu,4=item_crystal_rubin,5=item_saberhilt_ani1,6=item_force_jump,7=item_saberhilt_swtor10,8=item_crystal_orange,#1=0,6=0,7=0,8=0,

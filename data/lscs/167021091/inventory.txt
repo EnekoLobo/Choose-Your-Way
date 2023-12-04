@@ -1,0 +1,1 @@
+1=item_crystal_rubin,2=item_crystal_redinner,3=item_stance_shiicho2,4=item_force_jump,#2=0,3=0,4=0,

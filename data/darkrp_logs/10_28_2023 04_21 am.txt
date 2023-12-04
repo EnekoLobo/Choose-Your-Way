@@ -1,0 +1,417 @@
+Sat Oct 28 04:21:26 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Sat Oct 28 04:21:26 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 04:21:45 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Sat Oct 28 04:21:45 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 04:21:59 2023	A1 Epsilon (STEAM_0:0:63793651) disconnected
+Sat Oct 28 04:22:16 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 04:22:35 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Sat Oct 28 04:22:35 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 04:24:05 2023	A1 Epsilon (STEAM_0:0:63793651) disconnected
+Sat Oct 28 04:24:10 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) disconnected
+Sat Oct 28 04:24:23 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Sat Oct 28 04:24:23 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:24:39 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Sat Oct 28 04:26:23 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Sat Oct 28 04:26:23 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:26:56 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Sat Oct 28 04:26:56 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:26:56 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Sat Oct 28 04:26:56 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 04:27:04 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Sat Oct 28 04:27:04 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 04:27:21 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 04:27:50 2023	Violet Hextar (STEAM_0:0:635224977): yo no hice freeze
+Sat Oct 28 04:28:05 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:28:11 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:28:21 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 04:28:26 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:28:48 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:28:48 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 04:28:58 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 04:29:19 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:29:21 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:29:31 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:29:33 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:29:39 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:29:40 2023	Violet Hextar (STEAM_0:0:635224977): que raro
+Sat Oct 28 04:30:14 2023	Violet Hextar (STEAM_0:0:635224977): en el f4 no sale maestro jedi
+Sat Oct 28 04:30:18 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:30:26 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:30:37 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:30:41 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:30:42 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:31:59 2023	Violet Hextar (STEAM_0:0:635224977): archer whats
+Sat Oct 28 04:34:36 2023	Flowchris (STEAM_0:0:240467101) has joined the game
+Sat Oct 28 04:34:36 2023	Flowchris (STEAM_0:0:240467101) spawned
+Sat Oct 28 04:35:10 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:22 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:35:22 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:24 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:36 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:35:39 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:40 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:41 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:41 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:42 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:43 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:44 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:44 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:45 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:46 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:46 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:47 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:35:48 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:36:19 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:36:28 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_healthkit
+Sat Oct 28 04:36:28 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_healthkit
+Sat Oct 28 04:36:30 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_healthkit
+Sat Oct 28 04:36:30 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_healthkit
+Sat Oct 28 04:36:31 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_healthkit
+Sat Oct 28 04:36:32 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_healthkit
+Sat Oct 28 04:36:33 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_ammo_smg1_grenade
+Sat Oct 28 04:36:33 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_ammo_smg1_grenade
+Sat Oct 28 04:36:34 2023	David Antonio (STEAM_0:0:142640452) spawned SENT item_battery
+Sat Oct 28 04:37:15 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:37:21 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 04:37:51 2023	Flowchris (STEAM_0:0:240467101) spawned
+Sat Oct 28 04:37:53 2023	Flowchris (STEAM_0:0:240467101): 
+Sat Oct 28 04:39:13 2023	Flowchris (STEAM_0:0:240467101) spawned SENT pfx5_00_ss
+Sat Oct 28 04:39:27 2023	Violet Hextar (STEAM_0:0:635224977): Hola
+Sat Oct 28 04:39:48 2023	Violet Hextar (STEAM_0:0:635224977): Perdon
+Sat Oct 28 04:40:37 2023	Flowchris (STEAM_0:0:240467101) spawned SENT pfx5_00_alt
+Sat Oct 28 04:41:14 2023	Flowchris (STEAM_0:0:240467101) spawned SENT delta7
+Sat Oct 28 04:41:17 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:41:24 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:41:40 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Sat Oct 28 04:41:47 2023	Flowchris (STEAM_0:0:240467101) spawned
+Sat Oct 28 04:42:47 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Sat Oct 28 04:42:47 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:43:33 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:44:12 2023	A1 Epsilon (STEAM_0:0:63793651) spawned SENT item_saberhilt_cw26
+Sat Oct 28 04:44:15 2023	A1 Epsilon (STEAM_0:0:63793651) spawned SENT item_saberhilt_cw25
+Sat Oct 28 04:44:26 2023	A1 Epsilon (STEAM_0:0:63793651) spawned SENT item_saberhilt_swtors2
+Sat Oct 28 04:44:30 2023	A1 Epsilon (STEAM_0:0:63793651) spawned SENT item_saberhilt_swtor2
+Sat Oct 28 04:44:50 2023	A1 Epsilon (STEAM_0:0:63793651) spawned SENT item_crystal_orange
+Sat Oct 28 04:45:21 2023	A1 Epsilon (STEAM_0:0:63793651) spawned SENT item_crystal_rubin
+Sat Oct 28 04:45:41 2023	Violet Hextar (STEAM_0:0:635224977): no me deja pillar el job jajaj
+Sat Oct 28 04:46:12 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:46:28 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lfs-rep-troop-transport
+Sat Oct 28 04:46:37 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:46:43 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 04:46:45 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_niksacokica_scavenger_speeder
+Sat Oct 28 04:46:49 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:47:29 2023	David Antonio (STEAM_0:0:142640452) spawned SENT tkaro_lfs_liberator
+Sat Oct 28 04:48:27 2023	David Antonio was killed by Flowchris with a tkaro_lfs_liberator
+Sat Oct 28 04:48:31 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:48:31 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:48:34 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:48:40 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_corvette_fury_class
+Sat Oct 28 04:48:41 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_navy_wandere_class
+Sat Oct 28 04:48:43 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_navy_gage_class
+Sat Oct 28 04:48:47 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_navy_gage_class
+Sat Oct 28 04:48:48 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_corvette_defender_class
+Sat Oct 28 04:48:52 2023	Violet Hextar (STEAM_0:0:635224977): david
+Sat Oct 28 04:48:54 2023	Violet Hextar (STEAM_0:0:635224977): ven
+Sat Oct 28 04:49:23 2023	David Antonio (STEAM_0:0:142640452) spawned SENT canofen_navy_wandere_class
+Sat Oct 28 04:49:35 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:49:54 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_b4d_legion
+Sat Oct 28 04:49:55 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_b5_decimus
+Sat Oct 28 04:49:57 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft2_quell
+Sat Oct 28 04:49:57 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft6_rycer
+Sat Oct 28 04:49:58 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_flashfire
+Sat Oct 28 04:49:59 2023	Flowchris (STEAM_0:0:240467101) spawned SENT tx130
+Sat Oct 28 04:49:59 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft3c_imperium
+Sat Oct 28 04:50:00 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft6_pike
+Sat Oct 28 04:50:01 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft7b_clarion
+Sat Oct 28 04:50:02 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_ft8_starguard
+Sat Oct 28 04:50:03 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_gss3_mangler
+Sat Oct 28 04:50:09 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_warcarrier
+Sat Oct 28 04:50:11 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_spearpoint
+Sat Oct 28 04:50:11 2023	A1 Epsilon (STEAM_0:0:63793651) disconnected
+Sat Oct 28 04:50:12 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_sledgehammer
+Sat Oct 28 04:50:13 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_s12_blackbolt
+Sat Oct 28 04:50:14 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_s13_sting
+Sat Oct 28 04:50:15 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_s13_sting
+Sat Oct 28 04:50:16 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_sgs45_quarrel
+Sat Oct 28 04:50:24 2023	David Antonio (STEAM_0:0:142640452) spawned SENT czerka_cruiser
+Sat Oct 28 04:50:25 2023	David Antonio (STEAM_0:0:142640452) spawned SENT longspur
+Sat Oct 28 04:50:29 2023	David Antonio was killed by Himself with a suicide trick
+Sat Oct 28 04:50:32 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:50:32 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 04:50:40 2023	David Antonio (STEAM_0:0:142640452) spawned SENT a-wing
+Sat Oct 28 04:50:43 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 04:50:47 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_awing
+Sat Oct 28 04:51:04 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:51:33 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Sat Oct 28 04:51:50 2023	Flowchris was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 04:52:09 2023	Flowchris (STEAM_0:0:240467101) disconnected
+Sat Oct 28 04:52:18 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_niksacokica_scavenger_speeder
+Sat Oct 28 04:52:19 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_niksacokica_skiff
+Sat Oct 28 04:52:25 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_niksacokica_bracca_barge
+Sat Oct 28 04:52:46 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Sat Oct 28 04:52:46 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Sat Oct 28 04:52:46 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 04:54:24 2023	Eneko (STEAM_0:0:63793651) has joined the game
+Sat Oct 28 04:54:24 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 04:55:27 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:55:34 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:55:35 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:56:11 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:56:13 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:56:16 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:56:18 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:57:05 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:57:07 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:58:45 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:58:46 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:58:50 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:58:51 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:58:56 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:59:05 2023	Luki (STEAM_0:1:447559192) has joined the game
+Sat Oct 28 04:59:05 2023	Simon (STEAM_0:1:447559192) spawned
+Sat Oct 28 04:59:33 2023	A1 Epsilon was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 04:59:43 2023	A1 Epsilon (STEAM_0:0:63793651) spawned
+Sat Oct 28 04:59:47 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 04:59:57 2023	A1 Epsilon (STEAM_0:0:63793651): 
+Sat Oct 28 05:00:06 2023	Simon (STEAM_0:1:447559192): /name  Luky Sylvasta
+Sat Oct 28 05:00:12 2023	A1 Epsilon (STEAM_0:0:63793651): /name Kraigor Prime
+Sat Oct 28 05:00:20 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:00:33 2023	Kraigor Prime (STEAM_0:0:63793651) spawned SENT item_stance_niman
+Sat Oct 28 05:00:36 2023	Kraigor Prime (STEAM_0:0:63793651) spawned SENT item_stance_makashi
+Sat Oct 28 05:00:52 2023	Luky Sylvasta (STEAM_0:1:447559192): /goto K
+Sat Oct 28 05:01:00 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:01:12 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:01:14 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:01:20 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:01:21 2023	Kraigor Prime was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 05:01:25 2023	Kraigor Prime (STEAM_0:0:63793651) spawned
+Sat Oct 28 05:01:25 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:01:26 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:01:29 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:01:53 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:02:11 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:02:14 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:02:16 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:02:48 2023	Luky Sylvasta was killed by Kraigor Prime with a weapon_lscs
+Sat Oct 28 05:02:59 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:03:09 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:03:15 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:03:20 2023	Luky Sylvasta was killed by Kraigor Prime with a weapon_lscs
+Sat Oct 28 05:03:52 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:03:55 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:03:58 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:04:38 2023	Violet Hextar (STEAM_0:0:635224977): ^
+Sat Oct 28 05:04:42 2023	Kraigor Prime (STEAM_0:0:63793651): <>
+Sat Oct 28 05:06:10 2023	Violet Hextar was killed by Luky Sylvasta with a weapon_lscs
+Sat Oct 28 05:06:17 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 05:06:17 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:06:30 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 05:06:55 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:07:03 2023	Luky Sylvasta was killed by Kraigor Prime with a weapon_lscs
+Sat Oct 28 05:07:13 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:07:13 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:07:17 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:07:23 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_zhrom2
+Sat Oct 28 05:07:25 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_zhrom4
+Sat Oct 28 05:07:28 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_swtor4
+Sat Oct 28 05:07:33 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_cw4
+Sat Oct 28 05:07:36 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_cw4
+Sat Oct 28 05:07:40 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_commonr
+Sat Oct 28 05:07:45 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_saberhilt_cw9
+Sat Oct 28 05:08:05 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_niman
+Sat Oct 28 05:08:08 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_djemso
+Sat Oct 28 05:08:28 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:09:16 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_crystal_sentinelpike
+Sat Oct 28 05:09:20 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_crystal_sith
+Sat Oct 28 05:09:23 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_crystal_rubin
+Sat Oct 28 05:09:24 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_crystal_nanoparticles
+Sat Oct 28 05:09:27 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_crystal_cyaninner
+Sat Oct 28 05:09:29 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_crystal_blueinner
+Sat Oct 28 05:09:52 2023	Violet Hextar was killed by Kraigor Prime with a weapon_lscs
+Sat Oct 28 05:09:58 2023	Violet Hextar (STEAM_0:0:635224977): !resapwn
+Sat Oct 28 05:10:03 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 05:10:03 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:10:07 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:10:09 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:10:19 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_shiicho2
+Sat Oct 28 05:10:34 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_shiicho
+Sat Oct 28 05:10:35 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_makashi
+Sat Oct 28 05:10:36 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_soresu
+Sat Oct 28 05:10:38 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_ataru
+Sat Oct 28 05:10:40 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_djemso
+Sat Oct 28 05:10:42 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_niman
+Sat Oct 28 05:10:43 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_juyo
+Sat Oct 28 05:10:44 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_force_push
+Sat Oct 28 05:10:44 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_juggernaut
+Sat Oct 28 05:10:47 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_untrained
+Sat Oct 28 05:10:48 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_yongli
+Sat Oct 28 05:11:17 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned NPC npc_citizen
+Sat Oct 28 05:11:47 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_yongli
+Sat Oct 28 05:11:47 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_untrained
+Sat Oct 28 05:11:48 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_juggernaut
+Sat Oct 28 05:11:51 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_makashi
+Sat Oct 28 05:11:52 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_shiicho
+Sat Oct 28 05:11:53 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT item_stance_shiicho2
+Sat Oct 28 05:12:22 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:12:22 2023	Kraigor Prime (STEAM_0:0:63793651): 
+Sat Oct 28 05:15:42 2023	Kraigor Prime (STEAM_0:0:63793651) disconnected
+Sat Oct 28 05:16:58 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_yongli
+Sat Oct 28 05:17:02 2023	Violet Hextar (STEAM_0:0:635224977) spawned SENT item_stance_juggernaut
+Sat Oct 28 05:17:21 2023	Violet Hextar (STEAM_0:0:635224977) spawned NPC npc_combine_s
+Sat Oct 28 05:19:34 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:20:49 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:20:49 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 05:21:59 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:22:17 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:22:44 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:22:55 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:23:05 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) disconnected
+Sat Oct 28 05:24:51 2023	Clon Explorer (STEAM_0:1:92548084) has joined the game
+Sat Oct 28 05:24:51 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:25:30 2023	Gran Maestro Neverlander (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:26:18 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 05:27:02 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Sat Oct 28 05:27:02 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:27:49 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:28:16 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:29:17 2023	David Antonio was killed by Violet Hextar with a rw_sw_dp23
+Sat Oct 28 05:29:20 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:29:20 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:29:42 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:29:47 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:30:01 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): 
+Sat Oct 28 05:30:06 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:30:11 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:30:34 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:30:44 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:30:50 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:31:51 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:31:52 2023	David Antonio was killed by Violet Hextar with a weapon_lscs
+Sat Oct 28 05:31:54 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:31:54 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:32:50 2023	Gran Maestro Neverlander (STEAM_0:1:92548084): /name Arrow
+Sat Oct 28 05:34:18 2023	Luky Sylvasta (STEAM_0:1:447559192): +
+Sat Oct 28 05:34:23 2023	Luky Sylvasta (STEAM_0:1:447559192): +
+Sat Oct 28 05:34:45 2023	Arrow was killed by David Antonio with a rw_sw_z6
+Sat Oct 28 05:34:52 2023	Arrow (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:34:52 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:35:05 2023	Luky Sylvasta was killed by Violet Hextar with a weapon_lscs
+Sat Oct 28 05:35:26 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:35:29 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:35:34 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:35:40 2023	David Antonio was killed by Luky Sylvasta with a weapon_lscs
+Sat Oct 28 05:35:42 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:35:46 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:35:46 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:36:19 2023	David Antonio was killed by Arrow with a rw_sw_dual_westar34
+Sat Oct 28 05:36:22 2023	Violet Hextar (STEAM_0:0:635224977): !medico
+Sat Oct 28 05:36:30 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:36:30 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:36:37 2023	Arrow was killed by Luky Sylvasta with a weapon_lscs
+Sat Oct 28 05:36:40 2023	David Antonio was killed by Luky Sylvasta with a weapon_lscs
+Sat Oct 28 05:36:43 2023	Arrow (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:36:43 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:36:45 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:36:45 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:36:45 2023	Luky Sylvasta was killed by Violet Hextar with a weapon_lscs
+Sat Oct 28 05:36:56 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:36:58 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:37:12 2023	Arrow was killed by David Antonio with a rw_sw_tusken_cycler
+Sat Oct 28 05:37:19 2023	Arrow (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:37:19 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:37:23 2023	David Antonio was killed by Violet Hextar with a weapon_lscs
+Sat Oct 28 05:37:24 2023	David Antonio (STEAM_0:0:142640452) spawned SENT rw_sw_dispencer_rocket
+Sat Oct 28 05:37:32 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:37:32 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:37:37 2023	Violet Hextar was killed by Luky Sylvasta with a rw_sw_cr2
+Sat Oct 28 05:37:48 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 05:37:54 2023	Luky Sylvasta was killed by Arrow with a tfa_spas_swtor_piratecarbine
+Sat Oct 28 05:37:54 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:37:57 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:38:04 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:38:07 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:38:08 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:39:01 2023	David Antonio (STEAM_0:0:142640452) spawned SENT rw_sw_dispencer_allammo
+Sat Oct 28 05:39:08 2023	David Antonio was killed by Luky Sylvasta with a rw_sw_huntershotgun
+Sat Oct 28 05:39:10 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:39:10 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:39:32 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT lunasflightschool_wwing
+Sat Oct 28 05:40:07 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT lunasflightschool_tie_oppressor
+Sat Oct 28 05:40:15 2023	David Antonio was killed by Arrow with a rw_sw_huntershotgun
+Sat Oct 28 05:40:31 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:40:31 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:40:50 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_alligator
+Sat Oct 28 05:40:54 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT lunasflightschool_geo
+Sat Oct 28 05:41:30 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT lunasflightschool_t42
+Sat Oct 28 05:41:30 2023	Violet Hextar (STEAM_0:0:635224977): cabrones
+Sat Oct 28 05:41:33 2023	David Antonio was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 05:41:34 2023	Violet Hextar (STEAM_0:0:635224977): quitarme el freeeze
+Sat Oct 28 05:41:35 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:41:35 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:41:45 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiairturret
+Sat Oct 28 05:42:05 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT fp_assaultf
+Sat Oct 28 05:42:09 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiinfantryturret
+Sat Oct 28 05:42:09 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT fp_mc30
+Sat Oct 28 05:42:14 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:42:25 2023	Arrow was killed by David Antonio with a rw_sw_dc15a
+Sat Oct 28 05:42:25 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT bsp_interdictor
+Sat Oct 28 05:42:29 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiairturret
+Sat Oct 28 05:42:37 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:42:49 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT ewing
+Sat Oct 28 05:42:51 2023	Arrow (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:42:57 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:43:04 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:43:12 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT rebdropship
+Sat Oct 28 05:43:13 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_antiairturret
+Sat Oct 28 05:43:25 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:43:45 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT csp_geodreadnauhgt
+Sat Oct 28 05:43:54 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:43:56 2023	David Antonio (STEAM_0:0:142640452) spawned SENT lunasflightschool_cr90
+Sat Oct 28 05:43:59 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned SENT bsp_mcruiser
+Sat Oct 28 05:44:36 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:45:03 2023	David Antonio was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 05:45:05 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:45:05 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:45:28 2023	David Antonio was killed by Arrow with a rw_sw_scattershotgun
+Sat Oct 28 05:45:31 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:45:31 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:45:36 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:45:42 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:45:43 2023	Luky Sylvasta was killed by David Antonio with a rw_sw_stun_dc17
+Sat Oct 28 05:45:53 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:45:56 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:45:58 2023	David Antonio was killed by Arrow with a rw_sw_scattershotgun
+Sat Oct 28 05:45:59 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:46:00 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:46:00 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:46:14 2023	David Antonio was killed by Luky Sylvasta with a weapon_lscs
+Sat Oct 28 05:46:16 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:46:16 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:46:36 2023	Violet Hextar (STEAM_0:0:635224977) disconnected
+Sat Oct 28 05:47:39 2023	Arrow was killed by Luky Sylvasta with a weapon_lscs
+Sat Oct 28 05:47:46 2023	Arrow (STEAM_0:1:92548084) spawned
+Sat Oct 28 05:47:47 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:48:02 2023	Arrow (STEAM_0:1:92548084): 
+Sat Oct 28 05:48:27 2023	Luky Sylvasta was killed by Arrow with a tfa_spas_swtor_piratecarbine
+Sat Oct 28 05:48:31 2023	David Antonio was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 28 05:48:33 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:48:33 2023	David Antonio (STEAM_0:0:142640452): 
+Sat Oct 28 05:48:38 2023	Luky Sylvasta (STEAM_0:1:447559192) spawned
+Sat Oct 28 05:48:44 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:48:47 2023	David Antonio (STEAM_0:0:142640452) disconnected
+Sat Oct 28 05:48:48 2023	Luky Sylvasta (STEAM_0:1:447559192): 
+Sat Oct 28 05:49:02 2023	Luky Sylvasta (STEAM_0:1:447559192) disconnected
+Sat Oct 28 05:50:08 2023	Arrow (STEAM_0:1:92548084) disconnected
+Sat Oct 28 05:51:18 2023	Spooky Davisito23 (STEAM_0:0:142640452) has joined the game
+Sat Oct 28 05:51:18 2023	David Antonio (STEAM_0:0:142640452) spawned
+Sat Oct 28 05:52:14 2023	FairyLeuret (STEAM_0:0:635224977) has joined the game
+Sat Oct 28 05:52:14 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 05:53:13 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:53:14 2023	Violet Hextar (STEAM_0:0:635224977) spawned
+Sat Oct 28 05:53:17 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:53:23 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:53:28 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:58:34 2023	Violet Hextar (STEAM_0:0:635224977): 
+Sat Oct 28 05:58:38 2023	Violet Hextar (STEAM_0:0:635224977): que es esto?
+Sat Oct 28 05:58:45 2023	Violet Hextar (STEAM_0:0:635224977): porque hay una puta pared
+Sat Oct 28 05:59:28 2023	Violet Hextar (STEAM_0:0:635224977): ya le habia dado...

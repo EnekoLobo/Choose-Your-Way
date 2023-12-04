@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"            "TebexGmod"
+	"version"         "0.4"
+	"up_date"         "13/08/2022"
+	"author_name"     "Tebex"
+	"author_email"    "liam@tebex.co.uk"
+	"author_url"      "https://www.tebex.io/"
+}
