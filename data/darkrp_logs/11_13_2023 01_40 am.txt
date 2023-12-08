@@ -1,8 +1,0 @@
-Mon Nov 13 01:40:58 2023	Eneko (STEAM_0:0:63793651) has joined the game
-Mon Nov 13 01:40:58 2023	Massif (STEAM_0:0:63793651) spawned
-Mon Nov 13 01:41:11 2023	Massif (STEAM_0:0:63793651): !donate
-Mon Nov 13 01:44:03 2023	Massif (STEAM_0:0:63793651): 
-Mon Nov 13 02:08:56 2023	Massif (STEAM_0:0:63793651): 
-Mon Nov 13 02:12:08 2023	Massif (STEAM_0:0:63793651): 
-Mon Nov 13 02:13:27 2023	Massif (STEAM_0:0:63793651): !men
-Mon Nov 13 02:13:29 2023	Massif (STEAM_0:0:63793651): 

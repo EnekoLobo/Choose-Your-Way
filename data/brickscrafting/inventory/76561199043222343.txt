@@ -1,1 +1,0 @@
-{"Resources":{"Scrap":0.0,"Plastico":0.0}}

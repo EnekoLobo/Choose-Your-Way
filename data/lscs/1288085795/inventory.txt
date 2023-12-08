@@ -1,1 +1,0 @@
-1=item_stance_shiicho2,2=item_stance_makashi,3=item_stance_soresu,4=item_force_jump,5=item_force_heali,6=item_crystal_smaragd,7=item_saberhilt_common,8=item_stance_ataru,9=item_stance_djemso,10=item_stance_niman,11=item_stance_butterfly,#2=0,4=0,5=0,6=0,7=0,8=0,9=0,10=0,11=0,

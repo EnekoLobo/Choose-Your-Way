@@ -1,1 +1,0 @@
-{"cfg":{"buyEnabled":false,"secret":"4872e8bc54c84e8b332667ad9ba45b76c1825ed4","buyCommand":"!donate","baseUrl":"https://plugin.buycraft.net"}}

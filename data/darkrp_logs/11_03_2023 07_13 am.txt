@@ -1,7 +1,0 @@
-Fri Nov  3 07:13:34 2023	✠Davisito23✠ (STEAM_0:0:142640452) has joined the game
-Fri Nov  3 07:13:34 2023	David Antonio (STEAM_0:0:142640452) spawned
-Fri Nov  3 07:13:51 2023	David Antonio (STEAM_0:0:142640452): /advert hola
-Fri Nov  3 07:14:12 2023	David Antonio (STEAM_0:0:142640452): !commands
-Fri Nov  3 07:15:52 2023	Eneko (STEAM_0:0:63793651) has joined the game
-Fri Nov  3 07:15:52 2023	Irindor Prime (STEAM_0:0:63793651) spawned
-Fri Nov  3 07:16:30 2023	Irindor Prime (STEAM_0:0:63793651): !commands

@@ -1,1 +1,0 @@
-{"Resources":{"Ruby":0.0,"Hierro":8.0,"Madera":49.0,"Cobre":19.0,"Plastico":92.0,"Diamond":0.0,"Scrap":55.0}}

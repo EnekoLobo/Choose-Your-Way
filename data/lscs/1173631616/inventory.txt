@@ -1,1 +1,0 @@
-1=item_force_jump,2=item_force_velocidadi,3=item_stance_makashi,4=item_stance_shiicho,5=item_stance_soresu,6=item_stance_ataru,7=item_stance_djemso,8=item_stance_niman,9=item_crystal_rubin,10=item_saberhilt_ani1,#1=0,4=0,10=0,9=0,

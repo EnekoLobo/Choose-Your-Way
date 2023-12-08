@@ -1,5 +1,0 @@
-Thu Nov 16 05:03:14 2023	Eneko (STEAM_0:0:63793651) has joined the game
-Thu Nov 16 05:03:14 2023	Quester (STEAM_0:0:63793651) spawned
-Thu Nov 16 05:03:53 2023	Quester (STEAM_0:0:63793651) disconnected
-Thu Nov 16 05:04:33 2023	Eneko (STEAM_0:0:63793651) has joined the game
-Thu Nov 16 05:04:33 2023	Quester (STEAM_0:0:63793651) spawned

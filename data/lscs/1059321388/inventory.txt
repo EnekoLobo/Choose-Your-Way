@@ -1,1 +1,0 @@
-1=item_stance_juggernaut,2=item_saberhilt_common,3=item_crystal_allnatt,#1=0,2=0,3=0,

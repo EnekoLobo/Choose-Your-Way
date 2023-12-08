@@ -1,1 +1,0 @@
-ValveBiped.Anim_Attachment_LH

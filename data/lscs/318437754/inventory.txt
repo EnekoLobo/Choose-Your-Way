@@ -1,1 +1,0 @@
-1=item_stance_shiicho2,2=item_stance_makashi,3=item_stance_soresu,4=item_force_jump,5=item_crystal_lightblue,6=item_saberhilt_ani1,7=item_stance_ataru,8=item_force_heali,9=item_stance_djemso,10=item_force_push,11=item_force_pull,12=item_stance_butterfly,13=item_crystal_lightblue,14=item_saberhilt_cw1,15=item_stance_niman,#3=0,4=0,5=0,6=0,7=0,8=0,10=0,11=0,12=0,13=1,14=1,

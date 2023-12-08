@@ -1,9 +1,0 @@
-Wed Nov 22 17:18:06 2023	Eneko (STEAM_0:0:63793651) has joined the game
-Wed Nov 22 17:18:06 2023	Quester (STEAM_0:0:63793651) spawned
-Wed Nov 22 17:18:42 2023	Darth Ma`k (STEAM_0:0:63793651) spawned
-Wed Nov 22 17:22:48 2023	Darth Ma`k (STEAM_0:0:63793651): aaa
-Wed Nov 22 17:23:25 2023	Davisito23 (STEAM_0:0:142640452) has joined the game
-Wed Nov 22 17:23:25 2023	Tte Straw Berry (STEAM_0:0:142640452) spawned
-Wed Nov 22 17:23:58 2023	Straw berry (STEAM_0:0:142640452) spawned
-Wed Nov 22 17:24:06 2023	Straw berry (STEAM_0:0:142640452): 
-Wed Nov 22 17:24:25 2023	Straw berry (STEAM_0:0:142640452) disconnected

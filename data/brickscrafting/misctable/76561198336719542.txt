@@ -1,1 +1,0 @@
-{"Quests":[{"Status":false,"Progress":{"Resource":{"Scrap":3.0}}},{"Status":true,"Time":1700770195.0}]}

@@ -1,1 +1,0 @@
-[{"1":"Model","2":["models/player/swtor/arsenic/talosstormcrown/talosstormcrown.mdl"],"3":["Rubi Skin","models/player/swtor/arsenic/talosstormcrown/talosstormcrown.mdl","Skin Rubi"],"Active":true}]

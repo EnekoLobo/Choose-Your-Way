@@ -1,1 +1,0 @@
-1=item_stance_shiicho2,2=item_stance_makashi,#1=0,2=0,

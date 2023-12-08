@@ -1,1 +1,0 @@
-1=item_stance_shiicho2,2=item_stance_makashi,3=item_stance_soresu,4=item_force_heal,5=item_force_jump,6=item_crystal_pink,7=item_saberhilt_common,8=item_saberhilt_swtor11,9=item_crystal_allnatt,#2=0,3=0,4=0,5=0,6=0,8=0,

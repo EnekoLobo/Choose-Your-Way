@@ -1,1 +1,0 @@
-[{"1":"Model","2":["models/konnie/starwars/starkiller_apprentice.mdl"],"3":["Skin Tiburex","models/konnie/starwars/starkiller_apprentice.mdl","Skin Custom de Tiburex"],"Active":true}]
